@@ -1,13 +1,21 @@
 2017/09/12 * Opening Balance
 	Assets:college     $12549.77
-	Assets:wf checking     $2000
-	Assets:wf savings     $450.03
+	Assets:wf checking     $1966.10
+	Assets:wf savings     $433.80
 	Assets:msefcu checking     $1000
 	Assets:msefcu savings     $500
-	Assets:g1 checking     $300
-	Assets:g1 savings     $50
-	Assets:cash     $40
-	Liabilities:costco visa     $5000
-	Liabilities:citibank mc     $2000
-	Liabilities:amex blue     $2100
+	Assets:g1 checking     $583.61
+	Assets:g1 savings     $55
+	Assets:cash     $9
+	Liabilities:costco visa     $5562.11
+	Liabilities:citibank mc     $1796.21
+	Liabilities:amex blue     $5483.56
+
+2017/09/12 UCSB
+	Expenses:College	$5823.16
+	Assets:college
+
+2017/09/15 Winco Foods
+	Expenses:Groceries	$80.80
+	Assets:wf checking
 
