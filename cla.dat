@@ -6,7 +6,7 @@
 	Assets:msefcu savings     $500
 	Assets:g1 checking     $300
 	Assets:g1 savings     $50
-	Assets:cash
+	Assets:cash     $40
 	Liabilities:costco visa     $5000
 	Liabilities:citibank mc     $2000
 	Liabilities:amex blue     $2100
