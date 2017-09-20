@@ -6,7 +6,7 @@
 	Assets:msefcu savings     $500
 	Assets:g1 checking     $583.61
 	Assets:g1 savings     $55
-	Assets:cash     $9
+	Assets:cash     $29
 	Liabilities:costco visa     $5562.11
 	Liabilities:citibank mc     $1796.21
 	Liabilities:amex blue     $5483.56
@@ -18,4 +18,12 @@
 2017/09/15 Winco Foods
 	Expenses:Groceries	$80.80
 	Assets:wf checking
+
+2017/09/19 Winco Foods
+	Expenses:Groceries	$0.88
+	Assets:cash
+
+2017/09/19 Winco Foods
+	Expenses:Groceries	$5.94
+	Assets:cash
 
