@@ -1,29 +1,50 @@
 2017/09/12 * Opening Balance
-	Assets:college     $12549.77
-	Assets:wf checking     $1966.10
-	Assets:wf savings     $433.80
-	Assets:msefcu checking     $1000
-	Assets:msefcu savings     $500
-	Assets:g1 checking     $583.61
-	Assets:g1 savings     $55
-	Assets:cash     $29
-	Liabilities:costco visa     $5562.11
-	Liabilities:citibank mc     $1796.21
-	Liabilities:amex blue     $5483.56
-
+    Assets:College                   $12549.77
+    Assets:WF Checking                $1966.10
+    Assets:WF Savings                  $433.80
+    Assets:MSEFCU Checking            $1000.00
+    Assets:MSEFCU Savings              $500.00
+    Assets:G1 checking                 $583.61
+    Assets:G1 savings                   $55.00
+    Assets:Cash                         $29.00
+    Assets:Change                        $0.00
+    Liabilities:Costco Visa           $5562.11
+    Liabilities:Citibank MC           $1796.21
+    Liabilities:Amex Blue             $5483.56
+    Equity:Opening Balance
+   
 2017/09/12 UCSB
-	Expenses:College	$5823.16
-	Assets:college
+    Expenses:College:UCSB             $5823.16
+    Assets:College
 
-2017/09/15 Winco Foods
-	Expenses:Groceries	$80.80
-	Assets:wf checking
+2017/09/17 Winco Foods
+    Expenses:Groceries                  $80.80
+    Assets:WF Checking
+
+2017/09/17 Baker's Dozen
+    Expenses:Restaurants:Family          $6.15
+    Assets:Cash
+
+2017/09/17 
+    Assets:Change                        $0.85
+    Assets:Cash
 
 2017/09/19 Winco Foods
-	Expenses:Groceries	$0.88
-	Assets:cash
+    Expenses:Groceries	                 $0.88
+    Assets:Cash
 
 2017/09/19 Winco Foods
-	Expenses:Groceries	$5.94
-	Assets:cash
+    Expenses:Groceries	                 $5.94
+    Assets:Cash
 
+2017/09/20 Manderes
+    Expenses:Restaurants:Family         $85.07
+    Liabilities:Amex Blue
+
+2017/09/20 McDonald's
+    Expenses:Restaurants:Treats          $6.85
+    Assets:Cash
+
+2017/09/17 
+    Assets:Change                        $0.15
+    Assets:Cash
