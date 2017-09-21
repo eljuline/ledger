@@ -45,6 +45,10 @@
     Expenses:Restaurants:Treats          $6.85
     Assets:Cash
 
-2017/09/17 
+2017/09/20 
     Assets:Change                        $0.15
     Assets:Cash
+
+2017/09/20 Costco Gas
+    Expenses:Automotive:Gas             $22.75
+    Liabilities:Costco Visa
