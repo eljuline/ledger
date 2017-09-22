@@ -25,7 +25,7 @@
     Expenses:Restaurants:Family          $6.15
     Assets:Cash
 
-2017/09/17 
+2017/09/17 Transfer
     Assets:Change                        $0.85
     Assets:Cash
 
@@ -45,15 +45,15 @@
     Expenses:Restaurants:Treats          $6.85
     Assets:Cash
 
-2017/09/20 
+2017/09/20 Transfer
     Assets:Change                        $0.15
     Assets:Cash
 
 2017/09/20 Costco Gas
-    Expenses:Automotive:Gas             $22.75
+    Expenses:Automotive:Gas:Prius       $22.75
     Liabilities:Costco Visa
 
-2017/09/21 Costco Gas
+2017/09/21 Costco
     Expenses:Household                  $25.43
     Liabilities:Costco Visa
 
