@@ -21,8 +21,8 @@
     Expenses:Groceries                  $80.80
     Assets:WF Checking
 
-2017/09/17 Baker's Dozen
-    Expenses:Restaurants:Family          $6.15
+2017/09/17 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $6.15
     Assets:Cash
 
 2017/09/17 Transfer
@@ -38,11 +38,11 @@
     Assets:Cash
 
 2017/09/20 Manderes
-    Expenses:Restaurants:Family         $85.07
+    Expenses:Food:Dinner                $85.07
     Liabilities:Amex Blue
 
 2017/09/20 McDonald's
-    Expenses:Restaurants:Treats          $6.85
+    Expenses:Fast Food:Treats            $6.85
     Assets:Cash
 
 2017/09/20 Transfer
@@ -50,7 +50,7 @@
     Assets:Cash
 
 2017/09/20 Costco Gas
-    Expenses:Automotive:Gas:Prius       $22.75
+    Expenses:Gas:Prius                  $22.75
     Liabilities:Costco Visa
 
 2017/09/21 Costco
@@ -58,8 +58,16 @@
     Liabilities:Costco Visa
 
 2017/09/21 Costco Gas
-    Expenses:Automotive:Gas:Truck       $58.99
+    Expenses:Gas:Truck                  $58.99
     Liabilities:Costco Visa
+
+2017/09/21 Togo's
+    Expenses:Fast Food:Dinner            $6.75
+    Assets:Cash
+
+2017/09/21 Transfer
+    Assets:Change                        $0.25
+    Assets:Cash
 
 2017/09/22 UCSB
     Expenses:College:UCSB             $2705.18
