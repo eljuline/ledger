@@ -52,3 +52,15 @@
 2017/09/20 Costco Gas
     Expenses:Automotive:Gas             $22.75
     Liabilities:Costco Visa
+
+2017/09/21 Costco Gas
+    Expenses:Household                  $25.43
+    Liabilities:Costco Visa
+
+2017/09/21 Costco Gas
+    Expenses:Automotive:Gas:Truck       $58.99
+    Liabilities:Costco Visa
+
+2017/09/22 UCSB
+    Expenses:College:UCSB             $2705.18
+    Assets:College
