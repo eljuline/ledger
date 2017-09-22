@@ -72,3 +72,15 @@
 2017/09/22 UCSB
     Expenses:College:UCSB             $2705.18
     Assets:College
+
+2017/09/22 Deposit
+    Assets:WF Checking                $1900.00
+    Income:Gift
+
+2017/09/22 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2017/09/22 Deposit
+    Assets:WF Checking                $2863.62
+    Income:Salary:Centene
