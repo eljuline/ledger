@@ -31,7 +31,7 @@
 
 2017/09/17 Raley's
     Expenses:Groceries                  $10.99
-    Liabilities:Costco Visa
+    Liabilities:Amex Blue
 
 2017/09/19 Winco Foods
     Expenses:Groceries	                 $0.88
@@ -72,7 +72,7 @@
 
 2017/09/21 Trader Joe's
     Expenses:Groceries                  $47.63
-    Liabilities:Costco Visa
+    Liabilities:Amex Blue
 
 2017/09/22 UCSB
     Expenses:College:UCSB             $2705.18
@@ -89,3 +89,16 @@
 2017/09/22 Deposit
     Assets:WF Checking                $2863.62
     Income:Salary:Centene
+
+2017/09/22 Dollar Store
+    Expenses:Household                   $5.43
+    Assets:Cash
+
+2017/09/22 Taco Bell
+    Expenses:Fast Food:Dinner           $21.51
+    Assets:Cash
+
+2017/09/22 Target
+    Expenses:College:Supplies           $40.39
+    Liabilities:Amex Blue
+
