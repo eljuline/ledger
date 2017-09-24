@@ -74,6 +74,10 @@
     Expenses:Groceries                  $47.63
     Liabilities:Amex Blue
 
+2017/09/21 Withdrawal
+    Assets:WF Checking                 $200.00
+    Assets:Cash
+
 2017/09/22 UCSB
     Expenses:College:UCSB             $2705.18
     Assets:College
@@ -101,4 +105,34 @@
 2017/09/22 Target
     Expenses:College:Supplies           $40.39
     Liabilities:Amex Blue
+
+2017/09/23 Chevron
+    Expenses:Gas:Truck                  $59.17
+    Liabilities:Costco Visa
+
+2017/09/23 McDonald's
+    Expenses:Fast Food:Breakfast        $11.49
+    Assets:Cash
+
+2017/09/23 Kmart
+    Expenses:College:Supplies           $20.70
+    Expenses:Automotive                  $1.08
+    Assets:Cash
+
+2017/09/23 Gino's Pizza
+    Expenses:Food:Dinner                $44.30
+    Assets:Cash
+
+2017/09/23 Jamba Juice
+    Expenses:Food:Lunch                 $24.74
+    Liabilities:Citibank MC
+
+2017/09/23 Payment
+    Liabilities:Amex Blue             $2162.56
+    Assets:WF Checking
+
+2017/09/23 Buellton Market
+    Expenses:Groceries                   $1.99
+    Assets:Cash
+
 
