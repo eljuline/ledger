@@ -1,4 +1,4 @@
-2017/09/12 * Opening Balance
+017/09/12 * Opening Balance
     Assets:College                   $12549.77
     Assets:WF Checking                $1966.10
     Assets:WF Savings                  $433.80
@@ -10,8 +10,8 @@
     Assets:Change                        $0.00
     Liabilities:Costco Visa          $-5562.11
     Liabilities:Citibank MC          $-1796.21
-    Liabilities:Amex Blue            $-5483.56
-    Liabilities:Macy's                $-289.12
+    Liabilities:Amex Blue            $-5464.20
+    Liabilities:Macy's                $-180.56
     Equity:Opening Balance
    
 2017/09/12 UCSB
@@ -34,12 +34,24 @@
     Expenses:Groceries                  $10.99
     Liabilities:Amex Blue
 
+2017/09/19 Lowe's
+    Expenses:College:Supplies           $95.90
+    Liabilities:Amex Blue
+
+2017/09/19 Gap Outlet
+    Expenses:Clothing:Anna              $26.93
+    Liabilities:Amex Blue
+
+2017/09/20 Raley's
+    Expenses:Groceries                  $31.90
+    Liabilities:Amex Blue
+
 2017/09/19 Winco Foods
-    Expenses:Groceries	                 $0.88
+    Expenses:Groceries                   $0.88
     Assets:Cash
 
 2017/09/19 Winco Foods
-    Expenses:Groceries	                 $5.94
+    Expenses:Groceries                   $5.94
     Assets:Cash
 
 2017/09/20 Manderes
@@ -82,6 +94,10 @@
 2017/09/21 Withdrawal
     Assets:Cash                        $200.00
     Assets:WF Checking
+
+2017/09/21 Deposit
+    Assets:WF Checking                  $18.19
+    Income:Salary:FCUSD
 
 2017/09/22 UCSB
     Expenses:College:UCSB             $2705.18
@@ -172,14 +188,19 @@
     Assets:Cash
 
 2017/09/25 Connecticut General Life Insurance
+    ;2270
     Expenses:Insurance:Life:Eric        $15.27
-    Assets:WF Checking:2270
+    Assets:WF Checking
 
 2017/09/25 Brighthouse Financial
+    ;2271
     Expenses:Insurance:Life:Angela     $205.40
-    Assets:WF Checking:2271
+    Assets:WF Checking
 
 2017/09/25 Macy's
-    Liabilities:Macy's                 $289.12
-    Assets:WF Checking:2272
+    Liabilities:Macy's                 $180.56
+    Assets:WF Checking
 
+2017/09/25 Winco Foods
+    Expenses:Groceries                  $49.80
+    Assets:WF Checking
