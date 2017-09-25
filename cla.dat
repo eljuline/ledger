@@ -11,6 +11,7 @@
     Liabilities:Costco Visa          $-5562.11
     Liabilities:Citibank MC          $-1796.21
     Liabilities:Amex Blue            $-5483.56
+    Liabilities:Macy's                $-289.12
     Equity:Opening Balance
    
 2017/09/12 UCSB
@@ -55,6 +56,10 @@
 
 2017/09/20 Costco Gas
     Expenses:Gas:Prius                  $22.75
+    Liabilities:Costco Visa
+
+2017/09/20 Cap Radio
+    Expenses:Donations                  $10.00
     Liabilities:Costco Visa
 
 2017/09/21 Costco
@@ -135,8 +140,46 @@
     Expenses:Groceries                   $1.99
     Assets:Cash
 
+2017/09/23 Ultra Mobile
+    Expenses:Cellular:Eric              $30.50
+    Liabilities:Amex Blue
+
 2017/09/24 Quality Inn Buellton
     Expenses:Travel:Hotel                $5.00
     Assets:Cash
 
+2017/09/24 Bed Bath & Beyond
+    Expenses:College:Supplies           $40.00
+    Assets:Cash
+
+2017/09/24 Bed Bath & Beyond
+    Expenses:College:Supplies            $7.53
+    Expenses:Medical:Vision             $12.49
+    Assets:Change                       $-0.02
+    Assets:Cash
+
+2017/09/24 Ortega Dining Hall
+    Expenses:Food:Lunch                 $12.00
+    Liabilities:Costco Visa
+
+2017/09/24 Union 76
+    Expenses:Gas:Truck                  $73.53
+    Liabilities:Costco Visa
+
+2017/09/24 In & Out Burger
+    Expenses:Food:Dinner                $11.80
+    Assets:Change                        $0.20
+    Assets:Cash
+
+2017/09/25 Connecticut General Life Insurance
+    Expenses:Insurance:Life:Eric        $15.27
+    Assets:WF Checking:2270
+
+2017/09/25 Brighthouse Financial
+    Expenses:Insurance:Life:Angela     $205.40
+    Assets:WF Checking:2271
+
+2017/09/25 Macy's
+    Liabilities:Macy's                 $289.12
+    Assets:WF Checking:2272
 
