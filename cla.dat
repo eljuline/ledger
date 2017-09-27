@@ -209,3 +209,29 @@
     Liabilities:Amex Blue              $100.00
     Income:Credit Card Rewards
 
+2017/09/26 Costco Gas
+    Expenses:Gas:Volvo                  $36.75
+    Liabilities:Costco Visa
+
+2017/09/26 Bel Air
+    Expenses:Groceries                  $12.41
+    Assets:Change                        $0.59
+    Assets:Cash
+
+2017/09/26 CSAA
+    Expenses:Insurance:Home            $113.00
+    Liabilities:Citibank MC
+
+2017/09/27 Deposit
+    Assets:WF Checking                 $100.00
+    Income:Gift
+
+2017/09/27 Deposit
+    Assets:WF Checking                 $401.00
+    Income:HSA Overpay
+
+2017/09/27 HSA Overpay
+    ;2273
+    Assets:HSA                         $401.00
+    Assets:WF Checking
+
