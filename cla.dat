@@ -218,7 +218,7 @@
     Assets:Change                        $0.59
     Assets:Cash
 
-2017/09/26 CSAA
+2017/09/26 AAA Insurance
     Expenses:Insurance:Home            $113.00
     Liabilities:Citibank MC
 
@@ -239,5 +239,11 @@
     Expenses:College:Gaucho Bucks      $250.00
     Liabilities:Citibank MC
 
+2017/09/27 UCSB Recreation
+    Expenses:College:Recreation:Yoga         $44.00
+    Liabilities:Citibank MC
 
+2017/09/28 Raley's
+    Expenses:Groceries                       $22.70
+    Liabilities:Citibank MC
 
