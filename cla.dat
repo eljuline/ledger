@@ -247,3 +247,19 @@
     Expenses:Groceries                       $22.70
     Liabilities:Citibank MC
 
+2017/09/28 Interest Payment 
+    Assets:WF Checking                       $0.08
+    Income:Interest:WF Checking
+
+2017/09/29 Schwab Trial Deposit 
+    Assets:WF Checking                       $0.59
+    Income:Schwab
+
+2017/09/29 Young's Vineyard
+    Expenses:Wine                          $103.44
+    Liabilities:Citibank MC
+
+2017/09/29 UCSB Bookstore
+    Expenses:College:Supplies               $20.47
+    Liabilities:Citibank MC
+
