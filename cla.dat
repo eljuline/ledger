@@ -165,7 +165,7 @@
     Assets:Cash
 
 2017/09/24 Bed Bath & Beyond
-    Expenses:College:Supplies           $40.00
+    Expenses:College:Supplies           $15.19
     Assets:Cash
 
 2017/09/24 Bed Bath & Beyond
@@ -205,6 +205,10 @@
     Expenses:Groceries                  $49.80
     Assets:WF Checking
 
+2017/09/25 Barnes and Noble
+    Expenses:Activities:Mom              $8.47
+    Assets:Cash
+
 2017/09/26 Rewards Statement Credit
     Liabilities:Amex Blue              $100.00
     Income:Credit Card Rewards
@@ -221,6 +225,10 @@
 2017/09/26 AAA Insurance
     Expenses:Insurance:Home            $113.00
     Liabilities:Citibank MC
+
+2017/09/26 Sprouts
+    Expenses:Groceries                  $23.26
+    Assets:Cash
 
 2017/09/27 Deposit
     Assets:WF Checking                 $100.00
@@ -240,26 +248,36 @@
     Liabilities:Citibank MC
 
 2017/09/27 UCSB Recreation
-    Expenses:College:Recreation:Yoga         $44.00
+    Expenses:College:Recreation:Yoga    $44.00
     Liabilities:Citibank MC
 
 2017/09/28 Raley's
-    Expenses:Groceries                       $22.70
+    Expenses:Groceries                  $22.70
     Liabilities:Citibank MC
 
 2017/09/28 Interest Payment 
-    Assets:WF Checking                       $0.08
+    Assets:WF Checking                   $0.08
     Income:Interest:WF Checking
 
 2017/09/29 Schwab Trial Deposit 
-    Assets:WF Checking                       $0.59
+    Assets:WF Checking                   $0.59
     Income:Schwab
 
 2017/09/29 Young's Vineyard
-    Expenses:Wine                          $103.44
+    Expenses:Wine                      $103.44
     Liabilities:Citibank MC
 
 2017/09/29 UCSB Bookstore
-    Expenses:College:Supplies               $20.47
+    Expenses:College:Supplies           $20.47
     Liabilities:Citibank MC
+
+2017/09/29 Gift for Donna Evans
+    Expenses:Presents                   $10.00
+    Assets:Cash
+
+;    Assets:Cash
+;    Assets:WF Checking
+;    Liabilities:Amex Blue
+;    Liabilities:Costco Visa
+;    Liabilities:Citibank MC
 
