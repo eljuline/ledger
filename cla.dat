@@ -6,8 +6,8 @@
     Assets:MSEFCU Savings             $2341.62
     Assets:G1 checking                 $583.61
     Assets:G1 savings                   $55.00
-    Assets:Cash                         $29.00
-    Assets:Change                        $0.00
+    Assets:Cash                        $103.59
+    Assets:Health Savings Account     $2472.17
     Liabilities:Costco Visa          $-5562.11
     Liabilities:Citibank MC          $-1796.21
     Liabilities:Amex Blue            $-5464.20
@@ -15,23 +15,19 @@
     Equity:Opening Balance
    
 2017/09/12 UCSB
-    Expenses:College:UCSB             $5823.16
+    Expenses:College:UCSB BARC             $5823.16
     Assets:College
 
 2017/09/17 Winco Foods
-    Expenses:Groceries                  $80.80
+    Expenses:Food:Groceries                  $80.80
     Assets:WF Checking
 
 2017/09/17 Baker's Dozen Donuts
     Expenses:Food:Breakfast              $6.15
     Assets:Cash
 
-2017/09/17 Transfer
-    Assets:Change                        $0.85
-    Assets:Cash
-
 2017/09/17 Raley's
-    Expenses:Groceries                  $10.99
+    Expenses:Food:Groceries                  $10.99
     Liabilities:Amex Blue
 
 2017/09/19 Lowe's
@@ -43,27 +39,24 @@
     Liabilities:Amex Blue
 
 2017/09/20 Raley's
-    Expenses:Groceries                  $31.90
+    Expenses:Food:Groceries                  $31.90
     Liabilities:Amex Blue
 
 2017/09/19 Winco Foods
-    Expenses:Groceries                   $0.88
+    Expenses:Food:Groceries                   $0.88
     Assets:Cash
 
 2017/09/19 Winco Foods
-    Expenses:Groceries                   $5.94
+    Expenses:Food:Groceries                   $5.94
     Assets:Cash
 
 2017/09/20 Manderes
-    Expenses:Food:Dinner                $85.27
+    Expenses:Food:Dinner     $70.27
+    Expenses:Tips:Food                  $15.00
     Liabilities:Amex Blue
 
 2017/09/20 McDonald's
-    Expenses:Fast Food:Treats            $6.85
-    Assets:Cash
-
-2017/09/20 Transfer
-    Assets:Change                        $0.15
+    Expenses:Food:Dessert           $6.85
     Assets:Cash
 
 2017/09/20 Costco Gas
@@ -83,12 +76,11 @@
     Liabilities:Costco Visa
 
 2017/09/21 Togo's
-    Expenses:Fast Food:Dinner            $6.75
-    Assets:Change                        $0.25
+    Expenses:Food:Dinner            $6.75
     Assets:Cash
 
 2017/09/21 Trader Joe's
-    Expenses:Groceries                  $47.63
+    Expenses:Food:Groceries                  $47.63
     Liabilities:Amex Blue
 
 2017/09/21 Withdrawal
@@ -100,12 +92,13 @@
     Income:Salary:FCUSD
 
 2017/09/22 UCSB
-    Expenses:College:UCSB             $2705.18
+    Expenses:College:UCSB BARC        $2705.18
     Assets:College
 
 2017/09/22 Deposit
     Assets:WF Checking                $1900.00
     Income:Gift
+    ; :anna:laptop:
 
 2017/09/22 Withdrawal
     Assets:Cash                        $100.00
@@ -120,7 +113,7 @@
     Assets:Cash
 
 2017/09/22 Taco Bell
-    Expenses:Fast Food:Dinner           $21.51
+    Expenses:Food:Dinner           $21.51
     Assets:Cash
 
 2017/09/22 Target
@@ -132,7 +125,7 @@
     Liabilities:Costco Visa
 
 2017/09/23 McDonald's
-    Expenses:Fast Food:Breakfast        $11.49
+    Expenses:Food:Breakfast        $11.49
     Assets:Cash
 
 2017/09/23 Kmart
@@ -153,7 +146,7 @@
     Assets:WF Checking
 
 2017/09/23 Buellton Market
-    Expenses:Groceries                   $1.99
+    Expenses:Food:Groceries                   $1.99
     Assets:Cash
 
 2017/09/23 Ultra Mobile
@@ -161,7 +154,7 @@
     Liabilities:Amex Blue
 
 2017/09/24 Quality Inn Buellton
-    Expenses:Travel:Hotel                $5.00
+    Expenses:Tips:Travel                 $5.00
     Assets:Cash
 
 2017/09/24 Bed Bath & Beyond
@@ -171,7 +164,6 @@
 2017/09/24 Bed Bath & Beyond
     Expenses:College:Supplies            $7.53
     Expenses:Medical:Vision             $12.49
-    Assets:Change                       $-0.02
     Assets:Cash
 
 2017/09/24 Ortega Dining Hall
@@ -184,7 +176,6 @@
 
 2017/09/24 In & Out Burger
     Expenses:Food:Dinner                $11.80
-    Assets:Change                        $0.20
     Assets:Cash
 
 2017/09/25 Connecticut General Life Insurance
@@ -192,7 +183,7 @@
     Expenses:Insurance:Life:Eric        $15.27
     Assets:WF Checking
 
-2017/09/25 Brighthouse Financial
+2017/09/25 ! Brighthouse Financial
     ;2271
     Expenses:Insurance:Life:Angela     $205.40
     Assets:WF Checking
@@ -202,11 +193,11 @@
     Assets:WF Checking
 
 2017/09/25 Winco Foods
-    Expenses:Groceries                  $49.80
+    Expenses:Food:Groceries                  $49.80
     Assets:WF Checking
 
 2017/09/25 Barnes and Noble
-    Expenses:Activities:Mom              $8.47
+    Expenses:Food:Mom              $8.47
     Assets:Cash
 
 2017/09/26 Rewards Statement Credit
@@ -218,8 +209,7 @@
     Liabilities:Costco Visa
 
 2017/09/26 Bel Air
-    Expenses:Groceries                  $12.41
-    Assets:Change                        $0.59
+    Expenses:Food:Groceries                  $12.41
     Assets:Cash
 
 2017/09/26 AAA Insurance
@@ -227,20 +217,22 @@
     Liabilities:Citibank MC
 
 2017/09/26 Sprouts
-    Expenses:Groceries                  $23.26
+    Expenses:Food:Groceries                  $23.26
     Assets:Cash
 
 2017/09/27 Deposit
     Assets:WF Checking                 $100.00
     Income:Gift
+    ; :anniversary:
 
 2017/09/27 Deposit
     Assets:WF Checking                 $401.00
-    Income:HSA Overpay
+    Income:Insurance:Vision           -$185.00
+    Income:Insurance:Dental           
 
-2017/09/27 HSA Overpay
+2017/09/27 ! Deposit
     ;2273
-    Assets:HSA                         $401.00
+    Assets:Health Savings Account      $401.00
     Assets:WF Checking
 
 2017/09/27 UCSB Access Card Gaucho Bucks
@@ -248,11 +240,12 @@
     Liabilities:Citibank MC
 
 2017/09/27 UCSB Recreation
-    Expenses:College:Recreation:Yoga    $44.00
+    Expenses:College:Activities         $44.00
+    ; :yoga:
     Liabilities:Citibank MC
 
 2017/09/28 Raley's
-    Expenses:Groceries                  $22.70
+    Expenses:Food:Groceries             $22.70
     Liabilities:Citibank MC
 
 2017/09/28 Interest Payment 
@@ -264,7 +257,7 @@
     Income:Schwab
 
 2017/09/29 Young's Vineyard
-    Expenses:Wine                      $103.44
+    Expenses:Food:Wine                 $103.44
     Liabilities:Citibank MC
 
 2017/09/29 UCSB Bookstore
@@ -273,7 +266,96 @@
 
 2017/09/29 Gift for Donna Evans
     Expenses:Presents                   $10.00
+    ; :gift:Donna_Evans:
     Assets:Cash
+
+2017/09/30 Cinemark:American Assassin
+    Expenses:Entertainment:Movies       $10.50
+    Expenses:Food:Movies                 $7.50
+    Assets:Cash
+
+2017/09/30 Amazon
+    Expenses:Presents                   $33.40
+    ; :gift:Michelle_Lombardi:
+    Liabilities:Amex Blue
+
+2017/09/30 Winco Foods
+    Expenses:Food:Groceries             $11.04
+    Assets:WF Checking
+
+2017/09/30 Coinstar
+    Assets:Gift Cards:Amazon           $130.76
+    Assets:Cash
+
+2017/09/30 ! Transfer
+    Expenses:Gift:Anna                  $65.38
+    Expenses:Gift:Lydia                 $65.38
+    Assets:WF Checking
+
+2017/09/30 Laundry
+    Expenses:College:Laundry             $8.00
+    Liabilities:Citibank MC
+
+2017/10/01 Costco Gas
+    Expenses:Gas:Prius                  $23.00
+    Liabilities:Costco Visa
+
+2017/10/01 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $4.65
+    Assets:Cash
+
+2017/10/01 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2017/10/01 Boden
+    Assets:Cash                         $37.40
+    Liabilities:Amex Blue
+
+2017/10/01 FUMC Directory
+    Expenses:Church                     $10.00
+    Assets:Cash
+
+2017/10/01 Mira Flores
+    Expenses:Food:Wine                  $54.91
+    Liabilities:Amex Blue
+
+2017/10/01 Kmart
+    Expenses:College:Supplies           $15.60
+    Liabilities:Citibank MC
+
+2017/10/01 Farm Fresh to You
+    Expenses:Food:Groceries             $29.36
+    Liabilities:Citibank MC
+
+2017/10/01 FUMC
+    Expenses:Donations:Church          $120.00
+    Assets:MSEFCU Checking
+
+2017/10/01 Boy Scouts
+    Expenses:Donations:Cash              $2.00
+    Assets:Cash
+
+2017/10/01 Safeway
+    Expenses:Food:Groceries              $40.00
+    Assets:Cash
+
+2017/10/01 Apple Mountain Golf Club
+    Expenses:Activities:Golf             $65.00
+    Liabilities:Costco Visa
+
+2017/10/01 Apple Mountain Golf Club
+    Expenses:Food:Lunch                   $7.50
+    Expenses:Tips:Food                    $1.00
+    Assets:Cash
+
+2017/10/01 Temporary Transfer
+    Assets:WF Checking                 $3000.00
+    Assets:College
+
+2017/10/01 Payment
+    Liabilities:Costco Visa            $5081.42
+    Assets:WF Checking
 
 ;    Assets:Cash
 ;    Assets:WF Checking
