@@ -10,7 +10,7 @@
     Assets:Health Savings Account     $2472.17
     Liabilities:Costco Visa          $-5562.11
     Liabilities:Citibank MC          $-1796.21
-    Liabilities:Amex Blue            $-5464.20
+    Liabilities:Amex Blue            $-5472.57
     Liabilities:Macy's                $-180.56
     Equity:Opening Balance
    
@@ -150,7 +150,7 @@
     Assets:Cash
 
 2017/09/23 Ultra Mobile
-    Expenses:Cellular:Eric              $30.50
+    Expenses:Communications:Cellular     $30.50
     Liabilities:Amex Blue
 
 2017/09/24 Quality Inn Buellton
@@ -196,8 +196,12 @@
     Expenses:Food:Groceries                  $49.80
     Assets:WF Checking
 
+2017/09/25 Rocksbox
+    Expenses:Clothing:Angela             $19.00
+    Liabilities:Citibank MC
+
 2017/09/25 Barnes and Noble
-    Expenses:Food:Mom              $8.47
+    Expenses:Food:Angela                 $7.47
     Assets:Cash
 
 2017/09/26 Rewards Statement Credit
@@ -213,12 +217,12 @@
     Assets:Cash
 
 2017/09/26 AAA Insurance
-    Expenses:Insurance:Home            $113.00
+    Expenses:Insurance:Home            $113.01
     Liabilities:Citibank MC
 
 2017/09/26 Sprouts
     Expenses:Food:Groceries                  $23.26
-    Assets:Cash
+    Liabilities:Citibank MC
 
 2017/09/27 Deposit
     Assets:WF Checking                 $100.00
@@ -326,7 +330,7 @@
 
 2017/10/01 Farm Fresh to You
     Expenses:Food:Groceries             $29.36
-    Liabilities:Citibank MC
+    Liabilities:Costco Visa
 
 2017/10/01 FUMC
     Expenses:Donations:Church          $120.00
@@ -345,7 +349,7 @@
     Liabilities:Costco Visa
 
 2017/10/01 Apple Mountain Golf Club
-    Expenses:Food:Lunch                   $7.50
+    Expenses:Food:Eric                    $7.50
     Expenses:Tips:Food                    $1.00
     Assets:Cash
 
@@ -356,6 +360,19 @@
 2017/10/01 Payment
     Liabilities:Costco Visa            $5081.42
     Assets:WF Checking
+
+2017/10/01 Google
+    Expenses:Entertainment:Eric           $0.99
+    Liabilities:Costco Visa
+
+2017/10/02 Netflix
+    Expenses:Entertainment:Netflix        $8.61
+    Liabilities:Costco Visa
+
+2017/10/02 AT&T
+    Expenses:Communications:TV,Internet,Home Phone             $245.24
+    Liabilities:Amex Blue
+
 
 ;    Assets:Cash
 ;    Assets:WF Checking
