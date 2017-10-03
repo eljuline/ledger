@@ -292,12 +292,12 @@
     Assets:Cash
 
 2017/09/30 ! Transfer
-    Expenses:Gift:Anna                  $65.38
-    Expenses:Gift:Lydia                 $65.38
+    Expenses:Savings:Anna               $65.38
+    Expenses:Savings:Lydia              $65.38
     Assets:WF Checking
 
 2017/09/30 Laundry
-    Expenses:College:Laundry             $8.00
+    Expenses:College:Laundry             $2.75
     Liabilities:Citibank MC
 
 2017/10/01 Costco Gas
@@ -373,6 +373,22 @@
     Expenses:Communications:TV,Internet,Home Phone             $245.24
     Liabilities:Amex Blue
 
+2017/10/02 Amazon
+    Expenses:College:Supplies            $12.99
+    Liabilities:Citibank MC
+
+2017/10/02 Round Table
+    Expenses:Food:Dinner                 $12.65
+    Assets:Cash
+
+2017/10/02 Gift for J Drumm’s party
+    Expenses:Presents                    $10.00
+    ; :gift:J_Drumm;
+    Assets:Cash
+
+2017/10/02 DC Travelers
+    Expenses:Unknown                     $14.00
+    Assets:Cash
 
 ;    Assets:Cash
 ;    Assets:WF Checking
