@@ -387,8 +387,13 @@
     Assets:Cash
 
 2017/10/02 DC Travelers
-    Expenses:Unknown                     $14.00
+    Expenses:Food:Dessert              $14.00
     Assets:MSEFCU Checking
+
+2017/10/02 City of Folsom
+    Expenses:Utilities                  $228.33
+    Liabilities:Amex Blue
+
 
 ;    Assets:Cash
 ;    Assets:WF Checking
