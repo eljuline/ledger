@@ -342,7 +342,7 @@
     Assets:Cash
 
 2017/10/01 Safeway
-    Expenses:Food:Groceries              $40.00
+    Expenses:Food:Groceries              $28.22
     Assets:Cash
 
 2017/10/01 Apple Mountain Golf Club
@@ -362,9 +362,17 @@
     Liabilities:Costco Visa            $5081.42
     Assets:WF Checking
 
+2017/10/01 Auto Payment
+    Liabilities:Costco Visa             $150.15
+    Assets:WF Checking
+
 2017/10/01 Google
     Expenses:Entertainment:Eric           $0.99
     Liabilities:Costco Visa
+
+2017/10/01 Car Money
+    Assets:Car Money                    $10.00
+    Assets:Cash
 
 2017/10/02 Netflix
     Expenses:Entertainment:Netflix        $8.61
@@ -407,10 +415,23 @@
     Assets:WF Checking               $12677.06
     Income:Mutual Fund
 
-2017/10/01 Temporary Transfer
+2017/10/03 Temporary Transfer
     Assets:College                    $3000.00
     Assets:WF Checking
 
+2017/10/03 Hawkins Dance
+    Expenses:Activities:Dance          $283.00
+    Liabilities:Citibank MC
+
+2017/10/03 Winco Foods
+    Expenses:Food:Groceries             $31.17
+    Assets:WF Checking
+
+2017/10/03 Cascada
+    Expenses:Food:Dinner:Angela         $44.45
+    ; :gift:Michelle_Lombardi:
+    Expenses:Tips:Food                   $9.00
+    Liabilities:Amex Blue
 
 ;    Assets:Cash
 ;    Assets:WF Checking
