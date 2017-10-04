@@ -313,7 +313,8 @@
     Assets:WF Checking
 
 2017/10/01 Boden
-    Assets:Cash                         $37.40
+    Exoenses:Presents                   $37.40
+    ; :gift:Michael_Christinas_baby:
     Liabilities:Amex Blue
 
 2017/10/01 FUMC Directory
@@ -381,9 +382,9 @@
     Expenses:Food:Dinner                 $12.65
     Assets:Cash
 
-2017/10/02 Gift for J Drumm’s party
+2017/10/02 Gift for J Drumm's party
     Expenses:Presents                    $10.00
-    ; :gift:J_Drumm;
+    ; :gift:J_Drumm:
     Assets:Cash
 
 2017/10/02 DC Travelers
@@ -393,6 +394,22 @@
 2017/10/02 City of Folsom
     Expenses:Utilities                  $228.33
     Liabilities:Amex Blue
+
+2017/10/03 UCSB Bookstore
+    Expenses:College:Supplies           $70.04
+    Liabilities:Citibank MC
+
+2017/10/03 Cantarito's
+    Expenses:Food:Lunch:Eric             $9.04
+    Assets:Cash
+
+2017/10/03 Deposit
+    Assets:WF Checking               $12677.06
+    Income:Mutual Fund
+
+2017/10/01 Temporary Transfer
+    Assets:College                    $3000.00
+    Assets:WF Checking
 
 
 ;    Assets:Cash
