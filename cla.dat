@@ -291,11 +291,6 @@
     Assets:Gift Cards:Amazon           $130.76
     Assets:Cash
 
-2017/09/30 ! Transfer
-    Expenses:Savings:Anna               $65.38
-    Expenses:Savings:Lydia              $65.38
-    Assets:WF Checking
-
 2017/09/30 Laundry
     Expenses:College:Laundry             $2.75
     Liabilities:Citibank MC
@@ -313,7 +308,7 @@
     Assets:WF Checking
 
 2017/10/01 Boden
-    Exoenses:Presents                   $37.40
+    Expenses:Presents                   $37.40
     ; :gift:Michael_Christinas_baby:
     Liabilities:Amex Blue
 
@@ -403,10 +398,6 @@
     Expenses:Food:Dessert              $14.00
     Assets:MSEFCU Checking
 
-2017/10/02 City of Folsom
-    Expenses:Utilities                  $228.33
-    Liabilities:Amex Blue
-
 2017/10/03 UCSB Bookstore
     Expenses:College:Supplies           $70.04
     Liabilities:Citibank MC
@@ -437,9 +428,39 @@
     Expenses:Tips:Food                   $9.00
     Liabilities:Amex Blue
 
+2017/10/04 City of Folsom
+    Expenses:Utilities                  $228.33
+    ;2274
+    Assets:WF Checking
+
+2017/10/04 Cost Plus World Market
+    Expenses:Presents                    $35.57
+    ; :gift:Halloween_BOO:
+    Expenses:Presents:Cards               $3.18
+    Expenses:Food:Candy                   $9.16
+    Liabilities:Amex Blue
+
+2017/10/04 Winco Foods
+    Expenses:Food:Groceries              $14.15
+    Expenses:Food:Groceries:Candy         $3.48
+    Assets:WF Checking
+
+2017/10/04 Transfer
+    Expenses:Savings:Lydia              $65.38
+    Assets:WF Checking
+
+2017/10/04 Costco Visa Interest Penalty
+    Expenses:Finance Charge             $63.06
+    Liabilities:Costco Visa
+
+2017/10/05 Transfer
+    Expenses:Savings:Anna               $65.38
+    Assets:WF Checking
+
 ;    Assets:Cash
 ;    Assets:WF Checking
 ;    Liabilities:Amex Blue
 ;    Liabilities:Costco Visa
 ;    Liabilities:Citibank MC
 
+ 
