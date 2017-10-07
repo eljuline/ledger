@@ -4,8 +4,8 @@
     Assets:WF Savings                  $433.80
     Assets:MSEFCU Checking             $828.88
     Assets:MSEFCU Savings             $2341.62
-    Assets:G1 checking                 $583.61
-    Assets:G1 savings                   $55.00
+    Assets:G1 Checking                 $583.61
+    Assets:G1 Savings                   $55.00
     Assets:Cash                         $89.72 ;$103.59
     Assets:Health Savings Account     $2472.17
     Liabilities:Costco Visa          $-5562.11
@@ -464,6 +464,28 @@
 2017/10/05 Chase Mortgage
     Expenses:House                    $1600.00
     Assets:WF Checking
+
+2017/10/06 Deposit
+    Assets:WF Checking                $2828.42
+    Income:Salary:Centene
+
+2017/10/06 Deposit
+    Assets:Health Savings Account     $230.77
+    Income:Benefits:Centene           -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2017/10/06 Transfer
+    Assets:G1 Checking                $2000.00
+    Assets:WF Checking
+
+2017/10/06 Trader Joe's
+    Expenses:Food:Groceries             $60.38
+    Liabilities:Amex Blue
+
+2017/10/06 Fabletics
+    Expenses:Clothing:Angela            $49.95
+    Liabilities:Costco Visa
+
 
 ;    Assets:Cash
 ;    Assets:WF Checking
