@@ -163,7 +163,7 @@
 
 2017/09/24 Bed Bath & Beyond
     Expenses:College:Supplies            $7.53
-    Expenses:Medical:Vision             $12.49
+    Expenses:Drugstore:Vision           $12.49
     Assets:Cash
 
 2017/09/24 Ortega Dining Hall
@@ -474,10 +474,6 @@
     Income:Benefits:Centene           -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
-2017/10/06 Transfer
-    Assets:G1 Checking                $2000.00
-    Assets:WF Checking
-
 2017/10/06 Trader Joe's
     Expenses:Food:Groceries             $60.38
     Liabilities:Amex Blue
@@ -495,20 +491,91 @@
     Liabilities:Costco Visa
 
 2017/10/07 Target
-    Expenses:Household                  $57.49
+    Expenses:Clothing:Anna                    $9.00
+    Expenses:Clothing:Lydia                   $9.00
+    Expenses:Food:Groceries                  $12.96
+    Expenses:Drugstore                       $23.33
+    Expenses:Sales Tax                        $3.20
     Liabilities:Amex Blue
 
 2017/10/07 Bed Bath & Beyond
-    Expenses:Household                  $27.34
+    Expenses:Drugstore                       $25.37
+    Expenses:Sales Tax                        $1.97
     Liabilities:Citibank MC
 
 2017/10/07 See’s Candies
     Expenses:Food:Candy                 $23.05
     Liabilities:Citibank MC
 
-2017/10/07
+2017/10/07 SB Airport Gift Shop
+    Expenses:Food:Snacks:Anna            $2.25
+    Liabilities:Citibank MC
+
+2017/10/07 Peet’s Coffee LAX
+    Expenses:Food:Lunch:Anna             $4.10
+    Liabilities:Citibank MC
+
+2017/10/07 People St Newsstand LAX
+    Expenses:Food:Snacks:Anna            $2.18
+    Liabilities:Citibank MC
+
+2017/10/07 Willie’s
     Expenses:Food:Dinner                $38.35
     Liabilities:Citibank MC
+
+2017/10/07 Willie’s
+    Expenses:Tips:Food                   $5.00
+    Assets:Cash
+
+2017/10/08 Baker's Dozen Donuts
+    Expenses:Food:Breakfast                    $5.65
+    Assets:Cash
+
+2017/10/08 Withdrawal
+    Assets:Cash                              $140.00
+    Assets:WF Checking
+
+2017/10/08 Costco Gas
+    Expenses:Gas:Prius                        $19.00
+    Liabilities:Costco Visa
+
+2017/10/08 Costco Gas
+    Expenses:Gas:Volvo                        $29.10
+    Liabilities:Costco Visa
+
+2017/10/08 Payment
+    Liabilities:Citibank MC                 $2900.00
+    Assets:WF Checking
+
+2017/10/08 Transfer8
+    Assets:G1 Checking                      $2000.00
+    ;2275
+    Assets:WF Checking
+
+2017/10/08 Winco Foods
+    Expenses:Food:Groceries                   $60.00
+    Expenses:Food:Candy                        $0.98
+    Expenses:Sales Tax                         $0.77
+    Assets:WF Checking
+
+2017/10/08 Petsmart
+    Expenses:Pets                             $41.98
+    Expenses:Sales Tax                         $3.25
+    Liabilities:Citibank MC
+
+2017/10/08 Ulta
+    Expenses:Drugstore                        $26.20
+    Expenses:Sales Tax                         $2.03
+    Liabilities:Citibank MC
+
+2017/10/08 Amazon
+    Expenses:Household                        $29.99
+    Expenses:Sales Tax                         $2.32
+    Assets:Gift Cards:Amazon
+
+2017/10/08 Thank You Points
+    Assets:Gift Cards:Target                 $100.00
+    Income:Credit Card Benefits
 
 ;    Assets:Cash
 ;    Assets:WF Checking
@@ -516,4 +583,3 @@
 ;    Liabilities:Costco Visa
 ;    Liabilities:Citibank MC
 
- 
