@@ -453,9 +453,6 @@
     Expenses:Finance Charge             $63.06
     Liabilities:Costco Visa
 
-2017/10/05 Transfer
-    Expenses:Savings:Anna               $65.38
-    Assets:WF Checking
 
 2017/10/05 Verizon Wireless
     Expenses:Communications:Cellular   $103.27
@@ -576,6 +573,13 @@
 2017/10/08 Thank You Points
     Assets:Gift Cards:Target                 $100.00
     Income:Credit Card Benefits
+
+; voided check 2276
+
+2017/10/05 Transfer
+    Expenses:Savings:Anna               $65.38
+    ;2277
+    Assets:WF Checking
 
 ;    Assets:Cash
 ;    Assets:WF Checking
