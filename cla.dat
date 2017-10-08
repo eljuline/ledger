@@ -442,7 +442,7 @@
 
 2017/10/04 Winco Foods
     Expenses:Food:Groceries              $14.15
-    Expenses:Food:Groceries:Candy         $3.48
+    Expenses:Food:Candy                  $3.48
     Assets:WF Checking
 
 2017/10/04 Transfer
@@ -486,6 +486,29 @@
     Expenses:Clothing:Angela            $49.95
     Liabilities:Costco Visa
 
+2017/10/06 Laundry
+    Expenses:College:Laundry                   $8.00
+    Liabilities:Citibank MC
+
+2017/10/06 Allegiant Air
+    Expenses:Travel:Air                      $162.00
+    Liabilities:Costco Visa
+
+2017/10/07 Target
+    Expenses:Household                  $57.49
+    Liabilities:Amex Blue
+
+2017/10/07 Bed Bath & Beyond
+    Expenses:Household                  $27.34
+    Liabilities:Citibank MC
+
+2017/10/07 See’s Candies
+    Expenses:Food:Candy                 $23.05
+    Liabilities:Citibank MC
+
+2017/10/07
+    Expenses:Food:Dinner                $38.35
+    Liabilities:Citibank MC
 
 ;    Assets:Cash
 ;    Assets:WF Checking
