@@ -8,6 +8,7 @@
     Assets:G1 Savings                   $55.00
     Assets:Cash                         $89.72 ;$103.59
     Assets:Health Savings Account     $2472.17
+    Assets:FasTrak                      $25.00
     Liabilities:Costco Visa          $-5562.11
     Liabilities:Citibank MC          $-1796.21
     Liabilities:Amex Blue            $-5472.57
@@ -580,6 +581,56 @@
     Expenses:Savings:Anna               $65.38
     ;2277
     Assets:WF Checking
+
+2017/10/08 Willow Street Wood-Fired Pizza
+    Expenses:Tips:Food                         $25.00
+    Assets:Cash
+
+2017/10/08 Depeche Mode Concert
+    Expenses:Souvenirs:Lydia                   $40.00
+    Expenses:Souvenirs:Anna                    $10.00
+    Liabilities:Costco Visa
+
+2017/10/08 Depeche Mode Concert
+    Expenses:Food:Snacks                       $14.00
+    Assets:Cash
+
+2017/10/08 Depeche Mode Concert
+    Expenses:Travel:Parking                    $25.00
+    Assets:Cash
+
+2017/10/09 UCSB Parking
+    Expenses:Travel:Parking                     $9.00
+    Liabilities:Citibank MC
+
+2017/10/09 Jamba Juice
+    Expenses:Food:Breakfast:Eric                $5.00
+    Assets:Cash
+
+2017/10/09 FasTrak Bridge Tolls
+    Expenses:Travel:Tolls                       $5.00
+    Assets:FasTrak
+
+2017/10/09 Chevron
+    Expenses:Gas:Prius                         $29.27
+    Liabilities:Costco Visa
+
+2017/10/09 Shell
+    Expenses:Gas:Prius                         $18.53
+    Liabilities:Costco Visa
+
+2017/10/09 La Fiesta Taqueria
+    Expenses:Food:Dinner                      $25.21
+    Expenses:Tips:Food                         $3.00
+    Assets:Cash
+
+2017/10/09 The Horn Book
+    Expenses:Entertainment:Magazines           $35.00
+    Liabilities:Costco Visa
+
+2017/10/09 Amazon
+    Expenses:Drugstore:Anna                    $28.69
+    Liabilities:Citibank MC
 
 ;    Assets:Cash
 ;    Assets:WF Checking
