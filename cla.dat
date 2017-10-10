@@ -202,7 +202,7 @@
     Liabilities:Citibank MC
 
 2017/09/25 Barnes and Noble
-    Expenses:Food:Angela                 $7.47
+    Expenses:Food:Snacks:Angela           $7.47
     Assets:Cash
 
 2017/09/26 Rewards Statement Credit
@@ -620,8 +620,8 @@
     Liabilities:Costco Visa
 
 2017/10/09 La Fiesta Taqueria
-    Expenses:Food:Dinner                      $25.21
-    Expenses:Tips:Food                         $3.00
+    Expenses:Food:Dinner                       $25.21
+    Expenses:Tips:Food                          $3.00
     Assets:Cash
 
 2017/10/09 The Horn Book
