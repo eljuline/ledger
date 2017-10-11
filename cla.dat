@@ -424,9 +424,9 @@
     Assets:WF Checking
 
 2017/10/03 Cascada
-    Expenses:Food:Dinner:Angela         $44.45
+    Expenses:Food:Dinner:Angela         $53.45
     ; :gift:Michelle_Lombardi:
-    Expenses:Tips:Food                   $9.00
+    Expenses:Tips:Food                  $11.00 
     Liabilities:Amex Blue
 
 2017/10/04 City of Folsom
@@ -481,7 +481,7 @@
     Liabilities:Costco Visa
 
 2017/10/06 Laundry
-    Expenses:College:Laundry                   $8.00
+    Expenses:College:Laundry                   $5.50
     Liabilities:Citibank MC
 
 2017/10/06 Allegiant Air
@@ -545,7 +545,11 @@
     Liabilities:Citibank MC                 $2900.00
     Assets:WF Checking
 
-2017/10/08 Transfer8
+2017/10/08 Autopay
+    Liabilities:Citibank MC                   $25.00
+    Assets:WF Checking
+
+2017/10/08 Transfer
     Assets:G1 Checking                      $2000.00
     ;2275
     Assets:WF Checking
@@ -631,6 +635,18 @@
 2017/10/09 Amazon
     Expenses:Drugstore:Anna                    $28.69
     Liabilities:Citibank MC
+
+2017/10/09 Google
+    Expenses:Entertainment:Eric                 $0.99
+    Liabilities:Costco Visa
+
+2017/10/10 Laundry
+    Expenses:College:Laundry                    $8.00
+    Liabilities:Citibank MC
+
+2017/10/10 SMUD
+    Expenses:Utilities                        $139.41
+    Assets:WF Checking
 
 ;    Assets:Cash
 ;    Assets:WF Checking
