@@ -624,7 +624,7 @@
     Liabilities:Costco Visa
 
 2017/10/09 La Fiesta Taqueria
-    Expenses:Food:Dinner                       $25.21
+    Expenses:Food:Dinner                       $25.86
     Expenses:Tips:Food                          $3.00
     Assets:Cash
 
@@ -647,6 +647,33 @@
 2017/10/10 SMUD
     Expenses:Utilities                        $139.41
     Assets:WF Checking
+
+2017/10/10 Girl’s Life
+    Expenses:Entertainment:Magazines           $19.95
+    Liabilities:Amex Blue
+
+2017/10/10 UCSB Joe Biden 
+    Expenses:Entertainment:Anna                $28.00
+    Liabilities:Citibank MC
+
+2017/10/11 Raley’s
+    Expenses:Food:Groceries                    $55.93
+    Liabilities:Costco Visa
+
+2017/10/11 Mexquite Restaurant
+    Expenses:Food:Dinner                       $55.98
+    Expenses:Tips:Food                         $11.00
+    Liabilities:Costco Visa
+
+2017/10/11 Costco
+    Expenses:Food:Groceries                     $6.29
+    Expenses:Household                         $15.99
+    Expenses:Sales Tax                          $1.24
+    Liabilities:Costco Visa
+
+2017/10/11 Costco Gas
+    Expenses:Gas:Prius                         $20.50
+    Liabilities:Costco Visa
 
 ;    Assets:Cash
 ;    Assets:WF Checking
