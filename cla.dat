@@ -724,38 +724,42 @@
     Expenses:Food:Movies                      $14.11
     Assets:Cash
 
+2017/10/15 Google
+    Expenses:Entertainment:Eric           $0.99
+    Liabilities:Costco Visa
+
 2017/10/15 Baker's Dozen Donuts
-    Expenses:Food:Breakfast                    $5.50
+    Expenses:Food:Breakfast               $5.50
     Assets:Cash
 
 2017/10/15 Costco Gas
-    Expenses:Gas:Volvo                        $35.59
+    Expenses:Gas:Volvo                   $35.59
     Liabilities:Costco Visa
 
 2017/10/15 Winco Foods
-    Expenses:Groceries                        $33.19
-    Expenses:Food:Candy                        $8.04
-    Expenses:Sales Tax                         $0.39
+    Expenses:Groceries                   $33.19
+    Expenses:Food:Candy                   $8.04
+    Expenses:Sales Tax                    $0.39
     Assets:WF Checking
 
 2017/10/15 McDonald’s 
-    Expenses:Food:Dessert                      $4.77
-    Expenses:Sales Tax                         $0.37
+    Expenses:Food:Dessert                 $4.77
+    Expenses:Sales Tax                    $0.37
     Assets:Cash
 
 2017/10/15 See’s Candies
-    Expenses:Food:Candy                       $17.92
+    Expenses:Food:Candy                  $17.92
     Assets:Cash
 
 2017/10/15 Rod Works
-    Expenses:Presents                         $16.14
+    Expenses:Presents                    $16.14
     ; :gift:Stacy:
     Assets:Costco Visa
 
 2017/10/16 Amazon
-    Expenses:Presents                         $32.13
+    Expenses:Presents                    $32.13
     ; :gift:Stacy:
-    Expenses:Sales Tax                         $1.13
+    Expenses:Sales Tax                    $1.13
     Assets:Gift Cards:Amazon
 
 ;    Assets:Cash
