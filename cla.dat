@@ -657,7 +657,7 @@
     Liabilities:Citibank MC
 
 2017/10/11 Raley’s
-    Expenses:Food:Groceries                    $55.93
+    Expenses:Food:Groceries                    $55.53
     Liabilities:Costco Visa
 
 2017/10/11 Mexquite Restaurant
@@ -678,6 +678,85 @@
 2017/10/11 PG&E
     Expenses:Utilities                         $15.32
     Assets:WF Checking
+
+2017/10/12 Target
+    Expenses:Food:Candy                        $19.39
+    Expenses:Household                          $7.18
+    Expenses:Drugstore                          $5.39
+    Expenses:Sales Tax                          $0.97
+    Liabilities:Costco Visa
+
+2017/10/13 Withdrawal
+    Assets:Cash                               $200.00
+    Assets:WF Checking
+
+2017/10/13 Capital Costumes
+    Expenses:Activities:Dance                 $31.95
+    Expenses:Presents                         $19.00
+    ; :gift:anna:
+    Expenses:Sales Tax                        $3.95
+    Assets:Cash
+
+2017/10/13 Nate’s son’s gift
+    Expenses:Presents                         $20.00
+    ; :gift:Michael_Christinas_baby:
+    Assets:Cash
+
+2017/10/13 Boss’s Day
+    Expenses:Presents                         $10.00
+    ; :gift:boss_day:
+    Assets:Cash
+
+2017/10/14 Geico
+    Expenses:Insurance:Auto                  $149.15
+    Liabilities:Costco Visa
+
+2017/10/13 Laundry
+    Expenses:College:Laundry                   $8.00
+    Liabilities:Citibank MC
+
+2017/10/14 Unknown Cash
+    Expenses:Unknown                           $5.14
+    Assets:Cash
+
+2017/10/14 Regal EDH:Wind River
+    Expenses:Entertainment:Movies              $3.00
+    Expenses:Food:Movies                      $14.11
+    Assets:Cash
+
+2017/10/15 Baker's Dozen Donuts
+    Expenses:Food:Breakfast                    $5.50
+    Assets:Cash
+
+2017/10/15 Costco Gas
+    Expenses:Gas:Volvo                        $35.59
+    Liabilities:Costco Visa
+
+2017/10/15 Winco Foods
+    Expenses:Groceries                        $33.19
+    Expenses:Food:Candy                        $8.04
+    Expenses:Sales Tax                         $0.39
+    Assets:WF Checking
+
+2017/10/15 McDonald’s 
+    Expenses:Food:Dessert                      $4.77
+    Expenses:Sales Tax                         $0.37
+    Assets:Cash
+
+2017/10/15 See’s Candies
+    Expenses:Food:Candy                       $17.92
+    Assets:Cash
+
+2017/10/15 Rod Works
+    Expenses:Presents                         $16.14
+    ; :gift:Stacy:
+    Assets:Costco Visa
+
+2017/10/16 Amazon
+    Expenses:Presents                         $32.13
+    ; :gift:Stacy:
+    Expenses:Sales Tax                         $1.13
+    Assets:Gift Cards:Amazon
 
 ;    Assets:Cash
 ;    Assets:WF Checking
