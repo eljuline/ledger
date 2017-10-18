@@ -762,6 +762,19 @@
     Expenses:Sales Tax                    $1.13
     Assets:Gift Cards:Amazon
 
+2017/10/16 Barnes & Noble
+    Expenses:Presents                     $7.53
+    ; :gift:Stacy:
+    Assets:Cash
+
+2017/10/16 Sprouts
+    Expenses:Food:Groceries              $23.09
+    Assets:Cash
+
+2017/10/16 FCUSD Flu Shot
+    Expenses:Medical:Angela              $15.00
+    Assets:Cash
+
 ;    Assets:Cash
 ;    Assets:WF Checking
 ;    Liabilities:Amex Blue
