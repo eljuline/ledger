@@ -715,10 +715,6 @@
     Expenses:College:Laundry                   $8.00
     Liabilities:Citibank MC
 
-2017/10/14 Unknown Cash
-    Expenses:Unknown                           $5.14
-    Assets:Cash
-
 2017/10/14 Regal EDH:Wind River
     Expenses:Entertainment:Movies              $3.00
     Expenses:Food:Movies                      $14.11
@@ -737,7 +733,7 @@
     Liabilities:Costco Visa
 
 2017/10/15 Winco Foods
-    Expenses:Groceries                   $33.19
+    Expenses:Groceries                   $33.13
     Expenses:Food:Candy                   $8.04
     Expenses:Sales Tax                    $0.39
     Assets:WF Checking
@@ -754,7 +750,11 @@
 2017/10/15 Rod Works
     Expenses:Presents                    $16.14
     ; :gift:Stacy:
-    Assets:Costco Visa
+    Liabilities:Costco Visa
+
+2017/10/16 Kmart
+    Expenses:College:Supplies             $8.39
+    Liabilities:Citibank MC
 
 2017/10/16 Amazon
     Expenses:Presents                    $32.13
@@ -774,6 +774,10 @@
 2017/10/16 FCUSD Flu Shot
     Expenses:Medical:Angela              $15.00
     Assets:Cash
+
+2017/10/17 Unknown Cash
+    Assets:Cash                           $1.62
+    Income:Unknown
 
 ;    Assets:Cash
 ;    Assets:WF Checking
