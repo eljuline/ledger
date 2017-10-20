@@ -787,6 +787,26 @@
     Expenses:Food:Groceries              $28.08
     Assets:Cash
 
+2017/10/19 Trader Joe’s
+    Expenses:Food:Groceries              $35.38
+    Expenses:Food:Candy                   $3.99
+    Liabilities:Costco Visa
+
+2017/10/19 Winco Foods
+    Expenses:Food:Groceries              $26.25
+    Expenses:Drugstore:Pharmacy           $4.49
+    Expenses:Sales Tax                    $1.60
+    Assets:WF Checking
+
+2017/10/19 Winco Foods
+    Expenses:Household                    $4.21
+    Expenses:Sales Tax                    $0.33
+    Assets:Cash
+
+2017/10/19 Fabletics
+    Expenses:Clothing:Angela              $14.64
+    Liabilities:Costco Visa
+
 ;    Assets:Cash
 ;    Assets:WF Checking
 ;    Liabilities:Amex Blue
