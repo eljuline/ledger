@@ -804,8 +804,13 @@
     Assets:Cash
 
 2017/10/19 Fabletics
-    Expenses:Clothing:Angela              $14.64
+    Expenses:Clothing:Angela             $14.64
     Liabilities:Costco Visa
+
+2017/10/20 Costco Gas
+    Expenses:Gas:Prius                   $20.80
+    Liabilities:Costco Visa
+
 
 ;    Assets:Cash
 ;    Assets:WF Checking
