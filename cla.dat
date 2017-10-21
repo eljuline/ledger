@@ -88,7 +88,7 @@
     Assets:Cash                        $200.00
     Assets:WF Checking
 
-2017/09/21 Deposit
+2017/09/21 Payday
     Assets:WF Checking                  $18.19
     Income:Salary:FCUSD
 
@@ -105,7 +105,7 @@
     Assets:Cash                        $100.00
     Assets:WF Checking
 
-2017/09/22 Deposit
+2017/09/22 Payday
     Assets:WF Checking                $2863.62
     Income:Salary:Centene
 
@@ -463,7 +463,7 @@
     Expenses:House                    $1600.00
     Assets:WF Checking
 
-2017/10/06 Deposit
+2017/10/06 Payday
     Assets:WF Checking                $2828.42
     Income:Salary:Centene
 
@@ -806,6 +806,15 @@
 2017/10/19 Fabletics
     Expenses:Clothing:Angela              $14.64
     Liabilities:Costco Visa
+
+2017/10/20 Payday
+    Assets:WF Checking                $2828.43
+    Income:Salary:Centene
+
+2017/10/20 Deposit
+    Assets:Health Savings Account     $230.77
+    Income:Benefits:Centene           -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
 
 ;    Assets:Cash
 ;    Assets:WF Checking
