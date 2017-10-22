@@ -828,6 +828,17 @@
     Expenses:Food:Lunch                   $8.68
     Liabilities:Citibank MC
 
+2017/10/21 Jeff Runquist Wines
+    Expenses:Presents                    $27.00
+    ; :gift:Becky:
+    Expenses:Sales Tax                    $2.09
+    Liabilities:Costco Visa
+
+2017/10/21 KFC
+    Expenses:Food:Dinner                 $15.00
+    Expenses:Sales Tax                    $1.16
+    Assets:Cash
+
 ;    Assets:Cash
 ;    Assets:WF Checking
 ;    Liabilities:Amex Blue
