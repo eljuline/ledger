@@ -839,6 +839,42 @@
     Expenses:Sales Tax                    $1.16
     Assets:Cash
 
+2017/10/22 Baker’s Dozen Donuts
+    Expenses:Food:Breakfast               $6.55
+    Assets:Cash
+
+2017/10/22 Raley’s
+    Expenses:Household:Decorations.      $10.00
+    Liabilities:Citibank MC
+
+2017/10/22 Withdrawal
+    Assets:Cash                         $100.00
+    Assets:WF Checking
+
+2017/10/22 Whole Foods
+    Expenses:Presents                    $30.98
+    ; :gift:Girl_Scouts:
+    Expenses:Food:Groceries               $5.99
+    Expenses:Sales Tax                    $2.50
+    Liabilities:Costco Visa
+
+2017/10/10 Payday
+    Assets:MSEFCU Checking              $456.23
+    Income:Salary:FCUSD
+
+2017/10/10 Payday
+    Assets:MSEFCU Savings              $1000.18
+    Income:Salary:FCUSD
+
+2017/10/22 Winco Foods
+    Expenses:Food:Groceries              $35.69
+    Assets:WF Checking
+
+2017/10/23 Amex Blue Payment
+    Liabilities:Amex Blue              $4303.92
+    Assets:WF Checking
+
+
 ;    Assets:Cash
 ;    Assets:WF Checking
 ;    Liabilities:Amex Blue
