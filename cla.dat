@@ -874,6 +874,23 @@
     Liabilities:Amex Blue              $4303.92
     Assets:WF Checking
 
+2017/10/23 Ultra Mobile
+    Expenses:Communications:Cellular     $30.50
+    Liabilities:Amex Blue
+
+2017/10/23 Ulta
+    Expenses:Drugstore                  $121.55
+    Expenses:Sales Tax                    $0.00
+    Liabilities:Costco Visa
+
+2017/10/23 Round Table Pizza
+    Expenses:Food:Dinner                 $12.65
+    Assets:Cash
+
+2017/10/23 Round Table Pizza
+    Expenses:Food:Dinner                 $12.65
+    Assets:Cash
+
 
 ;    Assets:Cash
 ;    Assets:WF Checking
