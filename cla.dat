@@ -9,6 +9,7 @@
     Assets:Cash                         $89.72 ;$103.59
     Assets:Health Savings Account     $2472.17
     Assets:FasTrak                      $25.00
+    Assets:Gift Cards:Amazon            $36.62
     Liabilities:Costco Visa          $-5562.11
     Liabilities:Citibank MC          $-1796.21
     Liabilities:Amex Blue            $-5472.57
@@ -280,9 +281,11 @@
     Assets:Cash
 
 2017/09/30 Amazon
-    Expenses:Presents                   $33.40
+    Expenses:Presents                   $34.98
     ; :gift:Michelle_Lombardi:
-    Liabilities:Amex Blue
+    Expenses:Sales Tax                   $2.71
+    Assets:Gift Cards:Amazon            -$4.29
+    Liabilities:Amex Blue              -$33.40
 
 2017/09/30 Winco Foods
     Expenses:Food:Groceries             $11.04
@@ -699,7 +702,7 @@
 
 2017/10/13 Nate’s son’s gift
     Expenses:Presents                         $20.00
-    ; :gift:Michael_Christinas_baby:
+    ; :gift:Nate_son:
     Assets:Cash
 
 2017/10/13 Boss’s Day
@@ -838,6 +841,26 @@
     Expenses:Food:Dinner                 $15.00
     Expenses:Sales Tax                    $1.16
     Assets:Cash
+
+2017/10/21 Amazon
+    Expenses:Presents                     $6.27
+    ; :gift:Michael_Christinas_baby:
+    Expenses:Presents                    $15.29
+    ; :gift:Joanne:
+    Expenses:Sales Tax                    $1.67
+    Assets:Gift Cards:Amazon
+
+2017/10/21 Amazon
+    Expenses:Presents                    $18.85
+    ; :gift:Joanne:
+    Assets:Gift Cards:Amazon
+
+2017/10/21 Amazon
+    Expenses:Entertainment:Books         $11.32
+    Expenses:Presents                     $5.39
+    ; :gift:Michael_Christinas_baby:
+    Expenses:Sales Tax                    $0.42
+    Assets:Gift Cards:Amazon
 
 2017/10/22 Baker’s Dozen Donuts
     Expenses:Food:Breakfast               $6.55
