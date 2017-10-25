@@ -919,6 +919,20 @@
     ; :gift:Anna:
     Liabilities:Amex Blue
 
+2017/10/24 Banana Republic
+    Expenses:Clothing:Eric               $24.23
+    Liabilities:Amex Blue
+
+2017/10/24 Converse
+    Expenses:Clothing:Anna               $59.25
+    Expenses:Clothing:Lydia              $59.25
+    Liabilities:Amex Blue
+
+2017/10/24 MSEFCU
+    Expenses:Donations                  $150.00
+    Assets:MSEFCU Checking
+
+
 ;    Assets:Cash
 ;    Assets:WF Checking
 ;    Liabilities:Amex Blue
