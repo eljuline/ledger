@@ -914,6 +914,11 @@
     Expenses:Food:Dinner                 $12.65
     Assets:Cash
 
+2017/10/23 Starbucks
+    Expenses:Food:Angela                  $4.26
+    Expenses:Tips:Food                    $1.00
+    Assets:Cash
+
 2017/10/24 Sweetwater Music
     Expenses:Presents                   $599.99
     ; :gift:Anna:
