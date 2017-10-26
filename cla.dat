@@ -89,7 +89,7 @@
     Assets:Cash                        $200.00
     Assets:WF Checking
 
-2017/09/21 Payday
+2017/09/21 Payday - Mileage
     Assets:WF Checking                  $18.19
     Income:Salary:FCUSD
 
@@ -819,6 +819,14 @@
     Income:Benefits:Centene           -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
+2017/10/20 Cap Radio
+    Expenses:Donations                  $10.00
+    Liabilities:Costco Visa
+
+2017/10/13 Laundry
+    Expenses:College:Laundry             $4.75
+    Liabilities:Citibank MC
+
 2017/10/21 Costco Gas
     Expenses:Gas:Prius                   $20.80
     Liabilities:Costco Visa
@@ -919,6 +927,10 @@
     Expenses:Tips:Food                    $1.00
     Assets:Cash
 
+2017/10/23 Payday - Mileage
+    Assets:WF Savings                    $37.99
+    Income:Salary:FCUSD
+
 2017/10/24 Sweetwater Music
     Expenses:Presents                   $599.99
     ; :gift:Anna:
@@ -936,6 +948,19 @@
 2017/10/24 MSEFCU
     Expenses:Donations                  $150.00
     Assets:MSEFCU Checking
+
+2017/10/25 Rocksbox
+    Expenses:Clothing:Angela             $19.00
+    Liabilities:Citibank MC
+
+2017/10/25 Becky
+    Expenses:Presents                    $10.00
+    ; :gift:Joanne:
+    Assets:Cash
+
+2017/10/25 Casa Ramos
+    Expenses:Food:Angela                 $20.00
+    Assets:Cash
 
 
 ;    Assets:Cash
