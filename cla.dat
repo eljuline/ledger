@@ -962,6 +962,13 @@
     Expenses:Food:Angela                 $20.00
     Assets:Cash
 
+2017/10/26 Withdrawal
+    Assets:Cash                         $100.00
+    Assets:WF Checking
+
+2017/10/26 Chevron Mini-mart
+    Expenses:Food:Eric                    $2.19
+    Assets:Cash
 
 ;    Assets:Cash
 ;    Assets:WF Checking
