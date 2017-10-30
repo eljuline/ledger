@@ -987,8 +987,12 @@
     Expenses:Insurance:Home            $115.95
     Liabilities:Citibank MC
 
+2017/10/27 David Witkowski
+    Expenses:Activities:Saxophone.     $110.00
+    Assets:MSEFCU Checking
+
 2017/10/27 Taco Bell
-    Expenses:Food:Dinner                 $7.00
+    Expenses:Food:Dinner                 $7.28
     Assets:Cash
 
 2017/10/28 Stitch Fix
@@ -1031,6 +1035,27 @@
 2017/10/28 Laundry
     Expenses:College:Laundry             $8.00
     Liabilities:Citibank MC
+
+2017/10/28 Lowe’s
+    Expenses:Household                   $8.95
+    Expenses:Sales Tax                   $0.69
+    Assets:Cash
+
+2017/10/29 Baker’s Dozen Donuts
+    Expenses:Food:Breakfast              $4.65
+    Assets:Cash
+
+2017/10/29 Safeway Fuel
+    Expenses:Gas:Prius                  $22.33
+    Liabilities:Costco Visa
+
+2017/10/29 Stockton Airport Parking
+    Expenses:Travel:Parking             $30.00
+    Liabilities:Costco Visa
+
+2017/10/29 Farm Fresh to You
+    Expenses:Food:Groceries             $28.37
+    Liabilities:Costco Visa
 
 ;    Assets:Cash
 ;    Assets:WF Checking
