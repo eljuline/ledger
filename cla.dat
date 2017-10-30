@@ -970,6 +970,68 @@
     Expenses:Food:Eric                    $2.19
     Assets:Cash
 
+2017/10/26 Haircut
+    Expenses:Cosmetic                   $143.00
+    Expenses:Drugstore                   $32.00
+    Assets:MSEFCU Checking
+
+2017/10/27 VG's Donuts
+    Expenses:Food:Breakfast:Eric         $8.94
+    Assets:Cash
+
+2017/10/27 Valet Parking
+    Expenses:Tips:Valet                  $1.00
+    Assets:Cash
+
+2017/10/27 AAA Insurance
+    Expenses:Insurance:Home            $115.95
+    Liabilities:Citibank MC
+
+2017/10/27 Taco Bell
+    Expenses:Food:Dinner                 $7.00
+    Assets:Cash
+
+2017/10/28 Stitch Fix
+    Expenses:Clothing:Angela            $20.00
+    Liabilities:Costco Visa
+
+2017/10/28 Tito's Tacos
+    Expenses:Food:Lunch                 $38.70
+    Expenses:Tips:Food                   $3.00
+    Assets:Cash
+
+2017/10/28 UCSB Parking
+    Expenses:Travel:Parking              $5.00
+    Liabilities:Citibank MC
+
+2017/10/28 UCSB Bookstore
+    Expenses:Food:Lunch                  $2.39
+    Assets:Cash
+
+2017/10/28 Panda Express 
+    Expenses:Food:Lunch                  $1.83
+    Assets:Cash
+
+2017/10/28 Trader Joe's
+    Expenses:Food:Groceries:Anna         $8.46
+    Liabilities:Costco Visa
+
+2017/10/28 UCSB Women's Volleyball vs Hawaii
+    Expenses:Entertainment:Athletics     $9.00
+    Assets:Cash
+
+2017/10/28 The Habit
+    Expenses:Food:Dinner                $20.47
+    Liabilities:Costco Visa
+
+2017/10/28 Chevron
+    Expenses:Gas:Parents                $55.50
+    Liabilities:Costco Visa
+
+2017/10/28 Laundry
+    Expenses:College:Laundry             $8.00
+    Liabilities:Citibank MC
+
 ;    Assets:Cash
 ;    Assets:WF Checking
 ;    Liabilities:Amex Blue
