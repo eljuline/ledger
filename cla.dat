@@ -975,6 +975,10 @@
     Expenses:Drugstore                   $32.00
     Assets:MSEFCU Checking
 
+2017/10/26 Laundry
+    Expenses:College:Laundry.            $5.50
+    Liabilities:Citibank MC
+
 2017/10/27 VG's Donuts
     Expenses:Food:Breakfast:Eric         $8.94
     Assets:Cash
@@ -998,6 +1002,10 @@
 2017/10/28 Stitch Fix
     Expenses:Clothing:Angela            $20.00
     Liabilities:Costco Visa
+
+2017/10/26 Laundry
+    Expenses:College:Laundry.            $2.75
+    Liabilities:Citibank MC
 
 2017/10/28 Tito's Tacos
     Expenses:Food:Lunch                 $38.70
@@ -1047,7 +1055,7 @@
 
 2017/10/29 Safeway Fuel
     Expenses:Gas:Prius                  $22.33
-    Liabilities:Costco Visa
+    Liabilities:Citibank MC
 
 2017/10/29 Stockton Airport Parking
     Expenses:Travel:Parking             $30.00
