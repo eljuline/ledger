@@ -10,6 +10,7 @@
     Assets:Health Savings Account     $2472.17
     Assets:FasTrak                      $25.00
     Assets:Gift Cards:Amazon            $36.62
+    Assets:Gift Cards:The Habit         $40.00
     Liabilities:Costco Visa          $-5562.11
     Liabilities:Citibank MC          $-1796.21
     Liabilities:Amex Blue            $-5472.57
@@ -1073,6 +1074,12 @@
 2017/10/29 Farm Fresh to You
     Expenses:Food:Groceries             $28.37
     Liabilities:Costco Visa
+
+2017/10/29 The Habit
+    Expenses:Food:Dinner                $22.14
+    Assets:Gift Cards:The Habit        -$22.14
+    Expenses:Tips:Food                   $3.00
+    Assets:Cash                         -$3.00
 
 2017/10/30 Safeway
     Expenses:Food:Groceries             $14.37
