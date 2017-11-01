@@ -1104,6 +1104,20 @@
     Expenses:Sales Tax                   $2.40
     Assets:Gift Cards:Amazon
 
+2017/10/31 Amazon
+    Expenses:Presents                    $6.59
+    ; :gift:Anna:
+    Assets:Gift Cards:Amazon            -$4.94
+    Liabilities:Amex Blue
+
+;2017/10/31 Target
+
+2017/11/01 Credit Card Payment
+    Liabilities:Amex Blue             $2017.27
+    Liabilities:Amex Blue               $71.06
+    Assets:WF Checking
+
+
 ;    Assets:Cash
 ;    Assets:WF Checking
 ;    Liabilities:Amex Blue
