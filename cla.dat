@@ -1108,15 +1108,26 @@
     Expenses:Presents                    $6.59
     ; :gift:Anna:
     Assets:Gift Cards:Amazon            -$4.94
-    Liabilities:Amex Blue
+    Liabilities:Amex Blue               -$1.65
 
-;2017/10/31 Target
-
-2017/11/01 Credit Card Payment
-    Liabilities:Amex Blue             $2017.27
-    Liabilities:Amex Blue               $71.06
+2017/10/31 Target
+    Expenses:Clothing:Eric              $29.99
+    Expenses:Food:Candy                  $2.66
+    Expenses:Food:Groceries              $8.17
+    Expenses:Drugstore                  $15.47
+    Expenses:Clothing:Angela            $17.99
+    Expenses:Sales Tax                   $4.66
+    Expenses:Discounts:Red Card         -$3.81
     Assets:WF Checking
 
+2017/11/01 Credit Card Payment
+    Liabilities:Costco Visa           $2017.27
+    Liabilities:Costco Visa             $71.06
+    Assets:WF Checking
+
+2017/11/01 AT&T
+    Expenses:Communications:TV,Internet,Home Phone             $247.85
+    Liabilities:Amex Blue
 
 ;    Assets:Cash
 ;    Assets:WF Checking
