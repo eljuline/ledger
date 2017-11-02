@@ -458,6 +458,9 @@
     Expenses:Finance Charge             $63.06
     Liabilities:Costco Visa
 
+2017/10/04 Kathy Copeland
+    Expenses:Activities:Piano           $75.00
+    Assets:MSEFCU Checking
 
 2017/10/05 Verizon Wireless
     Expenses:Communications:Cellular   $103.27
@@ -971,7 +974,7 @@
     Expenses:Food:Eric                    $2.19
     Assets:Cash
 
-2017/10/26 Haircut
+2017/10/26 Haircut - Jamee Neumann
     Expenses:Cosmetic                   $143.00
     Expenses:Drugstore                   $32.00
     Assets:MSEFCU Checking
@@ -993,7 +996,7 @@
     Liabilities:Citibank MC
 
 2017/10/27 David Witkowski
-    Expenses:Activities:Saxophone.     $110.00
+    Expenses:Activities:Saxophone      $110.00
     Assets:MSEFCU Checking
 
 2017/10/27 Taco Bell
@@ -1081,6 +1084,10 @@
     Expenses:Tips:Food                   $3.00
     Assets:Cash                         -$3.00
 
+2017/10/29 FUMC
+    Expenses:Donations:Church          $140.00
+    Assets:MSEFCU Checking
+
 2017/10/30 Safeway
     Expenses:Food:Groceries             $14.37
     Expenses:Food:Candy                  $3.00
@@ -1120,6 +1127,11 @@
     Expenses:Discounts:Red Card         -$3.81
     Assets:WF Checking
 
+2017/10/31 Payday
+    Assets:MSEFCU Checking             $825.00
+    Assets:MSEFCU Savings              $300.00
+    Income:Salary:FCUSD
+
 2017/11/01 Credit Card Payment
     Liabilities:Costco Visa           $2017.27
     Liabilities:Costco Visa             $71.06
@@ -1128,6 +1140,10 @@
 2017/11/01 AT&T
     Expenses:Communications:TV,Internet,Home Phone             $247.85
     Liabilities:Amex Blue
+
+2017/11/01 Kathy Copeland
+    Expenses:Activities:Piano          $100.00
+    Assets:MSEFCU Checking
 
 ;    Assets:Cash
 ;    Assets:WF Checking
