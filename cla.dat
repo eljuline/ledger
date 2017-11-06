@@ -1145,6 +1145,110 @@
     Expenses:Activities:Piano          $100.00
     Assets:MSEFCU Checking
 
+2017/11/02 Trader Joe's
+    Expenses:Presents                   $15.15
+    Expenses:Food:Groceries             $65.33
+    Liabilities:Costco Visa
+
+2017/11/03 Willow Creek Cleaners
+    Expenses:Cleaners                   $38.62
+    Liabilities:Citibank MC
+
+2017/11/03 Taco Bell
+    Expenses:Food:Dinner                $10.84
+    Assets:Cash
+
+2017/11/03 Union 76
+    Expenses:Gas:Rental Car             $21.96
+    Liabilities:Costco Visa
+
+2017/11/03 Hertz
+    Expenses:Travel:Rental Car         $107.00
+    Liabilities:Citibank MC
+
+2017/11/03 Laundry
+    Expenses:College:Laundry             $2.75
+    Liabilities:Citibank MC
+
+2017/11/03 McConnell's Fine Ice Cream
+    Expenses:Food:Dessert               $27.80
+    Expenses:Sales Tax                   $0.64
+    Expenses:Tips:Food                   $4.27
+    Liabilities:Citibank MC
+
+2017/11/03 Hawkins Dance
+    Expenses:Activities:Dance          $298.00
+    Liabilities:Citibank MC
+
+2017/11/03 Payday
+    Assets:WF Checking                $2828.43
+    Income:Salary:Centene
+
+2017/11/03 Deposit
+    Assets:Health Savings Account     $230.77
+    Income:Benefits:Centene           -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2017/11/04 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2017/11/04 Walgreen's
+    Expenses:Drugstore                   $1.39
+    Expenses:Food:Groceries              $4.28
+    Expenses:Sales Tax                   $0.11
+    Assets:Cash
+
+2017/11/04 Norton's Deli
+    Expenses:Food:Lunch                 $40.27
+    Expenses:Sales Tax                   $3.12
+    Liabilities:Citibank MC
+
+2017/11/04 Norton's Deli
+    Expenses:Tips:Food                   $6.00
+    Assets:Cash
+
+2017/11/04 Union 76
+    Expenses:Gas:Rental Car             $27.93
+    Liabilities:Costco Visa
+
+2017/11/04 Whole Foods
+    Expenses:College:Drugstore          $20.76
+    Expenses:College:Groceries           $7.58
+    Expenses:Sales Tax                   $1.71
+    Liabilities:Citibank MC
+
+2017/11/04 Woodstock's Pizza
+    Expenses:Food:Dinner:Eric            $3.83
+    Assets:Cash
+
+2017/11/04 McConnell's Fine Ice Cream
+    Expenses:Food:Dessert               $18.20
+    Expenses:Tips:Food                   $1.80
+    Assets:Cash
+
+2017/11/04 Francesca's
+    Expenses:Drugstore                   $8.62
+    Assets:Cash
+;air freshener 
+
+2017/11/04 UCSB Parking
+    Expenses:Travel:Parking              $4.00
+    Liabilities:Citibank MC
+
+2017/11/04 Plum Goods
+    Expenses:Presents                   $81.89
+    Liabilities:Citibank MC
+
+2017/11/05 Pacifica Suites
+    Expenses:Tips:Food                   $2.00
+    Assets:Cash
+
+2017/11/05 Pacifica Suites
+    Expenses:Tips:Travel                $10.00
+    Assets:Cash
+
+
 ;    Assets:Cash
 ;    Assets:WF Checking
 ;    Liabilities:Amex Blue
