@@ -1172,7 +1172,7 @@
     Liabilities:Costco Visa
 
 2017/11/03 Hertz
-    Expenses:Travel:Rental Car         $107.00
+    Expenses:Travel:Rental Car         $107.42
     Liabilities:Citibank MC
 
 2017/11/03 Laundry
@@ -1284,6 +1284,14 @@
 2017/11/05 Chase Mortgage
     Expenses:House                    $1600.00
     Assets:WF Checking
+
+2017/11/06 Costco Gas
+    Expenses:Gas:Prius                  $18.58
+    Liabilities:Costco Visa
+
+2017/11/06 Chevron
+    Expenses:Gas:Rental Car              $8.40
+    Liabilities:Costco Visa
 
 
 
