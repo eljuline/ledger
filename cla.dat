@@ -1124,7 +1124,8 @@
     Expenses:Drugstore                  $15.47
     Expenses:Clothing:Angela            $17.99
     Expenses:Sales Tax                   $4.66
-    Expenses:Discounts:Red Card         -$3.81
+    Expenses:Discounts:Red Card         -$3.76
+    Expenses:Discounts:Bag              -$0.05
     Assets:WF Checking
 
 2017/10/31 Payday
@@ -1321,6 +1322,43 @@
 2017/11/07 Verizon Wireless
     Expenses:Communications:Cellular   $103.36
     Liabilities:Amex Blue
+
+2017/11/07 Library
+    Expenses:Fines                       $0.25
+    Liabilities:Citibank MC
+
+2017/11/07 Trader Joe’s
+    Expenses:Food:Groceries             $16.21
+    Expenses:Pets                        $2.99
+    Expenses:Sales Tax                   $0.23
+    Assets:Cash
+
+2017/11/07 Donation
+    Expenses:Donations:Homeless          $3.00
+    Assets:Cash
+
+2017/11/07 Target
+    Assets:WF Checking                  $30.70
+    Expenses:Discounts:Red Card          $1.50
+    Expenses:Clothing:Eric             -$29.99
+    Expenses:Sales Tax                  -$2.21
+
+2017/11/07 Target
+    Expenses:Clothing:Eric               $4.18
+    Expenses:Food:Groceries              $6.24
+    Expenses:Drugstore                   $6.77
+    Expenses:Sales Tax                   $1.33
+    Expenses:Discounts:Bag              -$0.05
+    Assets:Gift Cards:Target
+
+2017/11/08 Credit Card Payment
+    Liabilities:Citibank MC            $967.97
+    Assets:WF Checking
+
+2017/11/08 Credit Card Autopay
+    Liabilities:Citibank MC             $25.00
+    Assets:WF Checking
+
 
 ;    Assets:Cash
 ;    Assets:WF Checking
