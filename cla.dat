@@ -1315,6 +1315,10 @@
     Expenses:Entertainment:Wine Tasting     $10.00
     Assets:Cash
 
+2017/11/06 Nothing Bundt Cakes
+    Expenses:Food:Dessert                $8.50
+    Assets:Cash
+
 2017/11/07 Hertz
     Expenses:Travel:Rental Car         $107.42
     Liabilities:Citibank MC
@@ -1358,7 +1362,6 @@
 2017/11/08 Credit Card Autopay
     Liabilities:Citibank MC             $25.00
     Assets:WF Checking
-
 
 ;    Assets:Cash
 ;    Assets:WF Checking
