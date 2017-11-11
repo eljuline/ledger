@@ -1435,6 +1435,16 @@
     Expenses:Postage                     $7.80
     Assets:Cash
 
+2017/11/11 Target
+    Expenses:Groceries:Food.             $4.16
+    Expenses:Entertainment:Movies.       $5.00
+    Expenses:Clothing:Angela             $9.00
+    Expenses:Clothing:Lydia              $9.00
+    Expenses:Clothing:Anna              $24.99
+    Expenses:Sales Tax                   $4.04
+    Expenses:Discounts:Bag              -$0.05
+    Assets:Gift Cards:Target
+
 ; 4816.90 10
 
 ;    Assets:Cash
