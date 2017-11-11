@@ -1405,7 +1405,7 @@
     Assets:Cash
 
 2017/11/10 Laundry
-    Expenses:College:Laundry.            $4.75
+    Expenses:College:Laundry             $4.75
     Liabilities:Citibank MC
 
 2017/11/11 UCSB
@@ -1437,7 +1437,7 @@
 
 2017/11/11 Target
     Expenses:Groceries:Food.             $4.16
-    Expenses:Entertainment:Movies.       $5.00
+    Expenses:Entertainment:Movies        $5.00
     Expenses:Clothing:Angela             $9.00
     Expenses:Clothing:Lydia              $9.00
     Expenses:Clothing:Anna              $24.99
