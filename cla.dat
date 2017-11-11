@@ -1174,7 +1174,7 @@
     Assets:Cash
 
 2017/11/03 Willow Creek Cleaners
-    Expenses:Cleaners                   $38.62
+    Expenses:Dry Cleaning               $38.62
     Liabilities:Citibank MC
 
 2017/11/03 Taco Bell
@@ -1426,6 +1426,14 @@
 2017/11/11 Comcast Xfinity
     Expenses:Communications:Internet,Home Phone     $50.00
     Liabilities:Amex Blue
+
+2017/11/10 Willow Creek Cleaners
+    Expenses:Dry Cleaning               $13.50
+    Assets:Cash
+
+2017/11/10 USPS
+    Expenses:Postage                     $7.80
+    Assets:Cash
 
 ; 4816.90 10
 
