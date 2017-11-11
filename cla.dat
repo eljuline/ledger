@@ -2,7 +2,7 @@
     Assets:College                   $12549.77
     Assets:WF Checking                $1966.10
     Assets:WF Savings                  $433.80
-    Assets:MSEFCU Checking             $828.88
+    Assets:MSEFCU Checking             $928.88
     Assets:MSEFCU Savings             $2341.62
     Assets:G1 Checking                 $583.61
     Assets:G1 Savings                   $55.00
@@ -20,6 +20,15 @@
 2017/09/12 UCSB
     Expenses:College:UCSB BARC        $5823.16
     Assets:College
+
+2017/09/14 Folsom High School
+    Expenses:Donations                  $60.00
+    ; :CSF:
+    Assets:MSEFCU Checking
+
+2017/09/15 AFSP
+    Expenses:Donations                  $25.00
+    Assets:MSEFCU Checking
 
 2017/09/17 Winco Foods
     Expenses:Food:Groceries             $80.80
@@ -133,7 +142,7 @@
 
 2017/09/23 Kmart
     Expenses:College:Supplies           $20.70
-    Expenses:Automotive                  $1.08
+    Expenses:Automotive:Tools            $1.08
     Assets:Cash
 
 2017/09/23 Gino's Pizza
@@ -894,7 +903,7 @@
     Liabilities:Costco Visa
 
 2017/10/10 Payday
-    Assets:MSEFCU Checking              $456.23
+    Assets:MSEFCU Checking              $477.23
     Income:Salary:FCUSD
 
 2017/10/10 Payday
@@ -1106,7 +1115,7 @@
     Liabilities:Citibank MC
 
 2017/10/30 Amazon
-    Expenses:Automotive                 $16.02
+    Expenses:Automotive:Prius           $16.02
     Expenses:Household                  $14.95
     Expenses:Sales Tax                   $2.40
     Assets:Gift Cards:Amazon
@@ -1132,6 +1141,10 @@
     Assets:MSEFCU Checking             $825.00
     Assets:MSEFCU Savings              $300.00
     Income:Salary:FCUSD
+
+2017/10/31 Dividend
+    Assets:MSEFCU Savings                $0.27
+    Income:Interest:MSEFCU Savings
 
 2017/11/01 Credit Card Payment
     Liabilities:Costco Visa           $2017.27
@@ -1362,6 +1375,59 @@
 2017/11/08 Credit Card Autopay
     Liabilities:Citibank MC             $25.00
     Assets:WF Checking
+
+2017/11/08 SMUD
+    Expenses:Utilities                  $81.92
+    Assets:WF Checking
+
+2017/11/10 Stitch Fix
+    Expenses:Clothing:Angela           $158.87
+    Liabilities:Costco Visa
+
+2017/11/10 Shannon Family Automotive
+    Expenses:Automotive:Service:Prius   $57.05
+    Liabilities:Costco Visa
+
+2017/11/10 PG&E
+    Expenses:Utilities                  $14.08
+    Assets:WF Checking
+
+2017/11/10 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2017/11/10 Payday
+    Assets:MSEFCU Checking             $331.39
+    Income:Salary:FCUSD
+
+2017/11/10 Raley’s
+    Expenses:Food:Groceries             $25.37
+    Assets:Cash
+
+2017/11/10 Laundry
+    Expenses:College:Laundry.            $4.75
+    Liabilities:Citibank MC
+
+2017/11/11 UCSB
+    Expenses:College:UCSB BARC        $3922.36
+    Assets:College
+
+2017/11/11 Amazon
+    Expenses:Presents                   $10.86
+    ; :gift:Jen_Jacobs:
+    Expenses:Sales Tax                   $0.84
+    Liabilities:Amex Blue
+
+2017/11/11 Amazon
+    Expenses:Communications:Equipment  $212.27
+    Expenses:Sales Tax                  $16.45
+    Liabilities:Amex Blue
+
+2017/11/11 Comcast Xfinity
+    Expenses:Communications:Internet,Home Phone     $50.00
+    Liabilities:Amex Blue
+
+; 4816.90 10
 
 ;    Assets:Cash
 ;    Assets:WF Checking
