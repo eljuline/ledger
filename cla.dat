@@ -9,6 +9,7 @@
     Assets:Cash                         $89.72 ;$103.59
     Assets:Health Savings Account     $2472.17
     Assets:FasTrak                      $25.00
+    Assets:Gift Cards:American Eagle    $37.01
     Assets:Gift Cards:Amazon            $36.62
     Assets:Gift Cards:The Habit         $40.00
     Liabilities:Costco Visa          $-5562.11
@@ -285,8 +286,8 @@
     ; :gift:Donna_Evans:
     Assets:Cash
 
-2017/09/30 Cinemark:American Assassin
-    Expenses:Entertainment:Movies       $10.50
+2017/09/30 Cinemark
+    Expenses:Entertainment:Movies       $10.50     ;American Assassin
     Expenses:Food:Movies                 $7.50
     Assets:Cash
 
@@ -731,9 +732,9 @@
     Expenses:College:Laundry                   $8.00
     Liabilities:Citibank MC
 
-2017/10/14 Regal EDH:Wind River
-    Expenses:Entertainment:Movies              $3.00
-    Expenses:Food:Movies                      $14.11
+2017/10/14 Regal EDH
+    Expenses:Entertainment:Movies        $3.00     ;Wind River
+    Expenses:Food:Movies                $14.11
     Assets:Cash
 
 2017/10/15 Google
@@ -1286,7 +1287,9 @@
     Assets:Cash
 
 2017/11/05 USCB Bookstore
-    Expenses:Presents                  $130.32
+    Expenses:Presents                  $107.96
+    Expenses:College:Supplies           $12.99
+    Expenses:Sales Tax                   $9.37
     Liabilities:Costco Visa
 
 2017/11/05 Money for Anna
@@ -1428,7 +1431,7 @@
     Liabilities:Amex Blue
 
 2017/11/10 Willow Creek Cleaners
-    Expenses:Cleaners.                  $13.50
+    Expenses:Cleaners                   $13.50
     Assets:Cash
 
 2017/11/10 USPS
@@ -1436,8 +1439,8 @@
     Assets:Cash
 
 2017/11/11 Target
-    Expenses:Groceries:Food.             $4.16
-    Expenses:Entertainment:Movies        $5.00
+    Expenses:Groceries:Food              $4.16
+    Expenses:Entertainment:Movies        $5.00     ;Live Die Repeat
     Expenses:Clothing:Angela             $9.00
     Expenses:Clothing:Lydia              $9.00
     Expenses:Clothing:Anna              $24.99
@@ -1448,6 +1451,58 @@
 2017/11/11 Target
     Assets:Cash                          $9.70
     Income:Gift
+
+2017/11/11 Shell
+    Expenses:Gas:Prius                  $19.00
+    Liabilities:Costco Visa
+
+2017/11/11 Tolls
+    Expenses:Travel:Tolls                $5.00
+    Assets:FasTrak
+
+2017/11/11 Parking
+    Expenses:Travel:Parking              $2.25
+    Assets:Cash
+
+2017/11/11 Rusty's Barbecue
+    Expenses:Tips:Food                  $30.00
+    Assets:Cash
+
+2017/11/11 USF
+    Expenses:Entertainment:Athletics     $3.00
+    Assets:Cash
+
+2017/11/11 USF
+    Expenses:Food:Snacks                $16.00
+    Assets:Cash
+
+2017/11/11 Tolls
+    Expenses:Travel:Tolls                $4.00
+    Assets:FasTrak
+
+2017/11/12 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $5.80
+    Assets:Cash
+
+2017/11/12 American Eagle
+    Expenses:Clothing:Anna              $74.20
+    Expenses:Clothing:Lydia             $74.20
+    Expenses:Sales Tax                  $11.50
+    Assets:Gift Cards:American Eagle   -$37.01
+    Liabilities:Amex Blue
+
+2017/11/12 Woodstock's Pizza
+    Expenses:Food:Dinner:Anna           $20.63
+    Liabilities:Citibank MC
+
+2017/11/12 Amazon
+    Expenses:Entertainment:Movies        $5.99     ;The Secret Life of Walter Mitty
+    Expenses:Sales Tax                   $0.46
+    Liabilities:Amex Blue
+
+2017/11/13 Deposit
+    Assets:WF Checking                  $25.00
+    Expenses:Presents
 
 
 ; 4816.90 10
