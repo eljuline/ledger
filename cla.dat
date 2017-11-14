@@ -1504,7 +1504,33 @@
     Assets:WF Checking                  $25.00
     Expenses:Presents
 
+2017/11/13 Dos Coyotes
+    Expenses:Food:Lunch:Angela          $11.61
+    Assets:Cash
 
+2017/11/13 El Tapatio
+    Expenses:Food:Lunch:Eric            $30.00
+    Expenses:Tips:Food                   $5.00
+    Assets:Cash
+
+2017/11/13 Winco Foods
+    Expenses:Food:Groceries             $55.68
+    Assets:WF Checking
+
+2017/11/13 Raley's
+    Expenses:Food:Groceries             $17.70
+    Assets:Cash
+
+2017/11/13 Hawkins
+    Expenses:Activities:Dance          $429.00
+    Assets:MSEFCU Checking
+
+2017/11/13 Round Table
+    Expenses:Food:Dinner                $12.65
+    Assets:Cash
+
+
+    
 ; 4816.90 10
 
 ;    Assets:Cash
