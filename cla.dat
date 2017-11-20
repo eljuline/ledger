@@ -12,6 +12,7 @@
     Assets:Gift Cards:American Eagle    $37.01
     Assets:Gift Cards:Amazon            $36.62
     Assets:Gift Cards:The Habit         $40.00
+    Assets:Car Money:Volvo               $5.14
     Liabilities:Costco Visa          $-5562.11
     Liabilities:Citibank MC          $-1796.21
     Liabilities:Amex Blue            $-5472.57
@@ -385,7 +386,7 @@
     Liabilities:Costco Visa
 
 2017/10/01 Car Money
-    Assets:Car Money                    $10.00
+    Assets:Car Money:Prius              $10.00
     Assets:Cash
 
 2017/10/02 Netflix
@@ -790,10 +791,6 @@
 
 2017/10/16 FCUSD Flu Shot
     Expenses:Medical:Angela              $15.00
-    Assets:Cash
-
-2017/10/17 Unknown Cash
-    Expenses:Unknown                      $5.38
     Assets:Cash
 
 2017/10/17 Ralph’s
@@ -1422,7 +1419,7 @@
     Liabilities:Amex Blue
 
 2017/11/11 Amazon
-    Expenses:Communications:Equipment  $212.27
+    Expenses:Household:Electronics     $212.27
     Expenses:Sales Tax                  $16.45
     Liabilities:Amex Blue
 
@@ -1500,10 +1497,6 @@
     Expenses:Sales Tax                   $0.46
     Liabilities:Amex Blue
 
-2017/11/13 Deposit
-    Assets:WF Checking                  $25.00
-    Expenses:Presents
-
 2017/11/13 Dos Coyotes
     Expenses:Food:Lunch:Angela          $11.61
     Assets:Cash
@@ -1533,7 +1526,109 @@
     Expenses:Insurance:Auto            $149.15
     Liabilities:Costco Visa
 
-    
+2017/11/15 Amazon
+    Expenses:Presents                   $40.00
+    ; :gift:George:
+    Liabilities:Amex Blue
+
+2017/11/15 Penzey's
+    Expenses:Presents                   $38.95
+    ; :gift:
+    Liabilities:Costco Visa
+
+2017/11/15 Arco
+    Expenses:Gas:Prius                   $8.00
+    Assets:Cash
+
+2017/11/16 Amazon
+    Expenses:Household:Electronics       $6.47
+    Expenses:Sales Tax                   $0.50
+    Liabilities:Amex Blue
+
+2017/11/16 Sling TV
+    Expenses:Entertainment:TV          $224.90
+    Expenses:Household:Electronics      $70.00
+    Expenses:Sales Tax                   $5.47
+    Liabilities:Amex Blue
+
+2017/11/16 Laundry
+    Expenses:College:Laundry             $5.50
+    Liabilities:Citibank MC
+
+2017/11/17 Payday
+    Assets:WF Checking                $2828.41
+    Income:Salary:Centene
+
+2017/11/17 Deposit
+    Assets:Health Savings Account      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2017/11/17 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2017/11/17 Taco Bell
+    Expenses:Food:Dinner                 $5.14
+    Assets:Cash
+
+2017/11/17 Folsom Music Boosters Crab Feed
+    Expenses:Donations:Raffle           $20.00
+    Expenses:Food:Wine                  $40.00
+    Assets:Cash
+
+2017/11/18 Car Money
+    Assets:Car Money:Volvo               $4.86
+    Assets:WF Checking
+
+2017/11/18 Lowe's
+    Expenses:Household                  $10.97
+    Expenses:Sales Tax                   $0.85
+    Liabilities:Amex Blue
+
+2017/11/18 Islands
+    Expenses:Food:Lunch                 $75.12
+    Expenses:Sales Tax                   $5.82
+    Expenses:Tips:Food                  $17.00
+    Liabilities:Amex Blue
+
+2017/11/18 Little Caesar's
+    Expenses:Food:Dinner                 $5.00
+    Expenses:Donations:Homeless          $5.00
+    Expenses:Sales Tax                   $0.78
+    Assets:Cash
+
+2017/11/19 Costco Gas
+    Expenses:Gas:Prius                  $20.84
+    Liabilities:Costco Visa
+
+2017/11/19 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $5.80
+    Assets:Cash
+
+2017/11/19 Costco
+    Expenses:Clothing:Eric              $29.99
+    Expenses:Food:Dessert:Eric          $12.49
+    Expenses:Food:Dinner                 $4.99
+    Expenses:Food:Groceries             $23.77
+    Expenses:Household                  $13.98
+    Expenses:Sales Tax                   $3.79
+    Liabilities:Costco Visa
+
+2017/11/19 Winco Foods
+    Expenses:Food:Groceries             $40.18
+    Expenses:Sales Tax                   $0.90
+    Assets:WF Checking
+
+
+2019/01/01 Unknown Cash Adjustment
+    Expenses:Unknown                     $1.80
+    Assets:Cash
+
+;2017/11/13 Deposit
+;    Assets:WF Checking                  $25.00
+;    Expenses:Presents
+
 ; 4816.90 10
 
 ;    Assets:Cash
