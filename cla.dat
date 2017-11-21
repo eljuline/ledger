@@ -982,7 +982,7 @@
     Assets:Cash
 
 2017/10/26 Haircut - Jamee Neumann
-    Expenses:Cosmetic:Haircut           $143.00
+    Expenses:Cosmetics:Haircut:Angela   $143.00
     Expenses:Drugstore                   $32.00
     Assets:MSEFCU Checking
 
@@ -1579,7 +1579,7 @@
 
 2017/11/18 Car Money
     Assets:Car Money:Volvo               $4.86
-    Assets:WF Checking
+    Assets:Cash
 
 2017/11/18 Lowe's
     Expenses:Household                  $10.97
@@ -1624,14 +1624,45 @@
     Expenses:Sales Tax                   $0.90
     Assets:WF Checking
 
+2017/11/20 Target
+    Expenses:Food:Groceries              $3.59
+    Expenses:Food:Candy                  $7.48
+    Expenses:Discounts:Bag              -$0.05
+    Assets:Cash
+
+2017/11/20 Trader Joe's
+    Expenses:Food:Groceries             $43.36
+    Assets:Cash
+
+2017/11/20 CVS Pharmacy
+    Expenses:Food:Candy                  $7.00
+    Expenses:Food:Snacks                 $1.99
+    Liabilities:Costco Visa
+
+2017/11/20 Michael's
+    Expenses:Food:Groceries              $6.47
+    Expenses:Household                  $15.96
+    Expenses:Sales Tax                   $1.24
+    Liabilities:Costco Visa    
+
+2017/11/20 Winco Foods
+    Expenses:Food:Groceries              $2.40
+    Assets:Cash
+
+2017/11/20 Deposit
+    Assets:WF Checking                  $25.00
+    Expenses:Presents
+
+2017/11/20 Hair Salon
+    Expenses:Cosmetics:Haircut:Lydia    $15.00
+    Expenses:Tips:Hair                   $5.00
+    Assets:Cash
+
 
 2019/01/01 Unknown Cash Adjustment
     Expenses:Unknown                     $1.80
     Assets:Cash
 
-;2017/11/13 Deposit
-;    Assets:WF Checking                  $25.00
-;    Expenses:Presents
 
 ; 4816.90 10
 
