@@ -155,7 +155,7 @@
     Expenses:Food:Lunch                 $24.74
     Liabilities:Citibank MC
 
-2017/09/23 Payment
+2017/09/23 AB Credit Card Payment
     Liabilities:Amex Blue             $2162.56
     Assets:WF Checking
 
@@ -373,11 +373,11 @@
     Assets:WF Checking                $3000.00
     Assets:College
 
-2017/10/01 Payment
+2017/10/01 Visa Credit Card Payment
     Liabilities:Costco Visa           $5081.42
     Assets:WF Checking
 
-2017/10/01 Auto Payment
+2017/10/01 Visa Autopay
     Liabilities:Costco Visa            $150.15
     Assets:WF Checking
 
@@ -559,11 +559,11 @@
     Expenses:Gas:Volvo                  $29.10
     Liabilities:Costco Visa
 
-2017/10/08 Payment
+2017/10/08 MC Credit Card Payment
     Liabilities:Citibank MC           $2900.00
     Assets:WF Checking
 
-2017/10/08 Autopay
+2017/10/08 MC Autopay
     Liabilities:Citibank MC             $25.00
     Assets:WF Checking
 
@@ -1662,6 +1662,49 @@
     Expenses:Donations                  $10.00
     Liabilities:Costco Visa
 
+2017/11/21 Golden Hill 76
+    Expenses:Gas:Prius                  $28.97
+    Liabilities:Costco Visa
+
+2017/11/21 UCSB Parking
+    Expenses:Travel:Parking              $8.00
+    Liabilities:Costco Visa
+
+2017/11/21 UCSB Bookstore
+    Expenses:Clothing                  $203.99
+    Liabilities:Citibank MC
+
+2017/11/21 Costco Gas
+    Expenses:Gas:Volvo                  $35.52
+    Liabilities:Costco Visa
+
+2017/11/21 Five Guys
+    Expenses:Food:Dinner                $27.75
+    Expenses:Sales Tax                   $2.15
+    Liabilities:Costco Visa
+
+2017/11/21 Hillcrest Travel Plaza
+    Expenses:Gas:Prius                  $24.65
+    Liabilities:Citibank MC
+
+2017/11/22 Ulta
+    Expenses:Drugstore                  $47.99
+    Liabilities:Citibank MC
+
+2017/11/22 Old Navy
+    Expenses:Clothing:Eric              $13.50
+    Expenses:Clothing:Anna               $0.00
+    Expenses:Clothing:Lydia              $0.00
+    Expenses:Presents                   $64.63
+    Liabilities:Costco Visa
+
+2017/11/22 Ultra Mobile
+    Expenses:Communications:Cellular    $30.50
+    Liabilities:Amex Blue
+
+2017/11/23 AB Credit Card Payment
+    Liabilities:Amex Blue              $2033.44
+    Assets:WF Checking
 
 
 2019/01/01 Unknown Cash Adjustment
