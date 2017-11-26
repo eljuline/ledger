@@ -622,79 +622,79 @@
     Assets:Cash
 
 2017/10/09 UCSB Parking
-    Expenses:Travel:Parking                     $9.00
+    Expenses:Travel:Parking              $9.00
     Liabilities:Citibank MC
 
 2017/10/09 Jamba Juice
-    Expenses:Food:Breakfast:Eric                $5.00
+    Expenses:Food:Breakfast:Eric         $5.00
     Assets:Cash
 
 2017/10/09 FasTrak Bridge Tolls
-    Expenses:Travel:Tolls                       $5.00
+    Expenses:Travel:Tolls                $5.00
     Assets:FasTrak
 
 2017/10/09 Chevron
-    Expenses:Gas:Prius                         $29.27
+    Expenses:Gas:Prius                  $29.27
     Liabilities:Costco Visa
 
 2017/10/09 Shell
-    Expenses:Gas:Prius                         $18.53
+    Expenses:Gas:Prius                  $18.53
     Liabilities:Costco Visa
 
 2017/10/09 La Fiesta Taqueria
-    Expenses:Food:Dinner                       $25.86
-    Expenses:Tips:Food                          $3.00
+    Expenses:Food:Dinner                $25.86
+    Expenses:Tips:Food                   $3.00
     Assets:Cash
 
 2017/10/09 The Horn Book
-    Expenses:Entertainment:Magazines           $35.00
+    Expenses:Entertainment:Magazines    $35.00
     Liabilities:Costco Visa
 
 2017/10/09 Amazon
-    Expenses:Drugstore:Anna                    $28.69
+    Expenses:Drugstore:Anna             $28.69
     Liabilities:Citibank MC
 
 2017/10/09 Google
-    Expenses:Entertainment:Eric                 $0.99
+    Expenses:Entertainment:Eric          $0.99
     Liabilities:Costco Visa
 
 2017/10/10 Laundry
-    Expenses:College:Laundry                    $2.75
+    Expenses:College:Laundry             $2.75
     Liabilities:Citibank MC
 
 2017/10/10 SMUD
-    Expenses:Utilities                        $139.41
+    Expenses:Utilities                 $139.41
     Assets:WF Checking
 
 2017/10/10 Girl’s Life
-    Expenses:Entertainment:Magazines           $19.95
+    Expenses:Entertainment:Magazines    $19.95
     Liabilities:Amex Blue
 
 2017/10/10 UCSB Joe Biden 
-    Expenses:Entertainment:Anna                $28.00
+    Expenses:Entertainment:Anna         $28.00
     Liabilities:Citibank MC
 
 2017/10/11 Raley’s
-    Expenses:Food:Groceries                    $55.53
+    Expenses:Food:Groceries             $55.53
     Liabilities:Costco Visa
 
 2017/10/11 Mexquite Restaurant
-    Expenses:Food:Dinner                       $55.98
-    Expenses:Tips:Food                         $11.00
+    Expenses:Food:Dinner                $55.98
+    Expenses:Tips:Food                  $11.00
     Liabilities:Costco Visa
 
 2017/10/11 Costco
-    Expenses:Food:Groceries                     $6.29
-    Expenses:Household                         $15.99
-    Expenses:Sales Tax                          $1.24
+    Expenses:Food:Groceries              $6.29
+    Expenses:Household                  $15.99
+    Expenses:Sales Tax                   $1.24
     Liabilities:Costco Visa
 
 2017/10/11 Costco Gas
-    Expenses:Gas:Prius                         $20.50
+    Expenses:Gas:Prius                  $20.50
     Liabilities:Costco Visa
 
 2017/10/11 PG&E
-    Expenses:Utilities                         $15.32
+    Expenses:Utilities                  $15.32
     Assets:WF Checking
 
 2017/10/12 Target
@@ -1163,7 +1163,7 @@
     Liabilities:Costco Visa
 
 2017/11/02 Netflix
-    Expenses:Entertainment:Netflix        $8.61
+    Expenses:Entertainment:Netflix       $8.61
     Liabilities:Costco Visa
 
 2017/11/02 Dad’s Kitchen
@@ -1671,6 +1671,11 @@
     Liabilities:Costco Visa
 
 2017/11/21 UCSB Bookstore
+    Assets:Gift Cards:UCSB              $45.24
+    Expenses:Presents                  -$41.99
+    Expenses:Sales Tax                  -$3.25
+
+2017/11/21 UCSB Bookstore
     Expenses:Clothing                  $203.99
     Liabilities:Citibank MC
 
@@ -1678,6 +1683,24 @@
     Expenses:Gas:Volvo                  $35.52
     Liabilities:Costco Visa
 
+2017/11/21 Woodstock's Pizza
+    Expenses:Food:Dinner:Angela          $4.53
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+2017/11/21 UCSB The Arbor Store
+    Expenses:Food:Dinner:Anna            $1.99
+    Assets:Cash
+
+2017/11/21 Subway
+    Expenses:Food:Dinner:Anna            $4.49
+    Assets:Cash
+
+2017/11/21 7-11
+    Expenses:Food:Snacks                 $1.99
+    Expenses:Gambling                    $2.00
+    Assets:Cash
+    
 2017/11/21 Five Guys
     Expenses:Food:Dinner                $27.75
     Expenses:Sales Tax                   $2.15
@@ -1688,15 +1711,35 @@
     Liabilities:Citibank MC
 
 2017/11/22 Ulta
-    Expenses:Drugstore                  $47.99
+    Expenses:Presents                   $11.96
+    ; :gift:Lydia:
+    Expenses:Drugstore                  $32.53
+    Expenses:Sales Tax                   $3.50
     Liabilities:Citibank MC
 
+2017/11/22 Safeway
+    Expenses:Food:Groceries              $3.99
+    Assets:Cash
+
+2017/11/22 Raley's
+    Expenses:Food:Groceries             $24.93
+    Assets:Cash
+
 2017/11/22 Old Navy
-    Expenses:Clothing:Eric              $13.50
-    Expenses:Clothing:Anna               $0.00
-    Expenses:Clothing:Lydia              $0.00
-    Expenses:Presents                   $64.63
+    Expenses:Clothing:Eric              $13.49
+    Expenses:Clothing:Lydia             $30.94
+    Expenses:Presents                   $28.00
+    Expenses:Sales Tax                   $5.70
     Liabilities:Costco Visa
+
+2017/11/22 Target
+    Expenses:Drugstore                  $29.14
+    Expenses:Presents                   $12.29
+    ; :gift:Lydia:
+    Expenses:Sales Tax                   $3.20
+    Expenses:Discounts:Red Card         -$0.80
+    Assets:Gift Cards:Target           -$25.39
+    Assets:WF Checking
 
 2017/11/22 Ultra Mobile
     Expenses:Communications:Cellular    $30.50
@@ -1706,9 +1749,83 @@
     Liabilities:Amex Blue              $2033.44
     Assets:WF Checking
 
+2017/11/24 Orchard Supply Hardware
+    Expenses:Household                  $188.77
+    Liabilities:Costco Visa
+
+2017/11/24 Karen's Bakery
+    Expenses:Food:Lunch:Anna             $14.00
+    Assets:Car Money:Volvo              -$10.00
+    Assets:Cash
+
+2017/11/24 Pizzeria Classico
+    Expenses:Food:Dinner                 $37.71
+    Expenses:Tips:Food                    $4.00
+    Assets:Cash                          -$4.00
+    Liabilities:Costco Visa             -$37.71
+
+2017/11/24 Lowe's
+    Expenses:Household:Decorations       $84.92
+    Expenses:Household:Outdoor            $4.48
+    Expenses:Sales Tax                    $6.93
+    Liabilities:Costco Visa
+
+2017/11/25 Not Too Shabby
+    Expenses:Presents                   $103.29
+    ; :gifts:
+    Liabilities:Amex Blue
+
+2017/11/25 La Vintage Pink Door
+    Expenses:Presents                     $9.64
+    ; :gift:Lydia:
+    Assets:Cash
+
+2017/11/25 Makemusic Smartmusic Subscription
+    Expenses:Activities:Saxophone        $20.00
+    Liabilities:Costco Visa
+
+2017/11/25 Raley's
+    Expenses:Food:Groceries              $16.13
+    Liabilities:Costco Visa
+
+2017/11/25 Manderes
+    Expenses:Food:Lunch                  $51.67
+    Expenses:Tips:Food                   $11.00
+    Liabilities:Costco Visa
+
+2017/11/25 Trader Joe's
+    Expenses:Food:Groceries              $19.92
+    Expenses:Household:Decorations       $21.98
+    Expenses:Sales Tax                    $3.25
+    Liabilities:Costco Visa
+
+2017/11/25 Withdrawal
+    Assets:Cash                         $200.00
+    Assets:WF Checking
+
+2017/11/25 Nuyo
+    Expenses:Food:Dessert:Anna            $3.77
+    Assets:Cash
+
+2017/11/25 Rocksbox
+    Expenses:Clothing:Angela             $19.00
+    Liabilities:Citibank MC
+
+2017/11/26 Baker's Dozen Donuts
+    Expenses:Food:Breakfast               $0.00
+    Assets:Cash
+
+2017/11/26 Camille - Ride back to UCSB
+    Expenses:Travel                      $25.00
+    Assets:Cash
+
+2017/11/26 Money for Anna 
+    Expenses:College:Miscellaneous       $76.23
+    Assets:Cash
+
 
 2019/01/01 Unknown Cash Adjustment
-    Expenses:Unknown                     $1.80
+    Expenses:Unknown                      $1.80
     Assets:Cash
 
 
