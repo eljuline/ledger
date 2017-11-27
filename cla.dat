@@ -1746,86 +1746,130 @@
     Liabilities:Amex Blue
 
 2017/11/23 AB Credit Card Payment
-    Liabilities:Amex Blue              $2033.44
+    Liabilities:Amex Blue             $2033.44
     Assets:WF Checking
 
 2017/11/24 Orchard Supply Hardware
-    Expenses:Household                  $188.77
+    Expenses:Household                 $188.77
     Liabilities:Costco Visa
 
 2017/11/24 Karen's Bakery
-    Expenses:Food:Lunch:Anna             $14.00
-    Assets:Car Money:Volvo              -$10.00
+    Expenses:Food:Lunch:Anna            $14.00
+    Assets:Car Money:Volvo             -$10.00
     Assets:Cash
 
 2017/11/24 Pizzeria Classico
-    Expenses:Food:Dinner                 $37.71
-    Expenses:Tips:Food                    $4.00
-    Assets:Cash                          -$4.00
-    Liabilities:Costco Visa             -$37.71
+    Expenses:Food:Dinner                $37.71
+    Expenses:Tips:Food                   $4.00
+    Assets:Cash                         -$4.00
+    Liabilities:Costco Visa            -$37.71
 
 2017/11/24 Lowe's
-    Expenses:Household:Decorations       $84.92
-    Expenses:Household:Outdoor            $4.48
-    Expenses:Sales Tax                    $6.93
+    Expenses:Household:Decorations      $84.92
+    Expenses:Household:Outdoor           $4.48
+    Expenses:Sales Tax                   $6.93
     Liabilities:Costco Visa
 
 2017/11/25 Not Too Shabby
-    Expenses:Presents                   $103.29
+    Expenses:Presents                  $103.29
     ; :gifts:
     Liabilities:Amex Blue
 
 2017/11/25 La Vintage Pink Door
-    Expenses:Presents                     $9.64
+    Expenses:Presents                    $9.64
     ; :gift:Lydia:
     Assets:Cash
 
 2017/11/25 Makemusic Smartmusic Subscription
-    Expenses:Activities:Saxophone        $20.00
+    Expenses:Activities:Saxophone       $20.00
     Liabilities:Costco Visa
 
 2017/11/25 Raley's
-    Expenses:Food:Groceries              $16.13
+    Expenses:Food:Groceries             $16.13
     Liabilities:Costco Visa
 
 2017/11/25 Manderes
-    Expenses:Food:Lunch                  $51.67
-    Expenses:Tips:Food                   $11.00
+    Expenses:Food:Lunch                 $51.67
+    Expenses:Tips:Food                  $11.00
     Liabilities:Costco Visa
 
 2017/11/25 Trader Joe's
-    Expenses:Food:Groceries              $19.92
-    Expenses:Household:Decorations       $21.98
-    Expenses:Sales Tax                    $3.25
+    Expenses:Food:Groceries             $19.92
+    Expenses:Household:Decorations      $21.98
+    Expenses:Sales Tax                   $3.25
     Liabilities:Costco Visa
 
 2017/11/25 Withdrawal
-    Assets:Cash                         $200.00
+    Assets:Cash                        $200.00
     Assets:WF Checking
 
 2017/11/25 Nuyo
-    Expenses:Food:Dessert:Anna            $3.77
+    Expenses:Food:Dessert:Anna           $3.77
     Assets:Cash
 
 2017/11/25 Rocksbox
-    Expenses:Clothing:Angela             $19.00
+    Expenses:Clothing:Angela            $19.00
+    Liabilities:Citibank MC
+
+2017/11/26 Joy Dravecky
+    Expenses:Presents                   $61.56
+    Expenses:Postage                     $4.99
+    Expenses:Sales Tax                   $4.47
     Liabilities:Citibank MC
 
 2017/11/26 Baker's Dozen Donuts
-    Expenses:Food:Breakfast               $0.00
+    Expenses:Food:Breakfast              $6.65
+    Assets:Cash
+
+2017/11/26 Car Money
+    Assets:Car Money:Volvo               $9.00
     Assets:Cash
 
 2017/11/26 Camille - Ride back to UCSB
-    Expenses:Travel                      $25.00
+    Expenses:Travel                     $25.00
     Assets:Cash
 
 2017/11/26 Money for Anna 
-    Expenses:College:Miscellaneous       $76.23
+    Expenses:College:Miscellaneous      $60.00
     Assets:Cash
 
+2017/11/26 Cinemark
+    Expenses:Entertainment:Movies       $11.00     ;     Roman J. Israel, Esq.
+    Expenses:Food:Movies                 $7.50
+    Assets:Cash
+
+2017/11/26 City of Folsom
+    Expenses:Utilities                 $111.19
+    Liabilities:Costco Visa
+
+2017/11/26 Folsom Dermatology
+    Expenses:Medical:Lydia              $31.98
+    Assets:Health Savings Account
+
+2017/11/26 Costco Gas
+    Expenses:Gas:Prius                  $18.99
+    Liabilities:Costco Visa
+
+2017/11/26 Winco Foods
+    Expenses:Household                   $8.30
+    Expenses:Food:Groceries             $49.86
+    Expenses:Sales Tax                   $2.21
+    Assets:WF Checking
+
+2017/11/26 Farm Fresh to You
+    Expenses:Food:Groceries             $29.86
+    Liabilities:Costco Visa
+
+2017/11/26 Discount Dance Supply
+    Expenses:Activities:Dance           $34.31
+    Liabilities:Citibank MC
+    
+2017/11/27 AAA Insurance
+    Expenses:Insurance:Home            $110.92
+    Liabilities:Citibank MC
 
 2019/01/01 Unknown Cash Adjustment
-    Expenses:Unknown                      $1.80
+    Expenses:Unknown                     $1.80
     Assets:Cash
 
 
