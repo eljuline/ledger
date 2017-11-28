@@ -1758,6 +1758,10 @@
     Assets:Car Money:Volvo             -$10.00
     Assets:Cash
 
+2017/11/24 Eric Soto-Hall
+    Expenses:Activities:Cycling         $70.00
+    Assets:MSEFCU Checking
+
 2017/11/24 Pizzeria Classico
     Expenses:Food:Dinner                $37.71
     Expenses:Tips:Food                   $4.00
@@ -1867,6 +1871,10 @@
 2017/11/27 AAA Insurance
     Expenses:Insurance:Home            $110.92
     Liabilities:Citibank MC
+
+2017/11/27 Chevron
+    Expenses:Gas:Truck                  $20.01
+    Liabilities:Costco Visa
 
 2019/01/01 Unknown Cash Adjustment
     Expenses:Unknown                     $1.80
