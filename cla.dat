@@ -1876,6 +1876,34 @@
     Expenses:Gas:Truck                  $20.01
     Liabilities:Costco Visa
 
+2017/11/27 Shop Baby Feet
+    Expenses:Presents                   $39.54
+    Liabilities:Costco Visa
+
+2017/11/27 REI
+    Expenses:Presents                   $28.22
+    Liabilities:Costco Visa
+
+2017/11/27 Wayfair
+    Expenses:Presents                  $101.27
+    Liabilities:Costco Visa
+
+2017/11/27 Costco
+    Expenses:Presents                  $161.62
+    Liabilities:Costco Visa
+
+2017/11/27 Amazon
+    Expenses:Presents                   $84.99
+    Expenses:Presents                   $45.87
+    Expenses:Sales Tax                   $7.50
+    Liabilities:Amex Blue
+
+2017/11/27 Barnes and Noble
+    Expenses:Food:Snacks:Angela          $5.00
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+
 2019/01/01 Unknown Cash Adjustment
     Expenses:Unknown                     $1.80
     Assets:Cash
