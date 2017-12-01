@@ -12,6 +12,7 @@
     Assets:Gift Cards:American Eagle    $37.01
     Assets:Gift Cards:Amazon            $36.62
     Assets:Gift Cards:The Habit         $40.00
+    Assets:Gift Cards:Cinema West        $7.50
     Assets:Car Money:Volvo               $5.14
     Liabilities:Costco Visa          $-5562.11
     Liabilities:Citibank MC          $-1796.21
@@ -1912,6 +1913,55 @@
 2017/11/28 UCSB Associated Students We
     Expenses:College:Miscellaneous      $13.00
     Liabilities:Citibank MC
+
+2017/11/29 Winco Foods
+    Expenses:Presents                    $2.87
+    Assets:Cash
+
+2017/11/29 Amazon
+    Expenses:Activities:Dance            $9.90
+    Assets:Amex Blue
+
+2017/11/29 Tina at Williamson
+    Expenses:Donations                  $20.00
+    Assets:Cash
+
+2017/11/29 Tony and Kelley Christmas
+    Expenses:Presents                   $40.00
+    Assets:Cash
+
+2017/11/29 Raley's
+    Expenses:Food:Groceries             $24.64
+    Liabilities:Amex Blue
+
+2017/11/29 The Cobbler
+    Expenses:Clothing:Angela            $14.00
+    Assets:Cash
+
+2017/11/30 Palladio Cinema West
+    Expenses:Entertainment:Movies        $7.50     ; Wonder - Angela only
+    Assets:Gift Cards:Cinema West
+
+2017/11/30 Pact
+    Expenses:Clothing:Eric              $64.65
+    Liabilities:Citibank MC
+
+2017/11/30 Payday
+    Assets:MSEFCU Checking            $1125.00
+    Income:Salary:FCUSD
+
+2017/12/01 Costco Gas
+    Expenses:Gas:Truck                  $64.22
+    Liabilities:Costco Visa
+
+2017/12/01 Payday
+    Assets:WF Checking                $2828.41
+    Income:Salary:Centene
+
+2017/12/01 Deposit
+    Assets:Health Savings Account      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
 
 
 
