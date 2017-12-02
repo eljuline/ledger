@@ -1665,7 +1665,7 @@
 
 2017/11/21 Golden Hill 76
     Expenses:Gas:Prius                  $28.97
-    Liabilities:Costco Visa
+    Liabilities:Citibank MC
 
 2017/11/21 UCSB Parking
     Expenses:Travel:Parking              $8.00
@@ -1817,7 +1817,7 @@
     Liabilities:Citibank MC
 
 2017/11/26 Joy Dravecky
-    Expenses:Presents                   $61.56
+    Expenses:Presents                   $61.64
     Expenses:Postage                     $4.99
     Expenses:Sales Tax                   $4.47
     Liabilities:Citibank MC
@@ -1865,9 +1865,9 @@
     Expenses:Food:Groceries             $29.86
     Liabilities:Costco Visa
 
-2017/11/26 Discount Dance Supply
-    Expenses:Activities:Dance           $34.31
-    Liabilities:Citibank MC
+;2017/11/26 Discount Dance Supply
+;    Expenses:Activities:Dance           $34.31
+;    Liabilities:Citibank MC
     
 2017/11/27 AAA Insurance
     Expenses:Insurance:Home            $110.92
@@ -1914,13 +1914,17 @@
     Expenses:College:Miscellaneous      $13.00
     Liabilities:Citibank MC
 
+2017/11/28 Interest Payment
+    Assets:WF Checking                   $0.05
+    Income:Interest:WF Checking
+
 2017/11/29 Winco Foods
     Expenses:Presents                    $2.87
     Assets:Cash
 
 2017/11/29 Amazon
     Expenses:Activities:Dance            $9.90
-    Assets:Amex Blue
+    Liabilities:Amex Blue
 
 2017/11/29 Tina at Williamson
     Expenses:Donations                  $20.00
@@ -1950,12 +1954,16 @@
     Assets:MSEFCU Checking            $1125.00
     Income:Salary:FCUSD
 
+2017/11/30 Shutterfly
+    Expenses:Household:Christmas         $3.09
+    Liabilities:Costco Visa
+
 2017/12/01 Costco Gas
     Expenses:Gas:Truck                  $64.22
     Liabilities:Costco Visa
 
 2017/12/01 Payday
-    Assets:WF Checking                $2828.41
+    Assets:WF Checking                $2828.42
     Income:Salary:Centene
 
 2017/12/01 Deposit
@@ -1963,6 +1971,13 @@
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
+2017/12/01 Credit Card Payment
+    Liabilities:Costco Visa           $1982.59
+    Assets:WF Checking
+
+2017/12/01 Credit Card Autopay
+    Liabilities:Costco Visa             $25.00
+    Assets:WF Checking
 
 
 2019/01/01 Unknown Cash Adjustment
