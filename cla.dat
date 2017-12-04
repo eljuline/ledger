@@ -1979,6 +1979,90 @@
     Liabilities:Costco Visa             $25.00
     Assets:WF Checking
 
+2017/12/01 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2017/12/01 Taco Bell
+    Expenses:Food:Dinner                $10.28
+    Liabilities:Costco Visa
+
+2017/12/01 McDonald's
+    Expenses:Food:Dessert                $5.79
+    Assets:Cash
+
+2017/12/02 AMC Kabuki 8
+    Expenses:Entertainment:Movies      $152.50     ;  Star Wars The Last Jedi
+    Liabilities:Citibank MC
+
+2017/12/02 Costco Gas
+    Expenses:Gas:Prius                  $11.50
+    Liabilities:Costco Visa
+
+2017/12/02 Subway
+    Expenses:Food:Dinner                $17.78
+    Liabilities:Citibank MC
+
+2017/12/02 Dollar Store
+    Expenses:Food:Groceries:Eric         $2.26
+    Assets:Cash
+
+2017/12/02 Lowe's
+    Expenses:Household                  $54.79
+    Liabilities:Citibank MC
+
+2017/12/02 Verizon Wireless
+    Expenses:Communications:Cellular   $103.36
+    Liabilities:Amex Blue
+
+2017/12/02 Parking
+    Expenses:Travel:Parking             $20.00
+    Assets:Cash
+
+2017/12/03 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $3.50
+    Assets:Cash
+
+2017/12/03 Sunrise Bistro
+    Expenses:Food:Breakfast:Angela      $15.00
+    Expenses:Tips:Food                   $4.00
+    Assets:Cash
+
+2017/12/03 Parking
+    Expenses:Travel:Parking              $7.00
+    Assets:Cash
+
+2017/12/03 The Gap
+    Expenses:Presents                   $32.48
+    Liabilities:Amex Blue
+
+2017/12/03 Sq*Makers Market
+    Expenses:Presents                   $42.22
+    Liabilities:Citibank MC
+
+2017/12/03 Crate & Barrel
+    Expenses:Presents                   $72.30
+    Liabilities:Citibank MC
+
+2017/12/03 Dancewear Solutions
+    Expenses:Activities:Dance           $60.85
+    Liabilities:Costco Visa
+
+2017/12/03 Bridge Toll
+    Expenses:Travel:Tolls                $5.00
+    Assets:FasTrak
+
+2017/12/03 Apricot Lane
+    Expenses:Presents                   $39.96
+    Liabilities:Citibank MC
+
+2017/12/03 Quick Quack Car Wash
+    Expenses:Automotive:Car Wash        $29.96
+    Assets:Cash
+
+2017/12/03 Popeye's
+    Expenses:Food:Dinner                $16.24
+    Assets:Cash
 
 2019/01/01 Unknown Cash Adjustment
     Expenses:Unknown                     $1.80
