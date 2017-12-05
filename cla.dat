@@ -699,39 +699,39 @@
     Assets:WF Checking
 
 2017/10/12 Target
-    Expenses:Food:Candy                        $19.39
-    Expenses:Household                          $7.18
-    Expenses:Drugstore                          $5.39
-    Expenses:Sales Tax                          $0.97
+    Expenses:Food:Candy                 $19.39
+    Expenses:Household                   $7.18
+    Expenses:Drugstore                   $5.39
+    Expenses:Sales Tax                   $0.97
     Liabilities:Costco Visa
 
 2017/10/13 Withdrawal
-    Assets:Cash                               $200.00
+    Assets:Cash                        $200.00
     Assets:WF Checking
 
 2017/10/13 Capital Costumes
-    Expenses:Activities:Dance                 $31.95
-    Expenses:Presents                         $19.00
+    Expenses:Activities:Dance           $31.95
+    Expenses:Presents                   $19.00
     ; :gift:anna:
-    Expenses:Sales Tax                        $3.95
+    Expenses:Sales Tax                   $3.95
     Assets:Cash
 
 2017/10/13 Nate’s son’s gift
-    Expenses:Presents                         $20.00
+    Expenses:Presents                   $20.00
     ; :gift:Nate_son:
     Assets:Cash
 
 2017/10/13 Boss’s Day
-    Expenses:Presents                         $10.00
+    Expenses:Presents                   $10.00
     ; :gift:boss_day:
     Assets:Cash
 
 2017/10/14 Geico
-    Expenses:Insurance:Auto                  $149.15
+    Expenses:Insurance:Auto            $149.15
     Liabilities:Costco Visa
 
 2017/10/13 Laundry
-    Expenses:College:Laundry                   $8.00
+    Expenses:College:Laundry             $8.00
     Liabilities:Citibank MC
 
 2017/10/14 Regal EDH
@@ -2019,6 +2019,14 @@
     Expenses:Travel:Parking             $20.00
     Assets:Cash
 
+2017/12/02 Netflix
+    Expenses:Entertainment:Netflix       $8.61
+    Liabilities:Costco Visa
+
+2017/12/02 Shutterfly
+    Expenses:Household:Christmas        $79.41
+    Liabilities:Costco Visa
+
 2017/12/03 Baker's Dozen Donuts
     Expenses:Food:Breakfast              $3.50
     Assets:Cash
@@ -2063,6 +2071,45 @@
 2017/12/03 Popeye's
     Expenses:Food:Dinner                $16.24
     Assets:Cash
+
+2017/12/04 Winco Foods
+    Expenses:Food:Groceries             $49.72
+    Expenses:Food:Candy                  $2.00
+    Expenses:Sales Tax                   $1.06
+    Assets:WF Checking
+
+2017/12/04 Mel's
+    Expenses:Food:Lunch                 $22.30
+    Expenses:Tips:Food                   $4.00
+    Assets:Cash
+
+2017/12/04 Dave's European Motors 
+    Expenses:Automotive:Service:Volvo  $456.47
+    Liabilities:Citibank MC
+
+2017/12/04 Hawkins
+    Expenses:Activities:Dance          $298.00
+    Liabilities:Citibank MC
+
+2017/12/04 Laundry
+    Expenses:College:Laundry             $8.00
+    Liabilities:Citibank MC
+
+2017/12/04 Target
+    Expenses:Unknown                     $0.00
+    Expenses:Drugstore                   $0.00
+    Expenses:Presents                    $0.00
+    Expenses:Sales Tax                   $0.00
+    Expenses:Discounts:Red Card         -$0.00
+    Assets:WF Checking
+
+2017/12/05 Costco Gas
+    Expenses:Gas:Prius                   $21.35
+    Liabilities:Costco Visa
+
+2017/12/05 Chase Mortgage
+    Expenses:House                    $1600.00
+    Assets:WF Checking
 
 2019/01/01 Unknown Cash Adjustment
     Expenses:Unknown                     $1.80
