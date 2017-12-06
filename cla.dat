@@ -2096,20 +2096,35 @@
     Liabilities:Citibank MC
 
 2017/12/04 Target
-    Expenses:Unknown                     $0.00
-    Expenses:Drugstore                   $0.00
-    Expenses:Presents                    $0.00
-    Expenses:Sales Tax                   $0.00
-    Expenses:Discounts:Red Card         -$0.00
+    Expenses:Household                   $2.79
+    Expenses:Drugstore                  $34.34
+    Expenses:Donations                  $26.57
+    Expenses:Sales Tax                   $4.69
+    Expenses:Discounts:Red Card         -$3.18
+    Expenses:Discounts:Bag              -$0.05
     Assets:WF Checking
 
 2017/12/05 Costco Gas
-    Expenses:Gas:Prius                   $21.35
+    Expenses:Gas:Prius                  $21.35
     Liabilities:Costco Visa
 
 2017/12/05 Chase Mortgage
     Expenses:House                    $1600.00
     Assets:WF Checking
+
+2017/12/05 Trader Joe's
+    Expenses:Food:Groceries             $34.66
+    Liabilities:Amex Blue
+
+2017/12/05 USPS
+    Expenses:Household                   $3.49
+    Expenses:Postage                    $56.15
+    Liabilities:Amex Blue
+
+2017/12/05 Lowe's
+    Expenses:Household                   $9.96
+    Expenses:Sales Tax                   $0.77
+    Assets:Cash
 
 2019/01/01 Unknown Cash Adjustment
     Expenses:Unknown                     $1.80
