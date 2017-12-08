@@ -1975,9 +1975,9 @@
     Liabilities:Costco Visa           $1982.59
     Assets:WF Checking
 
-2017/12/01 Credit Card Autopay
-    Liabilities:Costco Visa             $25.00
-    Assets:WF Checking
+;2017/12/01 Credit Card Autopay
+;    Liabilities:Costco Visa             $25.00
+;    Assets:WF Checking
 
 2017/12/01 Withdrawal
     Assets:Cash                        $200.00
@@ -2053,7 +2053,7 @@
     Liabilities:Citibank MC
 
 2017/12/03 Dancewear Solutions
-    Expenses:Activities:Dance           $60.85
+    Expenses:Activities:Dance           $48.90
     Liabilities:Costco Visa
 
 2017/12/03 Bridge Toll
@@ -2125,6 +2125,62 @@
     Expenses:Household                   $9.96
     Expenses:Sales Tax                   $0.77
     Assets:Cash
+
+2017/12/06 Koreana Plaza
+    Expenses:Food:Lunch:Eric            $10.81
+    Assets:Cash
+
+2017/12/06 Safeway
+    Expenses:Food:Groceries             $16.61
+    Expenses:Food:Candy                  $8.06
+    Liabilities:Costco Visa
+
+2017/12/06 Deposit
+    Assets:College                    $4700.00
+    Income:Gift
+
+2017/12/06 Withdrawal
+    Assets:Cash                         $80.00
+    Assets:WF Checking
+
+2017/12/06 Comcast
+    Expenses:Communications:Internet,Home Phone   $94.43
+    Liabilities:Amex Blue
+
+2017/12/07 Aca Deca Field Trip
+    Expenses:Household:School           $15.00
+    Assets:Cash
+
+2017/12/07 Haircut - Jamee Neumann
+    Expenses:Cosmetics:Haircut:Angela  $170.00
+    Expenses:Drugstore                   $0.00
+    Assets:MSEFCU Checking
+
+2017/12/07 Xmas Gift FCUSD?
+    Expenses:Presents                   $30.00
+    Assets:Cash
+
+2017/12/07 Baby Shower Gift Williamson
+    Expenses:Presents                   $20.00
+    Assets:Cash
+
+2017/12/07 SMUD
+    Expenses:Utilities                  $65.45
+    Assets:WF Checking
+
+2017/12/08 Credit Card Autopay
+    Liabilities:Costco Visa             $25.00
+    Assets:WF Checking
+
+2017/12/08 Credit Card Payment
+    Liabilities:Citibank MC            $900.00
+    Assets:WF Checking
+
+
+; not yet posted
+2017/12/03 Dancewear Solutions
+    Expenses:Activities:Dance           $11.95
+    Liabilities:Costco Visa
 
 2019/01/01 Unknown Cash Adjustment
     Expenses:Unknown                     $1.80
