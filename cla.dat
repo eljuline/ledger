@@ -2126,6 +2126,14 @@
     Expenses:Sales Tax                   $0.77
     Assets:Cash
 
+2017/12/05 Transfer
+    Assets:MSEFCU Checking            $2813.68
+    Assets:MSEFCU Savings
+
+2017/12/05 County of Sacramento
+    Expenses:House:Property Taxes     $2813.68
+    Assets:MSEFCU Checking
+
 2017/12/06 Koreana Plaza
     Expenses:Food:Lunch:Eric            $10.81
     Assets:Cash
@@ -2134,6 +2142,11 @@
     Expenses:Food:Groceries             $16.61
     Expenses:Food:Candy                  $8.06
     Liabilities:Costco Visa
+
+2017/12/06 Kathy Copeland
+    Expenses:Activities:Piano           $75.00
+    Expenses:Presents                   $25.00
+    Assets:MSEFCU Checking
 
 2017/12/06 Deposit
     Assets:College                    $4700.00
@@ -2152,15 +2165,15 @@
     Assets:Cash
 
 2017/12/07 Haircut - Jamee Neumann
-    Expenses:Cosmetics:Haircut:Angela  $170.00
-    Expenses:Drugstore                   $0.00
+    Expenses:Cosmetics:Haircut:Angela  $140.00
+    Expenses:Presents                   $30.00
     Assets:MSEFCU Checking
 
 2017/12/07 Xmas Gift FCUSD?
     Expenses:Presents                   $30.00
     Assets:Cash
 
-2017/12/07 Baby Shower Gift Williamson
+2017/12/07 Baby Shower Gift Williamson - Amy Chu
     Expenses:Presents                   $20.00
     Assets:Cash
 
@@ -2169,18 +2182,84 @@
     Assets:WF Checking
 
 2017/12/08 Credit Card Autopay
-    Liabilities:Costco Visa             $25.00
+    Liabilities:Costco Visa              $0.25
     Assets:WF Checking
 
 2017/12/08 Credit Card Payment
     Liabilities:Citibank MC            $900.00
     Assets:WF Checking
 
+2017/12/08 Koreana Plaza
+    Expenses:Food:Lunch:Eric             $5.46
+    Assets:Cash
+
+2017/12/08 Koreana Plaza
+    Expenses:Food:Dessert                $5.37
+    Assets:Cash
+
+2017/12/08 David Witkowski
+    Expenses:Activities:Saxophone      $110.00
+    Expenses:Presents                   $30.00
+    Assets:MSEFCU Checking
+
+2017/12/08 Deposit
+    Assets:MSEFCU Checking             $620.71
+    Income:Salary:FCUSD
+
+2017/12/09 Walgreen's
+    Expenses:Presents                   $50.00
+    Expenses:Donations                  $30.00     ;amazon card to give to williamson as prize.
+    Expenses:Food:Candy                  $4.00
+    Expenses:Household                   $1.69
+    Liabilities:Costco Visa
+
+2017/12/09 Walgreen's
+    Assets:Gift Cards:Walgreen's         $5.00
+    Expenses:Discounts:Walgreen's
+
+2017/12/09 Round Table Pizza
+    Expenses:Food:Dinner                $49.88
+    Liabilities:Costco Visa
+
+2017/12/09 Shell
+    Expenses:Gas:Prius                  $25.80
+    Liabilities:Costco Visa
+
+2017/12/10 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $5.85
+    Assets:Cash
+
+2017/12/10 Amtrak
+    Expenses:Travel:Train               $54.00
+    Liabilities:Citibank MC
+
+2017/12/10 FCP Euro
+    Expenses:Automotive:Volvo:Parts    $114.99
+    Expenses:Postage                     $9.99
+    Liabilities:Costco Visa
+
+2017/12/10 Los Rios Community College Harris Center
+    Expenses:Presents                   $80.00
+    Liabilities:Amex Blue
+
+2017/12/10 Amazon
+    Expenses:Presents                   $14.61
+    Liabilities:Amex Blue
+
+2017/12/11 PG&E
+    Expenses:Utilities                  $15.74
+    Assets:WF Checking
+
+2017/12/11 Winco Foods
+    Expenses:Food:Groceries             $43.42
+    Assets:WF Checking
+;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ; not yet posted
 2017/12/03 Dancewear Solutions
     Expenses:Activities:Dance           $11.95
     Liabilities:Costco Visa
+
 
 2019/01/01 Unknown Cash Adjustment
     Expenses:Unknown                     $1.80
