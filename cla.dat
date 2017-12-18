@@ -6,7 +6,7 @@
     Assets:MSEFCU Savings             $2341.62
     Assets:G1 Checking                 $583.61
     Assets:G1 Savings                   $55.00
-    Assets:Cash                         $98.00; $89.72 ;$103.59
+    Assets:Cash                        $108.00; $98.00; $89.72 ;$103.59
     Assets:Health Savings Account     $2472.17
     Assets:FasTrak                      $25.00
     Assets:Gift Cards:American Eagle    $37.01
@@ -2161,6 +2161,14 @@
     Expenses:Communications:Internet,Home Phone   $94.43
     Liabilities:Amex Blue
 
+2017/12/06 Williamson Book Fair - paid for someone else
+    Expenses:Unknown                    $10.00
+    Assets:Cash
+
+2017/12/06 Williamson Book Fair - received check from someone else
+    Assets:WF Checking                  $10.00
+    Expenses:Unknown
+
 2017/12/07 Aca Deca Field Trip
     Expenses:Household:School           $15.00
     Assets:Cash
@@ -2468,6 +2476,42 @@
     Assets:Coinstar                     $24.95
     Income:Gift
 
+2017/12/17 Petsmart
+    Expenses:Pets                       $46.31
+    Liabilities:Citibank MC
+
+2017/12/17 Office Depot
+    Expenses:Household                  $35.96
+    Liabilities:Costco Visa
+
+2017/12/17 Clouds
+    Expenses:Presents                   $20.00
+    Expenses:Household                  $36.00
+    Expenses:Sales Tax                   $4.34
+    Liabilities:Citibank MC
+
+2017/12/17 Target
+    Expenses:Food:Candy                 $12.48
+    Expenses:Household                   $5.27
+    Expenses:Presents                  $164.94
+    Expenses:Sales Tax                   $6.64
+    Expenses:Discounts:Red Card         -$5.13
+    Assets:WF Checking
+
+2017/12/17 Shutterfly
+    Expenses:Presents                   $34.38
+    Liabilities:Costco Visa
+
+2017/12/17 Shutterfly
+    Expenses:Presents                   $26.01
+    Liabilities:Costco Visa
+
+2017/12/17 Winco Foods
+    Expenses:Food:Groceries             $35.72
+    Expenses:Food:Candy                  $5.94
+    Expenses:Sales Tax                   $0.07
+    Assets:WF Checking
+    
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
 ; not yet posted
