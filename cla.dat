@@ -2511,6 +2511,15 @@
     Expenses:Food:Candy                  $5.94
     Expenses:Sales Tax                   $0.07
     Assets:WF Checking
+
+2017/12/18 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2017/12/18 Fat's
+    Expenses:Food:Dinner:Angela         $60.00
+    Assets:Cash
+
     
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
