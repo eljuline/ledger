@@ -2520,7 +2520,55 @@
     Expenses:Food:Dinner:Angela         $60.00
     Assets:Cash
 
-    
+2017/12/19 Carmelita's
+    Expenses:Food:Lunch:Eric            $30.00
+    Assets:Cash
+
+2017/12/19 Wayside Noodles
+    Expenses:Tips:Food                  $11.00
+    Assets:Cash
+
+2017/12/19 McDonald's
+    Expenses:Food:Dinner                 $5.80
+    Assets:Cash
+
+2017/12/19 USPS
+    Expenses:Postage                    $11.85
+    Assets:Cash
+
+2017/12/19 Panera
+    Expenses:Food:Lunch                 $29.67
+    Assets:Cash
+
+2017/12/19 Andy's Candy
+    Expenses:Presents                   $38.75
+    Liabilities:Amex Blue
+
+2017/12/19 DSW 
+    Expenses:Presents                   $96.96
+    Liabilities:Amex Blue
+
+2017/12/19 Apricot Lane
+    Expenses:Presents                  $130.24
+    Liabilities:Costco Visa
+
+2017/12/19 Bed Bath & Beyond
+    Expenses:Presents                   $25.58
+    Expenses:Drugstore                   $0.00
+    Liabilities:Citibank MC
+
+2017/12/19 Ulta
+    Expenses:Presents                   $79.62
+    Expenses:Drugstore                   $0.00
+    Liabilities:Costco Visa
+
+2017/12/19 Walgreen's
+    Expenses:Presents                  $100.00
+    Expenses:Drugstore                   $5.92
+    Assets:Gift Cards:Walgreen's        -$5.00
+    Liabilities:Costco Visa
+
+
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
 ; not yet posted
