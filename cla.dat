@@ -2598,6 +2598,22 @@
     Expenses:Food:Dinner:Angela         $34.00
     Assets:Cash
 
+2017/12/22 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2017/12/22 Winco Foods
+    Expenses:Food:Groceries              $5.14
+    Assets:WF Checking
+
+2017/12/22 Shutterfly
+    Expenses:Household                   $6.17
+    Liabilities:Costco Visa
+
+2017/12/22 Ultra Mobile
+    Expenses:Communications:Cellular    $30.50
+    Liabilities:Amex Blue
+
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
 ; not yet posted
