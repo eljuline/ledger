@@ -2421,7 +2421,7 @@
     Assets:Cash
 
 2017/12/16 Raley's 
-    Expenses:Food:Groceries             $56.29
+    Expenses:Food:Groceries             $59.26
     Liabilities:Citibank MC
 
 2017/12/16 Raley's
@@ -2512,6 +2512,14 @@
     Expenses:Sales Tax                   $0.07
     Assets:WF Checking
 
+2017/12/17 Amazon
+    Expenses:Presents                   $10.79
+    Liabilities:Amex Blue
+
+2017/12/17 Amazon
+    Expenses:Presents                   $29.99
+    Liabilities:Amex Blue
+
 2017/12/18 Withdrawal
     Assets:Cash                        $200.00
     Assets:WF Checking
@@ -2558,8 +2566,9 @@
     Liabilities:Citibank MC
 
 2017/12/19 Ulta
-    Expenses:Presents                   $79.62
-    Expenses:Drugstore                   $0.00
+    Expenses:Presents                   $14.24
+    Expenses:Drugstore                  $59.58
+    Expenses:Sales Tax                   $5.80
     Liabilities:Costco Visa
 
 2017/12/19 Walgreen's
@@ -2586,7 +2595,7 @@
 
 2017/12/20 Raley's 
     Expenses:Donations                  $10.00     ;  Food/Families Bag?
-    Expenses:Food:Groceries             $18.21
+    Expenses:Food:Groceries             $18.51
     Liabilities:Costco Visa
 
 2017/12/20 Dollar Tree Stores
@@ -2597,6 +2606,18 @@
 2017/12/20 Back Wine Bar 
     Expenses:Food:Dinner:Angela         $34.00
     Assets:Cash
+
+2017/12/20 Amazon
+    Expenses:Presents                   $12.88
+    Liabilities:Amex Blue
+
+2017/12/20 Cap Radio
+    Expenses:Donations                  $10.00
+    Liabilities:Costco Visa
+
+2017/12/21 Rite Aid
+    Expenses:Unknown                     $1.98
+    Liabilities:Costco Visa
 
 2017/12/22 Withdrawal
     Assets:Cash                        $200.00
@@ -2613,6 +2634,70 @@
 2017/12/22 Ultra Mobile
     Expenses:Communications:Cellular    $30.50
     Liabilities:Amex Blue
+
+2017/12/22 Bridge Toll
+    Expenses:Travel:Tolls                $5.00
+    Assets:FasTrak
+
+2017/12/22 Marine Layer
+    Expenses:Presents                  $218.09
+    Liabilities:Costco Visa
+
+2017/12/22 Salt & Straw
+    Expenses:Food:Dessert               $20.00
+    Assets:Cash
+
+2017/12/22 Ichiban
+    Expenses:Food:Candy                  $5.67
+    Expenses:Clothing:Anna               $6.58
+    Expenses:Clothing:Lydia              $6.58
+    Expenses:Household                  $16.60
+    Expenses:Sales Tax                   $2.52
+    Liabilities:Citibank MC
+
+2017/12/22 AMC Kabuki 8
+    Expenses:Food:Movies                $28.64
+    Assets:Cash
+
+2017/12/22 Japan Center Parking
+    Expenses:Travel:Parking             $17.50
+    Assets:Cash
+
+2017/12/22 Chevron
+    Expenses:Gas:Volvo                  $43.86
+    Liabilities:Costco Visa
+
+2017/12/23 Winco Foods
+    Expenses:Food:Groceries             $19.30
+    Expenses:Household                   $4.29
+    Expenses:Sales Tax                   $0.44
+    Assets:WF Checking
+
+2017/12/23 Argos Coffee
+    Expenses:Presents                   $17.00
+    Assets:Cash
+
+2017/12/23 Fastrak
+    Assets:Fastrak                      $25.00
+    Liabilities:Costco Visa
+
+2017/12/23 Credit Card Payment
+    Liabilities:Amex Blue             $1127.28
+    Assets:WF Checking
+
+2017/12/23 Connecticut General Life Insurance
+    ;2278
+    Expenses:Insurance:Life:Eric        $15.63
+    Assets:WF Checking
+
+2017/12/23 City of Folsom
+    Expenses:Utilities                 $100.54
+    Liabilities:Amex Blue
+
+2017/12/23 DMV
+    Expenses:Automotive:Registration:Dodge   $282.00
+    Liabilities:Amex Blue
+
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
