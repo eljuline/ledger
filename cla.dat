@@ -1960,6 +1960,10 @@
     Expenses:Household:Christmas         $3.09
     Liabilities:Costco Visa
 
+2017/11/30 MSEFCU Dividend
+    Assets:MSEFCU Savings                $0.30
+    Income:Interest:MSEFCU Savings
+
 2017/12/01 Costco Gas
     Expenses:Gas:Truck                  $64.22
     Liabilities:Costco Visa
@@ -2707,6 +2711,10 @@
     Expenses:Food:Groceries             $26.00
     Liabilities:Costco Visa
 
+2017/12/24 Manne Ladine
+    Expenses:Presents                  $100.00
+    Assets:MSEFCU Checking
+
 2017/12/25 Rocksbox
     Expenses:Clothing:Angela            $19.00
     Liabilities:Citibank MC
@@ -2716,7 +2724,7 @@
     Income:Gift
 
 2017/12/25 Gifts
-    Assets:Angela                      $250.00
+    Assets:Angela                      $150.00
     Income:Gift
 
 2017/12/26 Costco Gas
@@ -2896,6 +2904,14 @@
 2017/12/31 Apricot Lane
     Assets:Cash                         $34.00
     Expenses:Lydia
+
+2017/12/31 MSEFCU Dividend
+    Assets:MSEFCU Checking               $0.01
+    Income:Interest:MSEFCU Checking
+
+2017/12/31 MSEFCU Dividend
+    Assets:MSEFCU Savings                $0.10
+    Income:Interest:MSEFCU Savings
 
 2018/01/01 Credit Card
     Liabilities:Costco Visa           $1348.32
@@ -3148,7 +3164,7 @@
     Expenses:Travel:Parking              $3.00
     Liabilities:Costco Visa
 
-2018/01/07 FUMC
+2018/01/07 Foothills UMC
     Expenses:Donations:Church           $40.00
     Assets:MSEFCU Checking
 
@@ -3231,12 +3247,8 @@
     Expenses:Household:School           $15.00
     Assets:Cash
 
-2018/01/10 Kathy Copeland
-    Expenses:Activities:Piano          $100.00
-    Assets:MSEFCU Checking
-
 2018/01/10 Payday
-    Assets:MSEFCU Checking             $805.09
+    Assets:MSEFCU Checking             $544.03
     Income:Salary:FCUSD
 
 2018/01/10 Transfer
@@ -3250,6 +3262,10 @@
 2018/01/10 PG&E
     Expenses:Utilities                  $60.41
     Assets:WF Checking
+
+2018/01/11 Kathy Copeland
+    Expenses:Activities:Piano          $100.00
+    Assets:MSEFCU Checking
 
 2018/01/12 Payday
     Assets:WF Checking                $2811.09
@@ -3325,9 +3341,9 @@
     Expenses:College:Supplies           $31.97
     Liabilities:Citibank MC
 
-2018/01/16 Kathy Copeland
-    Expenses:Activities:Piano          $100.00
-    Assets:MSEFCU Checking
+2018/01/16 Safeway
+    Expenses:Food:Groceries              $2.82
+    Assets:Cash
 
 2018/01/17 UCSB Bookstore
     Expenses:College:Supplies           $53.60
@@ -3346,8 +3362,178 @@
     Liabilities:Citibank MC
 
 2018/01/17 Amazon
-    Expenses:Entertainment:Books        $18.86
+    Expenses:Entertainment:Books        $15.96
+    Expenses:Household                  $12.90
     Liabilities:Amex Blue
+
+2018/01/18 CSF
+    Expenses:Household:School            $5.00
+    Assets:Cash
+
+2018/01/18 Costco
+    Expenses:Household                  $13.99
+    Expenses:Sales Tax                   $1.08
+    Liabilities:Costco Visa
+
+2018/01/18 Shutterfly
+    Expenses:Presents                   $51.90
+    Liabilities:Costco Visa
+
+2018/01/19 Trader Joe's
+    Expenses:Food:Groceries             $42.52
+    Expenses:Food:Candy                  $9.97
+    Expenses:Sales Tax                   $0.53
+    Liabilities:Amex Blue
+
+2018/01/19 Sacramento Regional Transit
+    Expenses:Travel:Train                $5.50
+    Liabilities:Citibank MC
+
+2018/01/19 Costco Gas
+    Expenses:Gas:Volvo                  $37.10
+    Liabilities:Costco Visa
+
+2018/01/20 Karen's Bakery
+    Expenses:Food:Breakfast:Angela       $5.50
+    Liabilities:Citibank MC
+
+2018/01/20 Lyft
+    Expenses:Travel:Taxi                $21.14
+    Liabilities:Citibank MC
+
+2018/01/20 UPS Store
+    Expenses:Postage                    $18.47
+    Liabilities:Costco Visa
+
+2018/01/20 Which Wich
+    Expenses:Food:Lunch:Angela           $8.95
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash                         -$1.00
+    Liabilities:Citibank MC
+
+2018/01/20 Lowe's
+    Expenses:Household                  $30.00
+    Expenses:Automotive:Truck           $20.54
+    Expenses:Sales Tax                   $0.00
+    Liabilities:Amex Blue
+
+2018/01/20 Zazzle
+    Expenses:Clothing:Angela            $32.40
+    Liabilities:Alaska Visa
+
+2018/01/20 Yoga with Adriene
+    Expenses:Clothing:Lydia             $34.27
+    Liabilities:Citibank MC
+
+2018/01/20 Red Bubble Inc
+    Expenses:Household                  $18.95
+    Liabilities:Citibank MC
+
+2018/01/21 Costco Gas
+    Expenses:Gas:Prius                  $21.82
+    Liabilities:Costco Visa
+
+2018/01/21 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $4.65
+    Assets:Cash
+
+2018/01/21 Foothills UMC
+    Expenses:Donations                  $60.00
+    Assets:MSEFCU Checking
+
+2018/01/21 Laundry
+    Expenses:College:Laundry             $8.00
+    Liabilities:Citibank MC
+
+2018/01/21 Amazon
+    Expenses:College:Miscellaneous      $14.94
+    Liabilities:Citibank MC
+
+2018/01/21 Nordstrom Rack
+    Expenses:Clothing:Eric              $54.97
+    Expenses:Clothing:Angela            $36.97
+    Expenses:Clothing:Lydia              $5.97
+    Expenses:Sales Tax                   $7.59
+    Liabilities:Costco Visa
+
+2018/01/21 Soma Intimates
+    Expenses:Clothing:Lydia             $17.24
+    Liabilities:Costco Visa
+
+2018/01/21 Sacramento County Kiefer Landfill
+    Expenses:Household                  $20.00
+    Liabilities:Citibank MC
+
+2018/01/21 Target
+    Expenses:Household                   $3.99
+    Expenses:Food:Candy                  $3.50
+    Expenses:Drugstore                  $10.98
+    Expenses:Sales Tax                   $1.09
+    Expenses:Discounts:Red Card         -$0.92
+    Expenses:Discounts:Bag              -$0.10
+    Assets:WF Checking
+    
+2018/01/21 Wells Fargo Deposit
+    Assets:WF Checking                  $73.94
+    Expenses:Communications:TV,Internet,Home Phone   
+
+2018/01/21 Wells Fargo Deposit
+    Assets:WF Checking                 $350.00
+    Assets:Eric                       -$150.00
+    Assets:Angela
+
+2018/01/21 Wells Fargo Withdrawal
+    Assets:Eric                        $220.00
+    Assets:Angela                      $200.00
+    Assets:Cash                         $80.00
+    Assets:WF Checking
+
+2018/01/21 Jack's Urban Eats
+    Expenses:Food:Dinner                $40.62
+    Expenses:Tips:Food                   $3.00
+    Assets:Cash                         -$3.00
+    Liabilities:Costco Visa
+
+2018/01/21 Farm Fresh to You
+    Expenses:Food:Groceries             $29.44
+    Liabilities:Costco Visa
+
+2018/01/21 Ultra Mobile
+    Expenses:Communications:Cellular    $30.53
+    Liabilities:Amex Blue
+
+2018/01/22 Amazon
+    Expenses:College:Miscellaneous      $26.57
+    Liabilities:Citibank MC
+
+2018/01/22 Winco Foods
+    Expenses:Food:Groceries             $46.49
+    Assets:WF Checking
+
+2018/01/22 Round Table
+    Expenses:Food:Dinner                $25.84
+    Assets:Cash
+    
+2018/01/22 Winco Foods
+    Expenses:Food:Groceries              $5.39
+    Assets:Cash                         $10.00
+    Assets:WF Checking
+
+2018/01/22 Barnes & Noble
+    Expenses:Food:Snacks:Angela          $5.00
+    Assets:Cash
+
+2018/01/22 Cap Radio
+    Expenses:Donations                  $10.00
+    Liabilities:Costco Visa
+
+2018/01/23 City of Folsom
+    Expenses:Utilities                  $94.07
+    Liabilities:Alaska Visa
+
+2018/01/23 Credit Card Payment
+    Liabilities:Amex Blue              $503.82
+    Assets:WF Checking
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
@@ -3361,4 +3547,5 @@
 ;    Liabilities:Amex Blue
 ;    Liabilities:Costco Visa
 ;    Liabilities:Citibank MC
+;    Liabilities:Alaska Visa
 
