@@ -3474,7 +3474,7 @@
     Assets:WF Checking
     
 2018/01/21 Wells Fargo Deposit
-    Assets:WF Checking                  $73.94
+    Assets:WF Checking                  $73.24
     Expenses:Communications:TV,Internet,Home Phone   
 
 2018/01/21 Wells Fargo Deposit
@@ -3535,6 +3535,18 @@
     Liabilities:Amex Blue              $503.82
     Assets:WF Checking
 
+2018/01/24 Book repayment Williamson
+    Assets:Cash                          $5.00
+    Expenses:Entertainment:Books
+
+2018/01/24 Safeway
+    Expenses:Food:Groceries             $15.27
+    Assets:Cash
+
+2018/01/24 Safeway
+    Expenses:Food:Groceries              $2.99
+    Liabilities:Alaska Visa
+    
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
 ; not yet posted
