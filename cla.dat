@@ -14,6 +14,7 @@
     Assets:Gift Cards:The Habit         $40.00
     Assets:Gift Cards:Cinema West        $7.50
     Assets:Gift Cards:Quick Quack:Volvo      4
+    Assets:Gift Cards:Cinemark               2
     Assets:Car Money:Prius              $10.75
     Assets:Car Money:Volvo               $7.91; $5.14
     Liabilities:Costco Visa          $-5562.11
@@ -3223,6 +3224,10 @@
     Expenses:College:Supplies           $12.72
     Liabilities:Citibank MC
 
+2018/01/09 McDonald's 
+    Expenses:Food:Lunch:Eric             $2.16
+    Assets:Cash
+
 2018/01/09 Trader Joe's
     Expenses:Food:Groceries             $50.03
     Liabilities:Costco Visa
@@ -3272,7 +3277,7 @@
     Income:Salary:Centene
 
 2018/01/12 Deposit
-    Assets:Health Savings Account      $230.77
+    Assets:HSA Connect Your Care       $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -3284,6 +3289,10 @@
 2018/01/13 Colton Books
     Expenses:Household:School           $21.84
     Liabilities:Costco Visa
+
+2018/01/14 HSA Fee
+    Expenses:Fees                        $1.74
+    Assets:HSA Connect Your Care
 
 2018/01/14 Costco Gas
     Expenses:Gas:Volvo                  $37.33
@@ -3315,6 +3324,10 @@
     Expenses:Food:Dessert                $5.00
     Liabilities:Costco Visa
 
+2018/01/14 Safeway
+    Expenses:Food:Groceries              $2.78
+    Assets:Cash
+
 2018/01/14 Geico
     Expenses:Insurance:Auto            $149.11
     Liabilities:Costco Visa
@@ -3340,10 +3353,6 @@
 2018/01/16 Barnes & Noble
     Expenses:College:Supplies           $31.97
     Liabilities:Citibank MC
-
-2018/01/16 Safeway
-    Expenses:Food:Groceries              $2.82
-    Assets:Cash
 
 2018/01/17 UCSB Bookstore
     Expenses:College:Supplies           $53.60
@@ -3539,6 +3548,10 @@
     Assets:Cash                          $5.00
     Expenses:Entertainment:Books
 
+2018/01/24 Kathy Copeland
+    Expenses:Activities:Piano            $7.00
+    Assets:Cash
+
 2018/01/24 Safeway
     Expenses:Food:Groceries             $15.27
     Assets:Cash
@@ -3546,7 +3559,94 @@
 2018/01/24 Safeway
     Expenses:Food:Groceries              $2.99
     Liabilities:Alaska Visa
-    
+
+2018/01/24 Expedia
+    Expenses:Travel:Air                $389.60
+    Expenses:Travel:Air                $389.60
+    Liabilities:Alaska Visa
+
+2018/01/24 Folsom Dermatology
+    Expenses:Medical:Lydia              $85.00
+    Assets:HSA Connect Your Care
+
+2018/01/25 Rocksbox
+    Expenses:Clothing:Angela            $19.00
+    Liabilities:Citibank MC
+
+2018/01/26 Taco Bell
+    Expenses:Food:Snacks:Eric            $2.16
+    Assets:Cash
+
+2018/01/26 McDonald's
+    Expenses:Food:Dessert:Eric           $2.88
+    Assets:Cash
+
+2018/01/26 Payday
+    Assets:WF Checking                $2899.68
+    Income:Salary:Centene
+
+2018/01/26 Deposit
+    Assets:HSA Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/01/26 UCLA Ticket Office
+    Expenses:Entertainment:Athletics    $55.00
+    Expenses:Presents                   $90.00
+    Liabilities:Alaska Visa
+
+2018/01/27 Deva
+    Expenses:Food:Breakfast:Angela      $26.43
+    Liabilities:Costco Visa
+
+2018/01/27 Laundry
+    Expenses:College:Laundry             $8.00
+    Liabilities:Citibank MC
+
+2018/01/27 TJ Maxx
+    Expenses:Presents                   $52.51
+    Liabilities:Costco Visa
+
+2018/01/27 Subway
+    Expenses:Food:Lunch:Anna             $6.28
+    Liabilities:Citibank MC
+
+2018/01/27 Nordstrom Rack
+    Expenses:Clothing:Eric              $54.97
+    Expenses:Clothing:Angela            $36.97
+    Expenses:Clothing:Lydia              $5.97
+    Expenses:Sales Tax                   $7.59
+    Liabilities:Costco Visa
+
+2018/01/27 Ulta
+    Expenses:Drugstore                  $93.26
+    Expenses:Sales Tax                   $7.23
+    Liabilities:Citibank MC
+
+2018/01/27 Cinemark
+    Expenses:Entertainment:Movies            2    ;Three Billboards Outside Ebbing, Missouri
+    Assets:Gift Cards:Cinemark
+
+2018/01/27 Cinemark
+    Expenses:Food:Movies                $16.00
+    Liabilities:Alaska Visa
+
+2018/01/28 Costco Gas
+    Expenses:Gas:Prius                  $17.51
+    Liabilities:Costco Visa
+
+2018/01/28 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $5.85
+    Assets:Cash
+
+2017/12/31 HSA Fee
+    Expenses:Finance Charge              $7.16
+    Assets:Health Savings Account
+
+2018/01/05 HSA Fee
+    Expenses:Finance Charge              $5.00
+    Assets:Health Savings Account
+
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
 ; not yet posted
