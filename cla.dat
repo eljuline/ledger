@@ -3662,6 +3662,10 @@
     Expenses:Food:Lunch                  $9.65
     Assets:Cash
 
+2018/01/29 AAA Insurance
+    Expenses:Insurance:Home            $108.83
+    Liabilities:Citibank MC
+
 2017/12/31 HSA Fee
     Expenses:Finance Charge              $7.16
     Assets:Health Savings Account
