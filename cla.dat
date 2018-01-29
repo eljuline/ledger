@@ -3627,10 +3627,10 @@
     Liabilities:Citibank MC
 
 2018/01/27 Nordstrom Rack
-    Expenses:Clothing:Eric              $54.97
-    Expenses:Clothing:Angela            $36.97
-    Expenses:Clothing:Lydia              $5.97
-    Expenses:Sales Tax                   $7.59
+    Expenses:Clothing:Angela           -$36.97
+    Expenses:Sales Tax                  -$2.87
+    Expenses:Clothing:Angela            $56.94
+    Expenses:Sales Tax                   $4.41
     Liabilities:Costco Visa
 
 2018/01/27 Ulta
