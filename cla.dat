@@ -3597,12 +3597,27 @@
 
 2018/01/27 Deva
     Expenses:Food:Breakfast:Angela      $26.43
+    Expenses:Tips:Food                   $3.00
+    Assets:Cash                         -$3.00
     Liabilities:Costco Visa
 
 2018/01/27 Laundry
     Expenses:College:Laundry             $8.00
     Liabilities:Citibank MC
 
+2018/01/27 Target
+    Expenses:Food:Water                  $1.89
+    Assets:Cash
+
+2018/01/27 Target
+    Expenses:Food:Candy                  $2.50
+    Expenses:Drugstore                  $21.00
+    Expenses:Unknown                    $16.14
+    Expenses:Sales Tax                   $2.77
+    Expenses:Discounts:Red Card         -$1.98
+    Expenses:Discounts:Bag              -$0.05
+    Assets:WF Checking
+    
 2018/01/27 TJ Maxx
     Expenses:Presents                   $52.51
     Liabilities:Costco Visa
