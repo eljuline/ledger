@@ -2914,7 +2914,7 @@
     Assets:MSEFCU Savings                $0.10
     Income:Interest:MSEFCU Savings
 
-2018/01/01 Credit Card
+2018/01/01 Credit Card Payment
     Liabilities:Costco Visa           $1348.32
     Assets:WF Checking
 
@@ -3679,6 +3679,63 @@
     Expenses:Food:Groceries              $6.19
     Expenses:Sales Tax                   $1.24
     Liabilities:Costco Visa
+
+2018/01/29 Amazon
+    Expenses:Unknown                    $13.61
+    Liabilities:Amex Blue
+
+2018/01/29 Cap Radio
+    Expenses:Entertainment:Events       $30.00
+    Assets:Cash
+
+2018/01/30 American Eagle Outfitters
+    Expenses:Presents                   $67.88
+    Liabilities:Amex Blue
+
+2018/01/30 BR Factory US
+    Expenses:Presents                   $37.70
+    Liabilities:Amex Blue
+
+2018/01/30 Trader Joe's
+    Expenses:Food:Groceries             $25.14
+    Liabilities:Costco Visa
+
+2018/01/31 Payday
+    Assets:MSEFCU Checking            $1186.27
+    Income:Salary:FCUSD
+
+2018/01/31 Winco Foods
+    Expenses:Household:School            $3.26
+    Expenses:Food:Groceries              $6.39
+    Expenses:Sales Tax                   $0.59
+    Assets:Cash
+
+2018/01/31 Target
+    Expenses:Clothing:Eric              $21.47
+    Expenses:Household:School            $3.29
+    Expenses:Sales Tax                   $1.92
+    Expenses:Discounts:Bag              -$0.05
+    Liabilities:Alaska Visa
+
+2018/01/31 El Dorado Winery
+    Expenses:Entertainment:Wine Tasting    $175.85
+    Liabilities:Amex Blue
+
+2018/01/31 Adyen Internet
+    Expenses:Unknown                    $44.00
+    Liabilities:Amex Blue
+
+2018/02/01 Stitch Fix
+    Expenses:Clothing:Angela            $20.00
+    Liabilities:Costco Visa
+
+2018/02/01 Credit Card Payment
+    Liabilities:Costco Visa           $1258.61
+    Assets:WF Checking
+
+2018/02/01 Autopay
+    Liabilities:Citibank MC             $25.00
+    Assets:WF Checking
 
 2017/12/31 HSA Fee
     Expenses:Finance Charge              $7.16
