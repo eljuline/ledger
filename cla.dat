@@ -3832,7 +3832,7 @@
     Liabilities:Costco Visa
 
 2018/02/04 Laundry
-    Expenses:College:Laundry             $0.00
+    Expenses:College:Laundry             $4.75
     Liabilities:Citibank MC
 
 2018/02/04 Lowe's
@@ -3860,6 +3860,10 @@
     Expenses:Food:Candy                  $1.98
     Assets:WF Checking
 
+2018/02/05 Hawkins
+    Expenses:Activities:Dance          $298.00
+    Liabilities:Citibank MC
+
 2018/02/06 Target
     Expenses:Food:Groceries              $1.74
     Expenses:Drugstore                   $4.48
@@ -3882,12 +3886,16 @@
     Expenses:Food:Dessert                $3.64
     Assets:Cash
 
+2018/02/08 SMUD
+    Expenses:Utilities                  $89.24
+    Assets:WF Checking
+
 2018/02/08 Credit Card Payment
-    Liabilities:Citibank MC            $0.00
+    Liabilities:Citibank MC           $1279.55
     Assets:WF Checking
 
 2018/02/08 Autopay
-    Liabilities:Citibank MC             $0.00
+    Liabilities:Citibank MC             $25.00
     Assets:WF Checking
 
 2017/12/31 HSA Fee
