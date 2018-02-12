@@ -1829,7 +1829,7 @@
     Expenses:Food:Breakfast              $6.65
     Assets:Cash
 
-2017/11/26 Car Money
+2017/11/26 Car Money Adjustment
     Assets:Car Money:Volvo               $9.00
     Assets:Cash
 
@@ -2470,7 +2470,7 @@
     Expenses:Donations:Church          $150.00
     Assets:MSEFCU Checking
 
-2017/12/17 Correction of Car Money
+2017/12/17 Car Money Adjustment
     Assets:Car Money:Volvo               $1.00
     Assets:Cash                     
 
@@ -3754,10 +3754,6 @@
     Expenses:Fees                       $75.00
     Liabilities:Alaska Visa
 
-2018/02/01 Stitch Fix
-    Expenses:Clothing:Angela            $20.00
-    Liabilities:Costco Visa
-
 2018/02/01 Credit Card Payment
     Liabilities:Costco Visa           $1258.61
     Assets:WF Checking
@@ -3785,6 +3781,10 @@
 2018/02/02 Netflix
     Expenses:Entertainment:Netflix       $8.61
     Liabilities:Costco Visa
+
+2018/02/02 Argos Coffee
+    Expenses:Food:Breakfast:Angela       $3.50
+    Assets:Cash
 
 2018/02/02 Trader Joe's
     Expenses:Food:Groceries             $24.18
@@ -3843,6 +3843,10 @@
     Expenses:Presents                    $7.52
     Assets:Cash
 
+2018/02/05 Amazon
+    Expenses:Household:School           $20.91
+    Liabilities:Amex Blue
+
 2018/02/05 Chase Mortgage
     Expenses:House                    $1600.00
     Assets:WF Checking
@@ -3878,6 +3882,10 @@
     Expenses:Food:Candy                 $25.90
     Liabilities:Amex Blue
 
+2018/02/06 Comcast
+    Expenses:Communications:Internet,Home Phone   $51.28
+    Liabilities:Amex Blue
+
 2018/02/07 Costco Gas
     Expenses:Gas:Prius                  $22.71
     Liabilities:Costco Visa
@@ -3890,6 +3898,10 @@
     Expenses:Utilities                  $89.24
     Assets:WF Checking
 
+2018/02/08 Tutu Tix
+    Expenses:Entertainment:Dance        $33.50
+    Liabilities:Amex Blue
+
 2018/02/08 Credit Card Payment
     Liabilities:Citibank MC           $1279.55
     Assets:WF Checking
@@ -3897,6 +3909,112 @@
 2018/02/08 Autopay
     Liabilities:Citibank MC             $25.00
     Assets:WF Checking
+
+2018/02/08 PG&E
+    Expenses:Utilities                  $76.74
+    Assets:WF Checking
+
+2018/02/09 Payday
+    Assets:WF Checking                $2899.65
+    Income:Salary:Centene
+
+2018/02/09 Deposit
+    Assets:HSA Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/02/09 Payday
+    Assets:MSEFCU Checking             $839.26
+    Income:Salary:FCUSD
+
+2018/02/09 Transfer
+    Assets:MSEFCU Savings              $500.00
+    Assets:MSEFCU Checking
+
+2018/02/10 Karen's Bakery
+    Expenses:Presents                    $9.00
+    Expenses:Food:Breakfast              $7.25
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash                         -$1.00
+    Liabilities:Citibank MC
+
+2018/02/10 Lowe's 
+    Expenses:Household:Outdoor          $12.88
+    Expenses:Household:Indoor            $9.98
+    Expenses:Sales Tax                   $1.77
+    Liabilities:Alaska Visa
+
+2018/02/10 Deposit
+    Assets:College                    $2000.00
+    Income:Gift
+
+2018/02/10 Deposit from Amy
+    Assets:WF Checking                 $390.00
+    Expenses:Travel:Air               -$389.60
+    Income:Gift
+
+2018/02/10 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/02/10 Laundry
+    Expenses:College:Laundry             $0.00
+    Liabilities:Citibank MC
+
+2018/02/10 Salsa Taqueria
+    Expenses:Food:Dinner:Angela          $9.97
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash                         -$1.00
+    Liabilities:Citibank MC
+
+2018/02/10 Island's
+    Expenses:Food:Dinner                $32.53
+    Expenses:Tips:Food                   $7.00
+    Liabilities:Amex Blue
+
+2018/02/10 UCSB Assoc Students We
+    Expenses:College:Miscellaneous      $10.50
+    Liabilities:Citibank MC
+
+2018/02/10 Kathy Copeland
+    Expenses:Activities:Piano          $100.00
+    Assets:MSEFCU Checking
+
+2018/02/11 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $5.65
+    Assets:Cash
+
+2018/02/11 Foothills UMC
+    Expenses:Donations                 $120.00
+    Assets:MSEFCU Checking
+
+2018/02/11 Coinstar money
+    Assets:Coinstar                     $12.93
+    Assets:Cash
+
+2018/02/11 Car Money Adjustment
+    Assets:Car Money:Volvo               $0.09
+    Assets:Cash
+
+2018/02/11 Raley's
+    Expenses:Food:Groceries             $30.50
+    Liabilities:Costco Visa
+
+2018/02/11 Target
+    Expenses:Drugstore                  $14.97
+    Expenses:Household                   $6.99
+    Expenses:Sales Tax                   $1.61
+    Expenses:Discounts:Red Card         -$1.10
+    Expenses:Discounts:Bag              -$0.05
+    Assets:WF Checking
+
+2018/02/11 Winco Foods
+    Expenses:Food:Groceries             $49.62
+    Assets:WF Checking
+
+2018/02/12 Car Money Adjustment
+    Assets:Car Money:Prius               $0.00
+    Assets:Cash
 
 2017/12/31 HSA Fee
     Expenses:Finance Charge              $7.16
