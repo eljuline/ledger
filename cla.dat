@@ -4022,6 +4022,50 @@
     Assets:Car Money:Prius               $0.00
     Assets:Cash
 
+2018/02/12 See's Candies
+    Expenses:Presents                    $6.00
+    Assets:Cash
+
+2018/02/12 Bed Bath & Beyond
+    Expenses:Drugstore                   $5.59
+    Assets:Cash
+
+2018/02/12 Winco Foods
+    Expenses:Food:Groceries              $5.70
+    Assets:Cash
+
+2018/02/12 Lowe's
+    Expenses:Household:Indoor           $12.47
+    Liabilities:Amex Blue 
+
+2018/02/12 Amazon
+    Expenses:Household:Indoor           $63.99
+    Liabilities:Amex Blue
+
+2018/02/12 Netflix
+    Expenses:Entertainment:Netflix:Anna   $7.99
+    Liabilities:Citibank MC
+    
+2018/02/13 Taco Bell
+    Expenses:Food:Snacks:Eric            $1.94
+    Assets:Cash
+
+2018/02/13 Laundry
+    Expenses:College:Laundry             $0.00
+    Liabilities:Citibank MC
+
+2018/02/13 Trader Joe's
+    Expenses:Food:Groceries             $48.61
+    Liabilities:Costco Visa
+
+2018/02/13 Costco Gas
+    Expenses:Gas:Truck                  $40.74
+    Liabilities:Costco Visa
+
+2018/02/14 Geico
+    Expenses:Insurance:Auto            $181.34
+    Liabilities:Costco Visa
+
 2017/12/31 HSA Fee
     Expenses:Finance Charge              $7.16
     Assets:Health Savings Account
