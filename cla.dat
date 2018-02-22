@@ -3958,14 +3958,13 @@
     Assets:WF Checking
 
 2018/02/10 Laundry
-    Expenses:College:Laundry             $0.00
+    Expenses:College:Laundry             $2.75
     Liabilities:Citibank MC
 
-2018/02/10 Salsa Taqueria
+2018/02/10 Salsa's Taqueria
     Expenses:Food:Dinner:Angela          $9.97
     Expenses:Tips:Food                   $1.00
-    Assets:Cash                         -$1.00
-    Liabilities:Citibank MC
+    Assets:Cash
 
 2018/02/10 Island's
     Expenses:Food:Dinner                $32.53
@@ -4018,10 +4017,11 @@
     Expenses:Sales Tax                   $0.54
     Assets:Cash
 
-2018/02/12 Car Money Adjustment
-    Assets:Car Money:Prius               $0.00
+2018/02/11 Cost Plus World Market
+    Expenses:Household:School           $12.59
+    Expenses:Household                   $7.98
     Assets:Cash
-
+ 
 2018/02/12 See's Candies
     Expenses:Presents                    $6.00
     Assets:Cash
@@ -4051,7 +4051,7 @@
     Assets:Cash
 
 2018/02/13 Laundry
-    Expenses:College:Laundry             $0.00
+    Expenses:College:Laundry             $2.75
     Liabilities:Citibank MC
 
 2018/02/13 Trader Joe's
@@ -4066,6 +4066,172 @@
     Expenses:Insurance:Auto            $181.34
     Liabilities:Costco Visa
 
+2018/02/14 Red Robin
+   Expenses:Food:Lunch:Eric             $27.00
+   Assets:Cash
+
+2018/02/14 Raley's
+    Expenses:Food:Groceries             $13.94
+    Liabilities:Citibank MC
+
+2018/02/14 Round Table Pizza
+    Expenses:Food:Dinner                $24.77
+    Expenses:Tips:Food                   $2.00
+    Assets:Cash                         -$2.00
+    Liabilities:Citibank MC
+
+2018/02/14 Anna Juline
+    Expenses:College:Miscellaneous     $100.00
+    Assets:WF Checking
+
+2018/02/15 Lowe's
+    Expenses:Household:Indoor           $10.76
+    Liabilities:Amex Blue
+
+2018/02/16 Work Vending Machine
+    Expenses:Food:Snacks:Eric            $2.00
+    Assets:Cash
+
+2018/02/16 Withdrawal
+    Assets:Cash                        $300.00
+    Assets:WF Checking
+
+2018/02/16 Safeway
+    Expenses:Food:Groceries             $11.48
+    Liabilities:Citibank MC
+
+2018/02/16 Shannon Family Automotive
+    Expenses:Automotive:Service:Prius  $799.79
+    Liabilities:Alaska Visa
+
+2018/02/16 Sling TV
+    Expenses:Entertainment:TV           $74.98
+    Liabilities:Amex Blue
+
+2018/02/16 Stitch Fix
+    Expenses:Clothing:Angela            $68.36
+    Liabilities:Costco Visa
+
+2018/02/17 Breakfast in Chicago
+    Expenses:Food:Breakfast:Angela      $50.00
+    Assets:Cash
+
+2018/02/17 Dinner in Chicago
+    Expenses:Tips:Food                  $11.00
+    Assets:Cash
+
+2018/02/17 UCSB
+    Expenses:College:UCSB BARC        $1961.18
+    Assets:College
+
+2018/02/17 Lowe's
+    Expenses:Household:Indoor           $32.34
+    Liabilities:Amex Blue
+    
+2018/02/17 99 Ranch
+    Expenses:Presents                    $2.14
+    Assets:Cash
+
+2018/02/17 Happy New Year Present for Diane
+    Expenses:Presents                   $10.00
+    Assets:Cash
+
+2018/02/17 Kentucky Fried Chicken
+    Expenses:Food:Dinner                $11.94
+    Assets:Cash
+
+2018/02/17 Dancewear Solutions
+    Expenses:Activities:Dance           $72.85
+    Liabilities:Costco Visa
+
+2018/02/18 Costco Gas
+    Expenses:Gas:Prius                  $19.47
+    Liabilities:Costco Visa
+
+2018/02/18 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $3.50
+    Assets:Cash
+
+2018/02/18 Laundry
+    Expenses:College:Laundry             $2.75
+    Liabilities:Citibank MC
+
+2018/02/18 Lowe's 
+    Liabilities:Amex Blue                $8.60
+    Expenses:Household:Indoor
+
+2018/02/18 Lowe's
+    Expenses:Household:Indoor           $22.84
+    Liabilities:Amex Blue
+
+2018/02/18 Costco
+    Expenses:Unknown                    $55.83
+    Liabilities:Costco Visa
+
+2018/02/18 Mariano's
+    Expenses:Unknown                    $44.16
+    Liabilities:Costco Visa
+
+2018/02/18 Carson's
+    Expenses:Presents                   $38.70
+    Assets:Cash
+
+2018/02/18 Cash from Alice
+    Assets:Cash                        $100.00
+    Expenses:Unknown
+
+2018/02/18 Farm Fresh to You
+    Expenses:Food:Groceries             $27.97
+    Liabilities:Costco Visa
+
+2018/02/18 Bath & Body Works
+    Expenses:Presents                   $13.71
+    Assets:Cash
+
+2018/02/19 Sourdough & Co
+    Expenses:Food:Lunch                  $9.65
+    Assets:Cash
+
+2018/02/19 Shell
+    Expenses:Gas:Other                  $20.00
+    Assets:Cash
+
+2018/02/19 Starbucks
+    Expenses:Presents                    $5.00
+    Assets:Cash
+
+2018/02/19 Nuts on Clark
+    Expenses:Presents                    $5.99
+    Assets:Cash
+
+2018/02/19 Sacramento Airport Parking
+    Expenses:Travel:Parking             $30.00
+    Assets:Cash
+
+2018/02/19 Safeway Fuel
+    Expenses:Gas:Volvo                  $40.00
+    Liabilities:Costco Visa
+
+2018/02/19 Cap Radio
+    Expenses:Donations                  $10.00
+    Liabilities:Costco Visa
+
+2018/02/20 Ultra Mobile
+    Expenses:Communications:Cellular    $30.53
+    Liabilities:Amex Blue
+
+2018/02/21 Raley's
+    Expenses:Food:Groceries             $20.02
+    Assets:WF Checking
+
+2018/02/21 Winco Foods
+    Expenses:Food:Groceries             $32.21
+    Assets:WF Checking
+
+2018/02/22 McDonald's
+    Expenses:Food:Lunch                  $4.08
+    Assets:Cash
+
 2017/12/31 HSA Fee
     Expenses:Finance Charge              $7.16
     Assets:Health Savings Account
@@ -4073,6 +4239,11 @@
 2018/01/05 HSA Fee
     Expenses:Finance Charge              $5.00
     Assets:Health Savings Account
+
+2018/02/28 Car Money Adjustment
+    Assets:Car Money:Prius               $0.00
+    Assets:Cash
+
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
