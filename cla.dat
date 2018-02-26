@@ -4084,6 +4084,10 @@
     Expenses:College:Miscellaneous     $100.00
     Assets:WF Checking
 
+2018/02/14 American Airlines Seat Selection
+    Expenses:Travel:Air                 $63.95
+    Liabilities:Alaska Visa
+
 2018/02/15 Lowe's
     Expenses:Household:Indoor           $10.76
     Liabilities:Amex Blue
@@ -4222,14 +4226,104 @@
 
 2018/02/21 Raley's
     Expenses:Food:Groceries             $20.02
-    Assets:WF Checking
+    Assets:Cash
 
 2018/02/21 Winco Foods
     Expenses:Food:Groceries             $32.21
     Assets:WF Checking
 
+2018/02/21 Girl Scout Cookies
+    Expenses:Food:Snacks                $20.00
+    Assets:Cash
+
+2018/02/21 Target
+    Expenses:Clothing                    $5.60
+    Expenses:Household                   $9.88
+    Expenses:Sales Tax                   $1.14
+    Expenses:Discounts:Red Card         -$0.77
+    Expenses:Discounts:Bag              -$0.05
+    Expenses:Discounts:Bag               $0.10
+    Assets:WF Checking
+
+2018/02/21 Lydia
+    Assets:Lydia                        $20.00
+    Assets:Cash
+
 2018/02/22 McDonald's
     Expenses:Food:Lunch                  $4.08
+    Assets:Cash
+
+2018/02/22 Taco Bell
+    Expenses:Food:Dinner                $13.93
+    Assets:Cash
+
+2018/02/22 Petsmart
+    Expenses:Pets                       $29.08
+    Assets:Cash
+
+2018/02/22 Angela Cash App
+    Assets:Cash App:Angela               $5.00
+    Assets:WF Checking
+
+2018/02/22 Hawkins
+    Expenses:Activities:Dance           $32.27
+    Liabilities:Citibank MC
+
+2018/02/23 Payday
+    Assets:WF Checking                $2899.67
+    Income:Salary:Centene
+
+2018/02/23 Deposit
+    Assets:HSA Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/02/23 Rewards Statement Credit
+    Liabilities:Amex Blue              $125.00
+    Income:Credit Card Rewards
+
+2018/02/23 Credit Card Payment
+    Liabilities:Amex Blue              $491.40
+    Assets:WF Checking
+
+2018/02/23 Nordstrom Rack
+    Expenses:Clothing:Angela            $53.84
+    Liabilities:Amex Blue
+
+2018/02/24 Crate & Barrel
+    Expenses:Presents                  $126.32
+    Liabilities:Costco Visa
+
+2018/02/24 Famous Footwear
+    Expenses:Clothing:Angela            $43.09
+    Liabilities:Costco Visa
+
+2018/02/24 Costco Gas
+    Expenses:Gas:Truck                  $45.06
+    Liabilities:Costco Visa
+
+2018/02/25 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $5.65
+    Assets:Cash
+
+2018/02/25 Foothills UMC
+    Expenses:Donations                  $40.00
+    Assets:MSEFCU Checking
+
+2018/02/25 Winco Foods
+    Expenses:Food:Groceries             $53.20
+    Assets:WF Checking
+
+2018/02/25 Cinemark
+    Expenses:Entertainment:Movies       $11.00    ;Game Night
+    Assets:Cash
+
+2018/02/25 Cinemark
+    Expenses:Food:Movies                 $7.35
+    Assets:Cash
+
+2018/02/25 Safeway
+    Expenses:Food:Groceries             $19.39
     Assets:Cash
 
 2017/12/31 HSA Fee
