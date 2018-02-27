@@ -4326,6 +4326,32 @@
     Expenses:Food:Groceries             $19.39
     Assets:Cash
 
+2018/02/25 Rocksbox
+    Expenses:Clothing:Angela            $19.00
+    Liabilities:Citibank MC
+
+2018/02/25 Girl Scout Cookies
+    Expenses:Food:Snacks                $20.00
+    Assets:Car Money:Prius              -$7.00
+    Assets:Cash
+
+2018/02/26 Round Table Pizza
+    Expenses:Food:Dinner                $25.84
+    Expenses:Tips:Food                   $2.00
+    Liabilities:Alaska Visa
+
+2018/02/26 Target
+    Expenses:Food:Groceries             $15.50
+    Expenses:Activities:Dance           $12.49
+    Expenses:Sales Tax                   $0.92
+    Expenses:Discounts:Red Card         -$1.40
+    Assets:Cash                         $40.00
+    Assets:WF Checking
+
+2018/02/27 AAA Insurance
+    Expenses:Insurance:Home            $107.77
+    Liabilities:Citibank MC
+
 2017/12/31 HSA Fee
     Expenses:Finance Charge              $7.16
     Assets:Health Savings Account
