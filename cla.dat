@@ -4348,9 +4348,44 @@
     Assets:Cash                         $40.00
     Assets:WF Checking
 
+2018/02/26 Google Play - Tinyscan Pro
+    Expenses:Communications:Cellular     $2.99
+    Liabilities:Costco Visa
+
 2018/02/27 AAA Insurance
     Expenses:Insurance:Home            $107.77
     Liabilities:Citibank MC
+
+2018/02/27 McDonald's
+    Expenses:Food:Lunch:Eric             $4.50
+    Liabilities:Costco Visa
+
+2018/02/27 Safeway
+    Expenses:Food:Groceries             $18.68
+    Liabilities:Costco Visa
+
+2018/02/27 Ulta
+    Expenses:Drugstore                  $47.40
+    Liabilities:Citibank MC
+
+2018/02/28 Walgreen's
+    Expenses:Food:Candy                  $9.50
+    Expenses:Activities:Dance           $12.48
+    Expenses:Drugstore                  $19.49
+    Expenses:Sales Tax                   $2.48
+    Liabilities:Costco Visa
+
+2018/02/28 Haircut - Jamee Neumann
+    Expenses:Cosmetics:Haircut:Angela  $145.00
+    Assets:MSEFCU Checking
+
+2018/03/01 Credit Card Payment
+    Liabilities:Costco Visa           $1715.67
+    Assets:WF Checking
+
+2018/03/01 Credit Card Autopay
+    Liabilities:Costco Visa             $26.00
+    Assets:WF Checking
 
 2017/12/31 HSA Fee
     Expenses:Finance Charge              $7.16
