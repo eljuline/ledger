@@ -3794,6 +3794,10 @@
     Expenses:Food:Groceries             $16.24
     Assets:Cash
 
+2018/02/02 David Witkowski
+    Expenses:Activities:Saxophone      $110.00
+    Assets:MSEFCU Checking
+
 2018/02/02 Folsom High vs Oak Ridge Boys' Basketball
     Expenses:Entertainment:Athletics    $12.00
     Assets:Cash
@@ -4224,6 +4228,11 @@
     Expenses:Communications:Cellular    $30.53
     Liabilities:Amex Blue
 
+2018/02/20 FHS Men's Volleyball
+    Expenses:Clothing:Eric              $12.00
+    Expenses:Clothing:Angela            $14.00
+    Assets:WF Checking
+
 2018/02/21 Raley's
     Expenses:Food:Groceries             $20.02
     Assets:Cash
@@ -4248,6 +4257,10 @@
 2018/02/21 Lydia
     Assets:Lydia                        $20.00
     Assets:Cash
+
+2018/02/21 Kmart Goleta
+    Expenses:College:Miscellaneous      $32.97
+    Liabilities:Citibank MC
 
 2018/02/22 McDonald's
     Expenses:Food:Lunch                  $4.08
@@ -4294,6 +4307,10 @@
     Expenses:Presents                  $126.32
     Liabilities:Costco Visa
 
+2018/02/24 Kohl's 
+    Expenses:Clothing:Angela            $17.22
+    Assets:Cash
+
 2018/02/24 Famous Footwear
     Expenses:Clothing:Angela            $43.09
     Liabilities:Costco Visa
@@ -4301,6 +4318,10 @@
 2018/02/24 Costco Gas
     Expenses:Gas:Truck                  $45.06
     Liabilities:Costco Visa
+
+2018/02/25 Laundry
+    Expenses:College:Laundry             $4.75
+    Liabilities:Citibank MC
 
 2018/02/25 Baker's Dozen Donuts
     Expenses:Food:Breakfast              $5.65
@@ -4335,6 +4356,10 @@
     Assets:Car Money:Prius              -$7.00
     Assets:Cash
 
+2018/02/26 Amazon
+    Expenses:Activities:Volleyball      $70.60
+    Liabilities:Amex Blue
+
 2018/02/26 Round Table Pizza
     Expenses:Food:Dinner                $25.84
     Expenses:Tips:Food                   $2.00
@@ -4368,6 +4393,10 @@
     Expenses:Drugstore                  $47.40
     Liabilities:Citibank MC
 
+2018/02/27 Amazon
+    Expenses:Communications:Phones      $33.83
+    Liabilities:Amex Blue
+
 2018/02/28 Walgreen's
     Expenses:Food:Candy                  $9.50
     Expenses:Activities:Dance           $12.48
@@ -4379,12 +4408,172 @@
     Expenses:Cosmetics:Haircut:Angela  $145.00
     Assets:MSEFCU Checking
 
+2018/02/28 Interest Payment
+    Assets:WF Checking                   $0.06
+    Income:Interest:WF Checking
+
+2018/02/28 Payday
+    Assets:MSEFCU Checking            $1186.27
+    Income:Salary:FCUSD
+
 2018/03/01 Credit Card Payment
     Liabilities:Costco Visa           $1715.67
     Assets:WF Checking
 
 2018/03/01 Credit Card Autopay
     Liabilities:Costco Visa             $26.00
+    Assets:WF Checking
+
+2018/03/01 Ulta
+    Expenses:Drugstore                  $34.48
+    Liabilities:Costco Visa
+
+2018/03/01 Costco Gas
+    Expenses:Gas:Prius                  $22.81
+    Liabilities:Costco Visa
+
+2018/03/02 In-N-Out
+    Expenses:Food:Lunch                 $10.12
+    Liabilities:Costco Visa
+
+2018/03/02 Togo's
+    Expenses:Food:Dinner                 $7.50
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+2018/03/02 Netflix
+    Expenses:Entertainment:Netflix       $8.61
+    Liabilities:Costco Visa
+
+2018/03/02 Amazon
+    Expenses:Presents                   $25.00
+    Liabilities:Amex Blue
+
+2018/03/02 Verizon Wireless
+    Expenses:Communications:Cellular   $103.45
+    Liabilities:Amex Blue
+
+2018/03/02 Hyatt Regency Santa Clara
+    Expenses:Travel:Hotel              $392.05
+    Liabilities:Costco Visa
+
+2018/03/03 The Home Depot
+    Expenses:Household:Indoor            $8.59
+    Liabilities:Alaska Visa
+
+2018/03/03 Lowe's
+    Expenses:Household:Indoor            $4.82
+    Liabilities:Alaska Visa
+
+2018/03/03 Costco Gas
+    Expenses:Gas:Truck                  $68.23
+    Liabilities:Costco Visa
+
+2018/03/03 33 Coffee Bar - Hyatt
+    Expenses:Food:Breakfast:Angela       $7.25
+    Expenses:Tips:Food                   $1.00
+    Liabilities:Costco Visa
+
+2018/03/03 Paper Source
+    Expenses:Household                  $53.35
+    Expenses:Sales Tax                   $4.93
+    Liabilities:Costco Visa
+
+2018/03/03 Amazon
+    Expenses:Activities:Volleyball      $10.88
+    Liabilities:Amex Blue
+
+2018/03/03 Amazon
+    Expenses:Household:Eric             $11.83
+    Liabilities:Amex Blue
+
+2018/03/03 Staples
+    Expenses:Household                   $8.61
+    Liabilities:Alaska Visa
+
+2018/03/04 Laundry
+    Expenses:College:Laundry             $4.75
+    Liabilities:Citibank MC
+
+2018/03/04 Winco Foods
+    Expenses:Food:Groceries             $51.99
+    Assets:WF Checking
+
+2018/03/04 Rite Aid
+    Expenses:College:Miscellaneous      $35.28
+    Liabilities:Citibank MC
+
+2018/03/04 Evolve Photo and Video
+    Expenses:Activities:Dance           $80.00
+    Liabilities:Costco Visa
+
+2018/03/04 Girl Scout Cookies
+    Expenses:Food:Snacks                $15.00
+    Assets:Cash
+
+2018/03/04 NYCDA Dance
+    Expenses:Activities:Dance          $100.00
+    Assets:Cash
+
+2018/03/05 Famous Footwear
+    Liabilities:Costco Visa             $43.09
+    Expenses:Clothing:Angela
+
+2018/03/05 Kohl's 
+    Assets:Cash                          $8.61
+    Expenses:Clothing:Angela
+
+2018/03/05 Trader Joe's
+    Expenses:Food:Groceries             $46.04
+    Liabilities:Costco Visa
+
+2018/03/05 Hawkins
+    Expenses:Activities:Dance          $298.00
+    Liabilities:Citibank MC
+
+2018/03/05 Costco Gas
+    Expenses:Gas:Prius                  $20.74
+    Liabilities:Costco Visa
+
+2018/03/05 Chase Mortgage
+    Expenses:House                    $1600.00
+    Assets:WF Checking
+
+2018/03/06 Comcast
+    Expenses:Communications:Internet,Home Phone   $51.28
+    Liabilities:Amex Blue
+
+2018/03/06 Deposit
+    Assets:WF Checking                   $8.29
+    Income:EBates
+
+2018/03/06 Deposit/Transfer
+    Assets:WF Checking                 $851.89
+    Assets:MSEFCU Checking
+
+2018/03/06 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2018/03/06 Dos Coyotes
+    Expenses:Food:Dinner                $22.30
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+2018/03/07 Girl Scout Cookies
+    Expenses:Food:Snacks                $10.00
+    Assets:Cash
+
+2018/03/08 Credit Card Payment
+    Liabilities:Alaska Visa           $1200.49
+    Assets:WF Checking
+
+2018/03/08 Credit Card Payment
+    Liabilities:Citibank MC            $881.65
+    Assets:WF Checking
+
+2018/03/08 Credit Card Autopay
+    Liabilities:Citibank MC             $25.00
     Assets:WF Checking
 
 2017/12/31 HSA Fee
