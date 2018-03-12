@@ -7,7 +7,7 @@
     Assets:G1 Checking                 $583.61
     Assets:G1 Savings                   $55.00
     Assets:Cash                        $108.00; $98.00; $89.72 ;$103.59
-    Assets:Health Savings Account     $2472.17
+    Assets:HSA:Tri-Ad     $2472.17
     Assets:FasTrak                      $25.00
     Assets:Gift Cards:American Eagle    $37.01
     Assets:Gift Cards:Amazon            $36.62
@@ -224,7 +224,7 @@
 
 2017/09/26 Rewards Statement Credit
     Liabilities:Amex Blue              $100.00
-    Income:Credit Card Rewards
+    Income:Credit Card Rewards:Amex Blue
 
 2017/09/26 Costco Gas
     Expenses:Gas:Volvo                  $36.75
@@ -254,7 +254,7 @@
 
 2017/09/27 ! Deposit
     ;2273
-    Assets:Health Savings Account      $401.00
+    Assets:HSA:Tri-Ad      $401.00
     Assets:WF Checking
 
 2017/09/27 UCSB Access Card Gaucho Bucks
@@ -490,7 +490,7 @@
     Income:Salary:Centene
 
 2017/10/06 Deposit
-    Assets:Health Savings Account      $230.77
+    Assets:HSA:Tri-Ad      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution     -$153.85
 
@@ -599,7 +599,7 @@
 
 2017/10/08 Thank You Points
     Assets:Gift Cards:Target           $100.00
-    Income:Credit Card Benefits
+    Income:Credit Card Rewards:Citibank MC
 
 ; voided check 2276
 
@@ -830,7 +830,7 @@
     Income:Salary:Centene
 
 2017/10/20 Deposit
-    Assets:Health Savings Account     $230.77
+    Assets:HSA:Tri-Ad     $230.77
     Income:Benefits:Centene           -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -1206,7 +1206,7 @@
     Income:Salary:Centene
 
 2017/11/03 Deposit
-    Assets:Health Savings Account     $230.77
+    Assets:HSA:Tri-Ad     $230.77
     Income:Benefits:Centene           -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -1564,7 +1564,7 @@
     Income:Salary:Centene
 
 2017/11/17 Deposit
-    Assets:Health Savings Account      $230.77
+    Assets:HSA:Tri-Ad      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -1852,7 +1852,7 @@
 
 2017/11/26 Folsom Dermatology
     Expenses:Medical:Lydia              $31.98
-    Assets:Health Savings Account
+    Assets:HSA:Tri-Ad
 
 2017/11/26 Costco Gas
     Expenses:Gas:Prius                  $18.99
@@ -1974,7 +1974,7 @@
     Income:Salary:Centene
 
 2017/12/01 Deposit
-    Assets:Health Savings Account      $230.77
+    Assets:HSA:Tri-Ad      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -2404,7 +2404,7 @@
     Income:Salary:Centene
 
 2017/12/15 Deposit
-    Assets:Health Savings Account      $230.77
+    Assets:HSA:Tri-Ad      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -2835,7 +2835,7 @@
     Income:Salary:Centene
 
 2017/12/29 Deposit
-    Assets:Health Savings Account      $230.77
+    Assets:HSA:Tri-Ad      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -2917,6 +2917,10 @@
 2018/01/01 Credit Card Payment
     Liabilities:Costco Visa           $1348.32
     Assets:WF Checking
+
+2017/12/31 HSA Fee
+    Expenses:Fees                        $7.16
+    Assets:HSA:Tri-Ad
 
 2018/01/01 Autopay
     Liabilities:Costco Visa             $25.00
@@ -3099,6 +3103,10 @@
     Assets:MSEFCU Checking             $200.00
     Assets:MSEFCU Savings
 
+2018/01/05 HSA Fee
+    Expenses:Fees                        $5.00
+    Assets:HSA:Tri-Ad
+
 2018/01/06 Withdrawal
     Assets:Cash                        $100.00
     Assets:WF Checking
@@ -3277,7 +3285,7 @@
     Income:Salary:Centene
 
 2018/01/12 Deposit
-    Assets:HSA Connect Your Care       $230.77
+    Assets:HSA:Connect Your Care       $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -3300,7 +3308,7 @@
 
 2018/01/14 HSA Fee
     Expenses:Fees                        $1.74
-    Assets:HSA Connect Your Care
+    Assets:HSA:Connect Your Care
 
 2018/01/14 Costco Gas
     Expenses:Gas:Volvo                  $37.33
@@ -3580,7 +3588,7 @@
 
 2018/01/24 Folsom Dermatology
     Expenses:Medical:Lydia              $85.00
-    Assets:HSA Connect Your Care
+    Assets:HSA:Connect Your Care
 
 2018/01/25 Rocksbox
     Expenses:Clothing:Angela            $19.00
@@ -3599,7 +3607,7 @@
     Income:Salary:Centene
 
 2018/01/26 Deposit
-    Assets:HSA Connect Your Care      $230.77
+    Assets:HSA:Connect Your Care      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -3723,7 +3731,7 @@
 
 2018/01/30 HSA Reimbursement
     Assets:WF Checking                  $85.00
-    Assets:HSA Connect Your Care
+    Assets:HSA:Connect Your Care
 
 2018/01/31 Payday
     Assets:MSEFCU Checking            $1186.27
@@ -3753,6 +3761,10 @@
 2018/01/31 Alaska Airlines Visa Annual Fee
     Expenses:Fees                       $75.00
     Liabilities:Alaska Visa
+
+2018/01/31 HSA Interest Payment
+    Assets:HSA:Tri-Ad                    $0.62
+    Income:Interest
 
 2018/02/01 Credit Card Payment
     Liabilities:Costco Visa           $1258.61
@@ -3872,6 +3884,10 @@
     Expenses:Activities:Dance          $298.00
     Liabilities:Citibank MC
 
+2018/02/05 HSA Fee
+    Expenses:Fees                        $5.00
+    Assets:HSA:Tri-Ad
+
 2018/02/06 Target
     Expenses:Food:Groceries              $1.74
     Expenses:Drugstore                   $4.48
@@ -3923,7 +3939,7 @@
     Income:Salary:Centene
 
 2018/02/09 Deposit
-    Assets:HSA Connect Your Care      $230.77
+    Assets:HSA:Connect Your Care      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
@@ -4091,6 +4107,10 @@
 2018/02/14 American Airlines Seat Selection
     Expenses:Travel:Air                 $63.95
     Liabilities:Alaska Visa
+
+2018/02/14 HSA Fee
+    Expenses:Fees                        $1.75
+    Assets:HSA:Connect Your Care
 
 2018/02/15 Lowe's
     Expenses:Household:Indoor           $10.76
@@ -4287,13 +4307,13 @@
     Income:Salary:Centene
 
 2018/02/23 Deposit
-    Assets:HSA Connect Your Care      $230.77
+    Assets:HSA:Connect Your Care      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
 
 2018/02/23 Rewards Statement Credit
     Liabilities:Amex Blue              $125.00
-    Income:Credit Card Rewards
+    Income:Credit Card Rewards:Amex Blue
 
 2018/02/23 Credit Card Payment
     Liabilities:Amex Blue              $491.40
@@ -4416,6 +4436,10 @@
     Assets:MSEFCU Checking            $1186.27
     Income:Salary:FCUSD
 
+2018/02/28 HSA Interest Payment
+    Assets:HSA:Tri-Ad                    $0.56
+    Income:Interest
+
 2018/03/01 Credit Card Payment
     Liabilities:Costco Visa           $1715.67
     Assets:WF Checking
@@ -4456,6 +4480,10 @@
 2018/03/02 Hyatt Regency Santa Clara
     Expenses:Travel:Hotel              $392.05
     Liabilities:Costco Visa
+
+2018/03/02 HSA Interest Payment
+    Assets:HSA:Connect Your Care         $0.02
+    Interest:Income
 
 2018/03/03 The Home Depot
     Expenses:Household:Indoor            $8.59
@@ -4539,6 +4567,10 @@
     Expenses:House                    $1600.00
     Assets:WF Checking
 
+2018/03/05 HSA Fee
+    Expenses:Fees                        $5.00
+    Assets:HSA:Tri-Ad
+
 2018/03/06 Comcast
     Expenses:Communications:Internet,Home Phone   $51.28
     Liabilities:Amex Blue
@@ -4560,9 +4592,23 @@
     Expenses:Tips:Food                   $1.00
     Assets:Cash
 
+2018/03/06 Cost Plus World Market - International Night
+    Expenses:Household:School           $35.95
+    Expenses:Household:Indoor           $19.95
+    Expenses:Sales Tax                   $1.16
+    Liabilities:Costco Visa
+
 2018/03/07 Girl Scout Cookies
     Expenses:Food:Snacks                $10.00
     Assets:Cash
+
+2018/03/07 Kathy Copeland
+    Expenses:Activities:Piano           $66.09
+    Assets:MSEFCU Checking
+
+2018/03/07 Cash Back for International Night
+    Assets:Cash                         $15.00
+    Expenses:Household:School
 
 2018/03/08 Credit Card Payment
     Liabilities:Alaska Visa           $1200.49
@@ -4576,18 +4622,128 @@
     Liabilities:Citibank MC             $25.00
     Assets:WF Checking
 
-2017/12/31 HSA Fee
-    Expenses:Finance Charge              $7.16
-    Assets:Health Savings Account
+2018/03/08 Popeye's
+    Expenses:Food:Lunch                 $10.09
+    Expenses:Presents                   $19.49
+    Expenses:Sales Tax                   $2.44
+    Liabilities:Alaska Visa
 
-2018/01/05 HSA Fee
-    Expenses:Finance Charge              $5.00
-    Assets:Health Savings Account
+2018/03/08 Lowe's
+    Liabilities:Costco Visa              $4.82
+    Expenses:Household:Indoor
+
+2018/03/08 Lowe's
+    Expenses:Household:Indoor           $56.37
+    Liabilities:Alaska Visa
+
+2018/03/08 Raley's
+    Expenses:Food:Groceries              $5.00
+    Assets:Cash
+ 
+2018/03/09 Payday
+    Assets:WF Checking                $2899.66
+    Income:Salary:Centene
+
+2018/03/09 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/03/09 Trish - Williamson
+    Expenses:Presents                   $10.00
+    Assets:Cash
+
+2018/03/09 Amazon Prime
+    Expenses:College:Miscellaneous      $52.80
+    Liabilities:Citibank MC
+
+2018/03/09 David Witkowski
+    Expenses:Activities:Saxophone      $110.00
+    Assets:MSEFCU Checking
+
+2018/03/09 Dollar Tree
+    Expenses:Food:Groceries              $2.26
+    Assets:Cash
+
+2018/03/09 Little Caesars
+    Expenses:Food:Dinner                $10.78
+    Liabilities:Costco Visa
+
+2018/03/09 Lily's Show
+    Expenses:Entertainment:Shows        $12.00
+    Assets:Cash
+
+2018/03/09 Payday
+    Assets:MSEFCU Checking             $818.83
+    Income:Salary:FCUSD
+
+2018/03/10 Costco Gas
+    Expenses:Gas:Volvo                  $41.23
+    Liabilities:Costco Visa
+
+2018/03/10 Costco
+    Expenses:Household:Indoor           $32.94
+    Expenses:Drugstore                  $38.99
+    Expenses:Food:Groceries             $67.56
+    Expenses:Sales Tax                   $5.57
+    Income:Credit Card Rewards:Costco
+
+2018/03/10 Transfer
+    Assets:Eric                        $260.00
+    Assets:Cash                          $6.86
+    Income:Credit Card Rewards:Costco
+
+2018/03/10 Total Wine
+    Expenses:Food:Wine                  $74.19
+    Expenses:Food:Beer                  $11.59
+    Expenses:Sales Tax                   $6.65
+    Liabilities:Citibank MC
+
+2018/03/10 City of Folsom
+    Expenses:Utilities                 $190.72
+    Liabilities:Alaska Visa
+
+2018/03/11 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $4.65
+    Assets:Cash
+
+2018/03/11 Foothills UMC
+    Expenses:Donations                   $0.00
+    Assets:MSEFCU Checking
+
+2018/03/11 Cinemark
+    Expenses:Entertainment:Movies       $11.00    ;Black Panther
+    Liabilities:Costco Visa
+
+2018/03/11 Cinemark
+    Expenses:Food:Movies                 $7.35
+    Liabilities:Costco Visa
+
+2018/03/11 Whole Foods
+    Expenses:Food:Groceries             $37.44
+    Liabilities:Costco Visa
+
+2018/03/11 Winco Foods
+    Expenses:Food:Groceries             $66.97
+    Assets:WF Checking
+
+2018/03/12 PG&E
+    Expenses:Utilities                  $62.86
+    Assets:WF Checking
+
+2018/03/12 Transfer
+    Assets:WF Checking                $1130.00
+    Assets:Eric                       -$730.00
+    Assets:Angela                     -$150.00
+    Assets:Cash                       -$250.00
+
+2018/03/13 SMUD
+    Expenses:Utilities                  $74.51
+    Assets:WF Checking
 
 2018/02/28 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
     Assets:Cash
-
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
