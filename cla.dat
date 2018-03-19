@@ -1,5 +1,6 @@
 2017/09/12 * Opening Balance
-    Assets:College                   $12549.77
+    Assets:College:College Savings Bank     $3349.77
+    Assets:College:Parents            $9200.00
     Assets:WF Checking                $1966.10
     Assets:WF Savings                  $433.80
     Assets:MSEFCU Checking             $928.88
@@ -22,10 +23,16 @@
     Liabilities:Amex Blue            $-5472.57
     Liabilities:Macy's                $-180.56
     Equity:Opening Balance
-   
-2017/09/12 UCSB
+
+2017/09/12 College Transfer
+    Assets:College:Us                  $467.65
+    Assets:WF Checking
+
+2017/09/12 UCSB BARC
     Expenses:College:UCSB BARC        $5823.16
-    Assets:College
+    Assets:College:College Savings Bank    -$3349.77
+    Assets:College:Us                 -$467.65
+    Assets:College:Parents
 
 2017/09/14 Folsom High School
     Expenses:Donations                  $60.00
@@ -109,9 +116,9 @@
     Assets:WF Checking                  $18.19
     Income:Salary:FCUSD
 
-2017/09/22 UCSB
+2017/09/22 UCSB BARC
     Expenses:College:UCSB BARC        $2705.18
-    Assets:College
+    Assets:College:Parents
 
 2017/09/22 Deposit
     Assets:WF Checking                $1900.00
@@ -1287,7 +1294,7 @@
     Expenses:Food:Breakfast              $8.40
     Assets:Cash
 
-2017/11/05 USCB Bookstore
+2017/11/05 UCSB Bookstore
     Expenses:Presents                  $107.96
     Expenses:College:Supplies           $12.99
     Expenses:Sales Tax                   $9.37
@@ -1412,9 +1419,9 @@
     Expenses:College:Laundry             $4.75
     Liabilities:Citibank MC
 
-2017/11/11 UCSB
+2017/11/11 UCSB BARC
     Expenses:College:UCSB BARC        $3922.36
-    Assets:College
+    Assets:College:Parents
 
 2017/11/11 Amazon
     Expenses:Presents                   $10.86
@@ -2156,7 +2163,7 @@
     Assets:MSEFCU Checking
 
 2017/12/06 Deposit
-    Assets:College                    $4700.00
+    Assets:College:Parents            $4700.00
     Income:Gift
 
 2017/12/06 Withdrawal
@@ -2379,9 +2386,14 @@
     Expenses:Gas:Truck                  $49.70
     Liabilities:Costco Visa
 
-2017/12/14 UCSB
+2017/12/14 College Transfer
+    Assets:College:Us                  $250.00
+    Assets:WF Checking
+
+2017/12/14 UCSB BARC
     Expenses:College:UCSB BARC        $4784.08
-    Assets:College
+    Assets:College:Us                 -$250.00
+    Assets:College:Parents
 
 2017/12/14 Learning Express
     Expenses:Presents                  $142.56
@@ -3057,7 +3069,7 @@
     Assets:WF Checking
 
 2018/01/05 Deposit
-    Assets:College                    $2000.00
+    Assets:College:Parents            $2000.00
     Income:Gift
 
 2018/01/05 Deposit
@@ -3322,9 +3334,13 @@
     Expenses:Gas:Prius                  $15.31
     Liabilities:Amex Blue
 
-2018/01/14 USCB BARC
-    Expenses:Food:Breakfast             $12.00
+2018/01/14 College Transfer
+    Assets:College:Us                   $12.00
     Assets:WF Checking
+
+2018/01/14 UCSB BARC
+    Expenses:College:UCSB BARC          $12.00
+    Assets:College:Us
 
 2018/01/14 Riata Diner & Tavern
     Expenses:Food:Breakfast:Eric        $22.72
@@ -3965,7 +3981,7 @@
     Liabilities:Alaska Visa
 
 2018/02/10 Deposit
-    Assets:College                    $2000.00
+    Assets:College:Parents            $2000.00
     Income:Gift
 
 2018/02/10 Deposit from Amy
@@ -4148,9 +4164,9 @@
     Expenses:Tips:Food                  $11.00
     Assets:Cash
 
-2018/02/17 UCSB
+2018/02/17 UCSB BARC
     Expenses:College:UCSB BARC        $1961.18
-    Assets:College
+    Assets:College:Parents
 
 2018/02/17 Lowe's
     Expenses:Household:Indoor           $32.34
@@ -4737,11 +4753,155 @@
     Assets:Angela                     -$150.00
     Assets:Cash                       -$250.00
 
+2018/03/12 Casper
+    Expenses:Household:Indoor         $1343.92
+    Liabilities:Alaska Visa
+
+2018/03/13 Dean Jepson
+    Expenses:Gambling                   $15.00
+    Assets:MSEFCU Checking
+
 2018/03/13 SMUD
     Expenses:Utilities                  $74.51
     Assets:WF Checking
 
-2018/02/28 Car Money Adjustment
+2018/03/13 Raley's
+    Expenses:Food:Groceries             $10.17
+    Liabilities:Costco Visa
+
+2018/03/13 McDonald's
+    Expenses:Food:Lunch:Eric             $4.08
+    Liabilities:Citibank MC
+
+2018/03/14 Geico
+    Expenses:Insurance:Auto            $178.70
+    Liabilities:Costco Visa
+
+2018/03/15 Hawkins
+    Expenses:Activities:Dance           $50.00
+    Liabilities:Citibank MC
+
+2018/01/14 College Transfer
+    Assets:College:Us                  $238.72
+    Assets:WF Checking
+
+2018/03/15 UCSB BARC
+    Expenses:College:UCSB BARC        $5368.82
+    Assets:College:Us                 -$238.72
+    Assets:College:Parents
+
+2018/03/15 Payday - Bonus
+    Assets:WF Checking                $1507.91
+    Income:Salary:Centene
+
+2018/03/16 Safeway Fuel
+    Expenses:Gas:Prius                  $24.98
+    Liabilities:Costco Visa
+
+2018/03/16 Smashburger
+    Expenses:Food:Dinner                $20.61
+    Liabilities:Costco Visa
+
+2018/03/16 Sling TV
+    Expenses:Entertainment:TV           $74.98
+    Liabilities:Amex Blue
+
+2018/03/17 SP*Applebiotic
+    Expenses:Drugstore                  $10.00
+    Liabilities:Costco Visa
+
+2018/03/17 Deposit
+    Assets:College:Parents            $3298.00
+    Income:Gift
+
+2018/03/17 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/03/17 Hair Salon
+    Expenses:Cosmetics:Haircut:Lydia    $15.00
+    Expenses:Tips:Hair                   $5.00
+    Assets:Cash
+
+2018/03/17 CVS
+    Expenses:Presents                   $16.57
+    Assets:Cash
+
+2018/03/17 Raley's
+    Expenses:Food:Groceries              $2.59
+    Assets:Cash
+
+2018/03/17 Staple's 
+    Expenses:Household:School           $23.89
+    Assets:Cash
+
+2018/03/17 Bed Bath & Beyond
+    Expenses:Drugstore                  $13.93
+    Expenses:Household                   $9.05
+    Expenses:Sales Tax                   $1.78
+    Liabilities:Costco Visa
+
+2018/03/17 Petsmart
+    Expenses:Pets                       $14.00
+    Liabilities:Citibank MC
+
+2018/03/17 Winco Foods
+    Expenses:Food:Groceries             $35.65
+    Expenses:Food:Candy                  $5.01
+    Assets:WF Checking
+
+2018/03/17 Safeway
+    Expenses:Food:Groceries              $3.49
+    Assets:Cash
+
+2018/03/17 March for our Lives
+    Expenses:Donations                  $33.72
+    Liabilities:Costco Visa
+
+2018/03/17 Car Money
+    Assets:Car Money:Prius               $7.00
+    Assets:Cash
+
+2018/03/18 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $5.50
+    Assets:Cash
+
+2018/03/18 She Persisted Fundraiser
+    Expenses:Donations:Ineligible       $25.00
+    Assets:Cash
+
+2018/03/18 Dollar Store
+    Expenses:Food:Groceries              $5.64
+    Assets:Cash
+
+2018/03/18 Raley's
+    Expenses:Food:Groceries              $2.50
+    Assets:Cash
+
+2018/03/18 Farm Fresh to You
+    Expenses:Food:Groceries             $28.36
+    Liabilities:Costco Visa
+
+2018/03/18 Pieology
+    Expenses:Food:Dinner                $30.63
+    Expenses:Tips:Food                   $3.00
+    Assets:Cash                         -$3.00
+    Liabilities:Costco Visa
+
+2018/03/18 Steve Ladine
+    Expenses:Gambling                   $60.00
+    Assets:WF Checking
+
+2018/03/18 Winco Foods
+    Expenses:Food:Groceries              $5.82
+    Assets:WF Checking
+
+2018/03/18 UCSB BARC
+    Expenses:College:UCSB BARC        $1911.52
+    Assets:College:Us                 -$972.16
+    Assets:College:Parents
+    
+2018/03/18 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
     Assets:Cash
 
