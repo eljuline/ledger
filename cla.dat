@@ -208,7 +208,7 @@
     Expenses:Insurance:Life:Eric        $15.27
     Assets:WF Checking
 
-2017/09/25 ! Brighthouse Financial
+2017/09/25 Brighthouse Financial
     ;2271
     Expenses:Insurance:Life:Angela     $205.40
     Assets:WF Checking
@@ -967,7 +967,7 @@
     Expenses:Clothing:Lydia              $59.25
     Liabilities:Amex Blue
 
-2017/10/24 MSEFCU - Staff Appreciation
+2017/10/24 FUMC - Staff Appreciation
     Expenses:Donations                  $150.00
     Assets:MSEFCU Checking
 
@@ -2112,7 +2112,7 @@
 2017/12/04 Target
     Expenses:Household                   $2.79
     Expenses:Drugstore                  $34.34
-    Expenses:Donations                  $26.57
+    Expenses:Donations                  $26.57 ; Toys for Tots Rancho Cordova
     Expenses:Sales Tax                   $4.69
     Expenses:Discounts:Red Card         -$3.18
     Expenses:Discounts:Bag              -$0.05
@@ -3033,8 +3033,7 @@
 
 2018/01/04 Whole Foods
     Expenses:Presents                   $11.99
-    Expenses:Food:Groceries              $9.99
-    Expenses:Donations                   $0.05
+    Expenses:Food:Groceries             $10.04
     Expenses:Discounts:Bag              -$0.05
     Expenses:Sales Tax                   $0.93
     Liabilities:Costco Visa
@@ -3770,7 +3769,7 @@
     Expenses:Entertainment:Wine Tasting    $175.85
     Liabilities:Amex Blue
 
-2018/01/31 Adyen Internet
+2018/01/31 Elisha Cortez - Mujeres Ayudando Madres (MAM) - Adyen Internet
     Expenses:Donations                  $44.00
     Liabilities:Amex Blue
 
@@ -4456,6 +4455,14 @@
     Assets:HSA:Tri-Ad                    $0.56
     Income:Interest
 
+2018/03/01 Ulta
+    Expenses:Drugstore                  $34.48
+    Liabilities:Costco Visa
+
+2018/03/01 Costco Gas
+    Expenses:Gas:Prius                  $22.81
+    Liabilities:Costco Visa
+
 2018/03/01 Credit Card Payment
     Liabilities:Costco Visa           $1715.67
     Assets:WF Checking
@@ -4464,12 +4471,8 @@
     Liabilities:Costco Visa             $26.00
     Assets:WF Checking
 
-2018/03/01 Ulta
-    Expenses:Drugstore                  $34.48
-    Liabilities:Costco Visa
-
-2018/03/01 Costco Gas
-    Expenses:Gas:Prius                  $22.81
+2018/03/02 Netflix
+    Expenses:Entertainment:Netflix       $8.61
     Liabilities:Costco Visa
 
 2018/03/02 In-N-Out
@@ -4481,10 +4484,6 @@
     Expenses:Tips:Food                   $1.00
     Assets:Cash
 
-2018/03/02 Netflix
-    Expenses:Entertainment:Netflix       $8.61
-    Liabilities:Costco Visa
-
 2018/03/02 Amazon
     Expenses:Presents                   $25.00
     Liabilities:Amex Blue
@@ -4492,10 +4491,6 @@
 2018/03/02 Verizon Wireless
     Expenses:Communications:Cellular   $103.45
     Liabilities:Amex Blue
-
-2018/03/02 Hyatt Regency Santa Clara
-    Expenses:Travel:Hotel              $392.05
-    Liabilities:Costco Visa
 
 2018/03/02 HSA Interest Payment
     Assets:HSA:Connect Your Care         $0.02
@@ -4509,10 +4504,6 @@
     Expenses:Household:Indoor            $4.82
     Liabilities:Alaska Visa
 
-2018/03/03 Costco Gas
-    Expenses:Gas:Truck                  $68.23
-    Liabilities:Costco Visa
-
 2018/03/03 33 Coffee Bar - Hyatt
     Expenses:Food:Breakfast:Angela       $7.25
     Expenses:Tips:Food                   $1.00
@@ -4521,6 +4512,10 @@
 2018/03/03 Paper Source
     Expenses:Household                  $53.35
     Expenses:Sales Tax                   $4.93
+    Liabilities:Costco Visa
+
+2018/03/03 Costco Gas
+    Expenses:Gas:Truck                  $68.23
     Liabilities:Costco Visa
 
 2018/03/03 Amazon
@@ -4559,24 +4554,24 @@
     Expenses:Activities:Dance          $100.00
     Assets:Cash
 
-2018/03/05 Famous Footwear
-    Liabilities:Costco Visa             $43.09
-    Expenses:Clothing:Angela
-
 2018/03/05 Kohl's 
     Assets:Cash                          $8.61
     Expenses:Clothing:Angela
-
-2018/03/05 Trader Joe's
-    Expenses:Food:Groceries             $46.04
-    Liabilities:Costco Visa
 
 2018/03/05 Hawkins
     Expenses:Activities:Dance          $298.00
     Liabilities:Citibank MC
 
+2018/03/02 Hyatt Regency Santa Clara
+    Expenses:Travel:Hotel              $392.05
+    Liabilities:Costco Visa
+
 2018/03/05 Costco Gas
     Expenses:Gas:Prius                  $20.74
+    Liabilities:Costco Visa
+
+2018/03/05 Trader Joe's
+    Expenses:Food:Groceries             $46.04
     Liabilities:Costco Visa
 
 2018/03/05 Chase Mortgage
@@ -4586,6 +4581,10 @@
 2018/03/05 HSA Fee
     Expenses:Fees                        $5.00
     Assets:HSA:Tri-Ad
+
+2018/03/05 Famous Footwear
+    Liabilities:Costco Visa             $43.09
+    Expenses:Clothing:Angela
 
 2018/03/06 Comcast
     Expenses:Communications:Internet,Home Phone   $51.28
@@ -4645,7 +4644,7 @@
     Liabilities:Alaska Visa
 
 2018/03/08 Lowe's
-    Liabilities:Costco Visa              $4.82
+    Liabilities:Alaska Visa              $4.82
     Expenses:Household:Indoor
 
 2018/03/08 Lowe's
@@ -4723,20 +4722,16 @@
     Expenses:Food:Breakfast              $4.65
     Assets:Cash
 
-2018/03/11 Foothills UMC
-    Expenses:Donations                   $0.00
-    Assets:MSEFCU Checking
-
-2018/03/11 Cinemark
-    Expenses:Entertainment:Movies       $11.00    ;Black Panther
+2018/03/11 Whole Foods
+    Expenses:Food:Groceries             $37.44
     Liabilities:Costco Visa
 
 2018/03/11 Cinemark
     Expenses:Food:Movies                 $7.35
     Liabilities:Costco Visa
 
-2018/03/11 Whole Foods
-    Expenses:Food:Groceries             $37.44
+2018/03/11 Cinemark
+    Expenses:Entertainment:Movies       $11.00    ;Black Panther
     Liabilities:Costco Visa
 
 2018/03/11 Winco Foods
@@ -4757,6 +4752,14 @@
     Expenses:Household:Indoor         $1343.92
     Liabilities:Alaska Visa
 
+2018/03/12 Netflix
+    Expenses:Entertainment:Netflix:Anna   $7.99
+    Liabilities:Citibank MC
+
+2018/03/12 Laundry
+    Expenses:College:Laundry             $2.75
+    Liabilities:Citibank MC
+
 2018/03/13 Dean Jepson
     Expenses:Gambling                   $15.00
     Assets:MSEFCU Checking
@@ -4772,6 +4775,10 @@
 2018/03/13 McDonald's
     Expenses:Food:Lunch:Eric             $4.08
     Liabilities:Citibank MC
+
+2018/03/13 USPS
+    Expenses:Postage                     $8.75
+    Assets:Cash
 
 2018/03/14 Geico
     Expenses:Insurance:Auto            $178.70
@@ -4794,17 +4801,23 @@
     Assets:WF Checking                $1507.91
     Income:Salary:Centene
 
-2018/03/16 Safeway Fuel
-    Expenses:Gas:Prius                  $24.98
-    Liabilities:Costco Visa
-
 2018/03/16 Smashburger
     Expenses:Food:Dinner                $20.61
+    Liabilities:Costco Visa
+
+2018/03/16 Safeway Fuel
+    Expenses:Gas:Prius                  $24.98
     Liabilities:Costco Visa
 
 2018/03/16 Sling TV
     Expenses:Entertainment:TV           $74.98
     Liabilities:Amex Blue
+
+2018/03/17 Bed Bath & Beyond
+    Expenses:Drugstore                  $13.93
+    Expenses:Household                   $9.05
+    Expenses:Sales Tax                   $1.78
+    Liabilities:Costco Visa
 
 2018/03/17 SP*Applebiotic
     Expenses:Drugstore                  $10.00
@@ -4835,12 +4848,6 @@
     Expenses:Household:School           $23.89
     Assets:Cash
 
-2018/03/17 Bed Bath & Beyond
-    Expenses:Drugstore                  $13.93
-    Expenses:Household                   $9.05
-    Expenses:Sales Tax                   $1.78
-    Liabilities:Costco Visa
-
 2018/03/17 Petsmart
     Expenses:Pets                       $14.00
     Liabilities:Citibank MC
@@ -4870,6 +4877,14 @@
     Expenses:Donations:Ineligible       $25.00
     Assets:Cash
 
+2018/03/18 Foothills UMC
+    Expenses:Donations                 $120.00
+    Assets:MSEFCU Checking
+
+2018/03/18 Foothills UMC - UMCOR
+    Expenses:Donations                  $25.00
+    Assets:MSEFCU Checking
+
 2018/03/18 Dollar Store
     Expenses:Food:Groceries              $5.64
     Assets:Cash
@@ -4878,14 +4893,22 @@
     Expenses:Food:Groceries              $2.50
     Assets:Cash
 
-2018/03/18 Farm Fresh to You
-    Expenses:Food:Groceries             $28.36
-    Liabilities:Costco Visa
-
 2018/03/18 Pieology
     Expenses:Food:Dinner                $30.63
     Expenses:Tips:Food                   $3.00
     Assets:Cash                         -$3.00
+    Liabilities:Costco Visa
+
+2018/03/18 National Acts - Declan McKenna
+    Expenses:Entertainment:Concerts     $37.50
+    Liabilities:Citibank MC
+
+2018/03/19 Trader Joe's
+    Expenses:Food:Groceries             $25.90
+    Liabilities:Costco Visa
+
+2018/03/18 Farm Fresh to You
+    Expenses:Food:Groceries             $28.36
     Liabilities:Costco Visa
 
 2018/03/18 Steve Ladine
@@ -4900,7 +4923,390 @@
     Expenses:College:UCSB BARC        $1911.52
     Assets:College:Us                 -$972.16
     Assets:College:Parents
-    
+
+2018/03/19 Laundry
+    Expenses:College:Laundry             $4.75
+    Liabilities:Citibank MC
+
+2018/03/20 Cap Radio
+    Expenses:Donations                  $10.00
+    Liabilities:Costco Visa
+
+2018/03/21 McDonald's
+    Expenses:Food:Breakfast:Eric         $5.36
+    Liabilities:Citibank MC
+
+2018/03/21 Target
+    Expenses:Food:Lunch:Eric             $4.86
+    Liabilities:Costco Visa
+
+2018/03/21 Target
+    Expenses:Household:Indoor           $12.90
+    Liabilities:Costco Visa
+
+2018/03/19 Wayfair
+    Expenses:Household:Indoor          $106.66
+    Liabilities:Costco Visa
+
+2018/03/21 Jane
+    Expenses:Household:Lydia             $0.96
+    Liabilities:Costco Visa
+
+2018/03/22 Laundry
+    Expenses:College:Laundry             $4.75
+    Liabilities:Citibank MC
+
+2018/03/22 Ultra Mobile
+    Expenses:Communications:Cellular    $30.53
+    Liabilities:Amex Blue
+
+2018/03/22 Raley's
+    Expenses:Food:Groceries             $42.21
+    Liabilities:Costco Visa
+
+2018/03/22 Transfer
+    Assets:MSEFCU Savings              $500.00
+    Assets:MSEFCU Checking
+
+2018/03/23 Payday
+    Assets:WF Checking                $2899.66
+    Income:Salary:Centene
+
+2018/03/23 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/03/23 Brighthouse Financial
+    ;2281
+    Expenses:Insurance:Life:Angela     $205.40
+    Assets:WF Checking
+
+2018/03/23 DMV
+    ;2282
+    Expenses:Household                  $35.00
+    Assets:WF Checking
+
+2018/03/23 Credit Card Payment
+    Liabilities:Amex Blue             $1000.51
+    Assets:WF Checking
+
+2018/03/23 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/03/23 Costco Pizza for Boys' Volleyball
+    Expenses:Presents                   $32.16
+    Expenses:Food:Dinner                $10.72
+    Assets:Cash
+
+2018/03/23 Deposit
+    Assets:College:Us                  $972.16
+    Assets:College:Parents            $1911.52
+    Income:Gift
+
+2018/03/23 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2018/03/23 United Pacific Gas
+    Expenses:Gas:Prius                  $25.51
+    Liabilities:Costco Visa
+
+2018/03/23 Stitch Fix
+    Liabilities:Costco Visa             $40.95
+    Expenses:Clothing:Angela
+
+2018/03/23 Orchard Supply Hardware
+    Expenses:Household:Indoors           $5.37
+    Assets:Cash
+
+2018/03/23 Trader Joe's
+    Expenses:Food:Groceries             $30.37
+    Assets:Cash
+
+2018/03/23 Willie's
+    Expenses:Food:Dinner                $23.82
+    Expenses:Tips:Food                   $2.18
+    Assets:Cash
+
+2018/03/23 Sacramento Regional Transit
+    Expenses:Travel:Train               $16.50
+    Liabilities:Citibank MC
+
+2018/03/24 Costco
+    Expenses:Household:Indoors           $8.61
+    Liabilities:Costco Visa
+
+2018/03/24 Lowe's
+    Expenses:Household:Indoors           $1.38
+    Assets:Cash
+
+2018/03/24 Winco Foods
+    Expenses:Food:Groceries             $50.12
+    Expenses:Food:Candy                  $5.68
+    Expenses:Sales Tax                   $2.07
+    Assets:WF Checking
+
+2018/03/24 Amazon
+    Expenses:Household:Eric             $13.99
+    Liabilities:Amex Blue
+
+2018/03/24 The Crucible Tickets
+    Expenses:Entertainment:Shows        $20.00
+    Assets:Cash
+
+2018/03/24 Karen's Bakery
+    Expenses:Food:Lunch                 $42.41
+    Assets:Cash
+
+2018/03/24 Sutter Street Steak House
+    Expenses:Tips:Food                  $70.00
+    Assets:Cash
+
+2018/03/25 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $9.95
+    Assets:Cash
+
+2018/03/25 Willie's
+    Expenses:Food:Lunch                 $34.67
+    Expenses:Tips:Food                   $2.33
+    Assets:Cash
+
+2018/03/25 American Eagle Outfitters
+    Expenses:Clothing:Anna              $18.71
+    Expenses:Clothing:Lydia             $18.71
+    Expenses:Sales Tax                   $3.09
+    Liabilities:Costco Visa
+
+2018/03/25 Macy's
+    Expenses:Clothing:Eric              $20.52
+    Liabilities:Amex Blue
+
+2018/03/25 Rocksbox
+    Expenses:Clothing:Angela            $19.00
+    Liabilities:Citibank MC
+
+2018/03/25 Target
+    Expenses:Drugstore                  $20.27
+    Expenses:Food:Groceries             $11.85
+    Expenses:Presents                   $22.00
+    Expenses:Sales Tax                   $3.69
+    Expenses:Discounts:Red Card         -$2.68
+    Expenses:Discounts:Bag              -$0.05
+    Assets:WF Checking
+
+2018/03/26 Raley's
+    Expenses:Food:Groceries             $36.71
+    Liabilities:Costco Visa
+
+2018/03/26 See's Candy
+    Expenses:Presents                   $10.80
+    Liabilities:Costco Visa
+
+2018/03/26 Barnes & Noble
+    Expenses:Presents                   $12.93
+    Liabilities:Costco Visa
+
+2018/03/26 Barnes & Noble
+    Expenses:Food:Snacks                 $5.00
+    Assets:Cash
+
+2018/03/27 Folsom Dermatology
+    Expenses:Medical:Anna                $1.00
+    Assets:HSA:Connect Your Care
+
+2018/03/27 Interest Payment
+    Assets:WF Checking                   $0.04
+    Income:Interest:WF Checking
+
+2018/03/28 Amtrak
+    Expenses:Travel:Train               $38.00
+    Liabilities:Citibank MC
+
+2018/03/28 Southwest
+    Expenses:Travel:Air                $200.88
+    Liabilities:Citibank MC
+
+2018/03/27 AAA Insurance
+    Expenses:Insurance:Home            $106.73
+    Liabilities:Citibank MC
+
+2018/03/28 Sam's Hofbrau
+    Expenses:Food:Lunch:Eric             $9.68
+    Assets:Cash
+
+2018/03/28 UCSB Bookstore
+    Expenses:College:Supplies          $115.83
+    Liabilities:Citibank MC
+
+2018/03/28 Jack's Urban Eats
+    Expenses:Food:Lunch:Angela           $9.16
+    Liabilities:Costco Visa
+
+2018/03/28 Costco Gas
+    Expenses:Gas:Prius                  $27.75
+    Liabilities:Costco Visa
+
+2018/03/28 Costco Gas
+    Expenses:Gas:Truck                  $73.96
+    Liabilities:Costco Visa
+
+2018/03/28 Ulta
+    Expenses:Drugstore                  $70.51
+    Liabilities:Costco Visa
+
+2018/03/28 Target
+    Expenses:Drugstore                  $57.50
+    Expenses:College:Supplies            $2.29
+    Expenses:Sales Tax                   $4.40
+    Expenses:Discounts:Red Card         -$2.98
+    Expenses:Discounts:Bag               $0.10
+    Assets:WF Checking
+
+2018/03/28 American Eagle
+    Expenses:Clothing:Lydia             $32.27
+    Liabilities:Amex Blue
+
+2018/03/29 McDonald's 
+    Expenses:Food:Lunch:Eric             $1.08
+    Assets:Cash
+
+2018/03/29 Taco Bell
+    Expenses:Food:Lunch:Eric             $3.22
+    Assets:Cash
+
+2018/03/29 Costco Gas
+    Expenses:Gas:Volvo                  $37.29
+    Liabilities:Costco Visa
+
+2018/03/29 Salsa's Taqueria
+    Expenses:Food:Dinner                $38.41
+    Expenses:Tips:Food                   $5.76
+    Liabilities:Costco Visa
+
+2018/03/29 McDonald's 
+    Expenses:Food:Dessert                $7.28
+    Liabilities:Citibank MC
+
+2018/03/29 Sandbag LTD/W.A.S.T.E. Declan McKenna
+    Expenses:Clothing:Anna              $41.72
+    Liabilities:Citibank MC
+
+2018/03/29 American Eagle
+    Expenses:Clothing:Angela            $63.07
+    Expenses:Clothing:Anna              $63.07
+    Expenses:Clothing:Lydia             $63.07
+    Expenses:Sales Tax                  $13.72
+    Liabilities:Costco Visa
+
+2018/03/30 Winco Foods
+    Expenses:Food:Groceries             $63.78
+    Expenses:Food:Candy                  $2.84
+    Expenses:Sales Tax                   $0.97
+    Assets:WF Checking
+
+2018/03/30 Safeway
+    Expenses:Food:Groceries             $38.46
+    Assets:Cash                         $40.00
+    Assets:WF Checking
+
+2018/03/30 Folsom Zoo Train
+    Expenses:Entertainment:Parks        $15.00
+    Assets:Cash
+
+2018/03/30 Folsom Zoo
+    Expenses:Food:Snacks                 $6.00
+    Assets:Cash
+
+2018/03/30 Taco Bell
+    Expenses:Food:Dinner                $18.21
+    Liabilities:Alaska Visa
+
+2018/03/30 Payday
+    Assets:MSEFCU Checking            $1175.21
+    Income:Salary:FCUSD
+
+2018/03/30 Transfer
+    Assets:MSEFCU Savings              $500.00
+    Assets:MSEFCU Checking
+
+2018/03/30 Transfer
+    Expenses:College:Miscellaneous       $5.00
+    Assets:Cash App:Angela
+
+2018/03/31 Cinemark
+    Expenses:Entertainment:Movies       $22.00    ;Ready Player One
+    Liabilities:Costco Visa
+
+2018/03/31 Cinemark
+    Expenses:Food:Movies                $13.60
+    Liabilities:Costco Visa
+
+2018/03/31 Bath & Body Works
+    Expenses:Drugstore                   $2.00
+    Assets:Cash
+
+2018/03/31 Bed Bath & Beyond
+    Expenses:Drugstore                  $14.29
+    Liabilities:Costco Visa
+
+2018/03/31 UCSB Recreation
+    Expenses:College:Activities         $44.00
+    Liabilities:Citibank MC
+
+2018/03/31 Smashburger
+    Expenses:Food:Dinner                $21.81
+    Liabilities:Citibank MC
+
+2018/03/31 Winco Foods
+    Expenses:Food:Snacks                 $8.94
+    Assets:Cash
+
+2018/03/31 Amazon
+    Expenses:Clothing:Lydia             $23.99
+    Liabilities:Amex Blue
+
+2018/04/01 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/04/01 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $6.65
+    Assets:Cash
+
+2018/04/01 Sacramento Airport Parking
+    Expenses:Travel:Parking              $6.00
+    Liabilities:Costco Visa
+
+2018/04/01 Lowe's
+    Expenses:Household                  $27.51
+    Liabilities:Alaska Visa
+
+2018/04/01 Credit Card Payment
+    Liabilities:Costco Visa           $1292.63
+    Assets:WF Checking
+
+2018/04/01 Credit Card Autopay
+    Liabilities:Costco Visa             $25.00
+    Assets:WF Checking
+
+2018/04/02 Subway
+    Expenses:Food:Eric:Lunch             $7.11
+    Assets:Cash
+
+2018/04/02 McDonald's
+    Expenses:Food:Dessert:Eric           $0.96
+    Assets:Cash
+
+2018/04/03 Popeye's
+    Expenses:Food:Lunch:Eric             $5.40
+    Assets:Cash
+
+2018/04/03 Safeway
+    Expenses:Food:Groceries             $16.50
+    Liabilities:Amex Blue
+
 2018/03/18 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
     Assets:Cash
