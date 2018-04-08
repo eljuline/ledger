@@ -5190,7 +5190,7 @@
     Liabilities:Citibank MC
 
 2018/03/29 Sandbag LTD/W.A.S.T.E. Declan McKenna
-    Expenses:Clothing:Anna              $41.72
+    Expenses:Clothing:Anna              $41.46
     Liabilities:Citibank MC
 
 2018/03/29 American Eagle
@@ -5251,12 +5251,12 @@
     Expenses:Drugstore                  $14.29
     Liabilities:Costco Visa
 
-2018/03/31 UCSB Recreation
-    Expenses:College:Activities         $44.00
-    Liabilities:Citibank MC
-
 2018/03/31 Smashburger
     Expenses:Food:Dinner                $21.81
+    Liabilities:Citibank MC
+
+2018/03/31 UCSB Recreation
+    Expenses:College:Activities         $44.00
     Liabilities:Citibank MC
 
 2018/03/31 Winco Foods
@@ -5280,7 +5280,7 @@
     Liabilities:Costco Visa
 
 2018/04/01 Lowe's
-    Expenses:Household                  $27.51
+    Expenses:Household                  $27.15
     Liabilities:Alaska Visa
 
 2018/04/01 Credit Card Payment
@@ -5299,6 +5299,22 @@
     Expenses:Food:Dessert:Eric           $0.96
     Assets:Cash
 
+2018/04/02 Netflix
+    Expenses:Entertainment:Netflix       $8.61
+    Liabilities:Costco Visa
+
+2018/04/02 Verizon Wireless
+    Expenses:Communications:Cellular   $103.57
+    Liabilities:Amex Blue
+
+2018/04/03 Mira Flores
+    Expenses:Food:Wine                  $54.91
+    Liabilities:Amex Blue
+
+2018/04/03 Hawkins
+    Expenses:Activities:Dance          $298.00
+    Liabilities:Citibank MC
+
 2018/04/03 Popeye's
     Expenses:Food:Lunch:Eric             $5.40
     Assets:Cash
@@ -5307,7 +5323,104 @@
     Expenses:Food:Groceries             $16.50
     Liabilities:Amex Blue
 
-2018/03/18 Car Money Adjustment
+2018/04/04 Cafe Express
+    Expenses:Food:Breakfast:Eric         $6.45
+    Assets:Cash
+
+2018/04/04 Trader Joe's
+    Expenses:Food:Groceries             $32.88
+    Liabilities:Amex Blue
+
+2018/04/04 Kathy Copeland
+    Expenses:Activities:Piano          $125.00
+    Assets:MSEFCU Checking
+
+2018/04/05 McDonald's
+    Expenses:Food:Lunch:Eric             $3.00
+    Assets:Cash
+
+2018/04/05 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2018/04/05 Samuel Horne's Tavern
+    Expenses:Food:Dinner:Eric           $25.28
+    Assets:Cash
+
+2018/04/05 Chase Mortgage
+    Expenses:House                    $1600.00
+    Assets:WF Checking
+
+2018/04/06 Comcast
+    Expenses:Communications:Internet,Home Phone   $51.33
+    Liabilities:Amex Blue
+
+2018/04/06 Payday
+    Assets:WF Checking                $2899.68
+    Income:Salary:Centene
+
+2018/04/06 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/04/06 Raley's
+    Expenses:Food:Groceries             $27.31
+    Liabilities:Amex Blue
+
+2018/04/07 LunaFest Eventbrite
+    Expenses:Entertainment:Shows        $21.99
+    Liabilities:Amex Blue
+
+2018/04/07 Amazon
+    Expenses:Presents                   $64.61
+    Liabilities:Amex Blue
+
+2018/04/07 Amazon
+    Expenses:Entertainment:Books        $12.07
+    Liabilities:Amex Blue
+
+2018/04/07 The Habit
+    Expenses:Food:Dinner                $27.27
+    Assets:Cash
+
+2018/04/07 Sling TV
+    Expenses:Entertainment:Movies        $3.99 ;Warm Bodies
+    Liabilities:Amex Blue
+
+2018/04/08 Costco Gas
+    Expenses:Gas:Prius                  $26.39
+    Liabilities:Costco Visa
+
+2018/04/08 Laundry
+    Expenses:College:Laundry             $8.00
+    Liabilities:Citibank MC
+
+2018/04/08 Credit Card Payment
+    Liabilities:Citibank MC            $790.34
+    Assets:WF Checking
+
+2018/04/08 Credit Card Autopay
+    Liabilities:Citibank MC             $25.00
+    Assets:WF Checking
+
+2018/04/08 Credit Card Payment
+    Liabilities:Alaska Visa           $2254.20
+    Assets:WF Checking
+
+2018/04/08 American Airlines - Expedia
+    Expenses:Travel:Air                $152.40
+    Liabilities:Alaska Visa
+
+2018/04/08 UCSB BARC
+    Expenses:College:UCSB BARC        $1911.52
+    Assets:College:Parents
+
+2018/04/08 Coinstar money
+    Assets:Coinstar                     $25.68
+    Assets:Cash
+
+2018/04/08 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
     Assets:Cash
 
