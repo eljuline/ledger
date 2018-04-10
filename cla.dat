@@ -5113,7 +5113,7 @@
     Assets:Cash
 
 2018/03/27 Folsom Dermatology
-    Expenses:Medical:Anna                $1.00
+    Expenses:Medical:Anna               $85.00
     Assets:HSA:Connect Your Care
 
 2018/03/27 Interest Payment
@@ -5388,6 +5388,10 @@
     Expenses:Entertainment:Movies        $3.99 ;Warm Bodies
     Liabilities:Amex Blue
 
+2018/04/07 Rodworks
+    Expenses:Presents                   $39.84
+    Assets:Cash
+
 2018/04/08 Costco Gas
     Expenses:Gas:Prius                  $26.39
     Liabilities:Costco Visa
@@ -5427,6 +5431,19 @@
 2018/04/08 Winco Foods
     Expenses:Food:Groceries             $55.72
     Assets:WF Checking
+
+2018/04/09 McDonald's
+    Expenses:Food:Lunch:Eric             $2.16
+    Assets:Cash
+
+2018/04/09 Oak Ridge
+    Expenses:Entertainment:Athletics     $6.00
+    Assets:Cash
+
+2018/04/09 Round Table
+    Expenses:Food:Dinner                $25.84
+    Expenses:Tips:Food                   $3.00
+    Liabilities:Citibank MC
 
 2018/04/08 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
