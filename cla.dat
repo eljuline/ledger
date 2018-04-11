@@ -5291,6 +5291,10 @@
     Liabilities:Costco Visa             $25.00
     Assets:WF Checking
 
+2018/04/01 Cash from Anna
+    Assets:Cash                         $20.00
+    Assets:Anna
+
 2018/04/02 Subway
     Expenses:Food:Eric:Lunch             $7.11
     Assets:Cash
@@ -5444,6 +5448,18 @@
     Expenses:Food:Dinner                $25.84
     Expenses:Tips:Food                   $3.00
     Liabilities:Citibank MC
+
+2018/04/10 McDonald's
+    Expenses:Food:Lunch:Eric             $4.08
+    Assets:Cash
+
+2018/04/10 Sourdough & Company
+    Expenses:Food:Dinner                $16.71
+    Assets:Cash
+
+2018/04/10 Winco Foods
+    Expenses:Food:Groceries              $9.69
+    Assets:WF Checking
 
 2018/04/08 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
