@@ -5449,6 +5449,10 @@
     Expenses:Tips:Food                   $3.00
     Liabilities:Citibank MC
 
+2018/04/09 Smart & Final
+    Assets:Cash                          $4.96
+    Expenses:Household:School
+
 2018/04/10 McDonald's
     Expenses:Food:Lunch:Eric             $4.08
     Assets:Cash
@@ -5460,6 +5464,18 @@
 2018/04/10 Winco Foods
     Expenses:Food:Groceries              $9.69
     Assets:WF Checking
+
+2018/04/11 Chipotle
+    Expenses:Food:Lunch:Eric             $8.62
+    Assets:Cash
+
+2018/04/11 Haircut - Jamee Neumann
+    Expenses:Cosmetics:Haircut:Angela  $145.00
+    Assets:MSEFCU Checking
+
+2018/04/12 Netflix
+    Expenses:Entertainment:Netflix:Anna   $7.99
+    Liabilities:Citibank MC
 
 2018/04/08 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
