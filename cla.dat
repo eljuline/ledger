@@ -3843,7 +3843,7 @@
 
 2018/02/03 Browns Valley Elementary 23-7133974
     Expenses:Donation                   $50.00
-    Expenses:Raffle                     $20.00
+    Expenses:Entertainment:Raffle       $20.00
     Liabilities:Amex Blue
 
 2018/02/03 Popeye's
@@ -5401,7 +5401,7 @@
     Liabilities:Costco Visa
 
 2018/04/08 Laundry
-    Expenses:College:Laundry             $8.00
+    Expenses:College:Laundry             $2.75
     Liabilities:Citibank MC
 
 2018/04/08 Credit Card Payment
@@ -5423,6 +5423,10 @@
 2018/04/08 UCSB BARC
     Expenses:College:UCSB BARC        $1911.52
     Assets:College:Parents
+
+2018/04/08 Amazon
+    Expenses:Presents                   $30.69
+    Liabilities:Amex Blue
 
 2018/04/08 Coinstar money
     Assets:Coinstar                     $25.68
@@ -5453,6 +5457,10 @@
     Assets:Cash                          $4.96
     Expenses:Household:School
 
+2018/04/09 Audible
+    Expenses:Entertainment:Books        $14.95
+    Liabilities:Amex Blue
+
 2018/04/10 McDonald's
     Expenses:Food:Lunch:Eric             $4.08
     Assets:Cash
@@ -5465,6 +5473,18 @@
     Expenses:Food:Groceries              $9.69
     Assets:WF Checking
 
+2018/04/10 PG&E
+    Expenses:Utilities                  $94.37
+    Assets:WF Checking
+
+2018/04/10 Amazon
+    Expenses:College:Supplies           $10.89
+    Liabilities:Citibank MC
+
+2018/04/11 SMUD
+    Expenses:Utilities                  $84.16
+    Assets:WF Checking
+
 2018/04/11 Chipotle
     Expenses:Food:Lunch:Eric             $8.62
     Assets:Cash
@@ -5473,11 +5493,98 @@
     Expenses:Cosmetics:Haircut:Angela  $145.00
     Assets:MSEFCU Checking
 
+2018/04/11 Folsom Library
+    Expenses:Fines                       $6.00
+    Assets:Cash
+
+2018/04/11 Foreign Transaction Fee
+    Expenses:Foreign Exchange            $1.24
+    Liabilities:Citibank MC
+
 2018/04/12 Netflix
     Expenses:Entertainment:Netflix:Anna   $7.99
     Liabilities:Citibank MC
 
-2018/04/08 Car Money Adjustment
+2018/04/12 Panda Express
+    Expenses:Food:Lunch:Eric             $6.84
+    Assets:Cash
+
+2018/04/12 Amazon
+    Expenses:College:Supplies            $6.99
+    Liabilities:Citibank MC
+
+2018/04/12 Lunafest 
+    Expenses:Food:Snacks                 $3.00
+    Assets:Cash
+
+2018/04/12 Lunafest Raffle
+    Expenses:Entertainment:Raffle       $20.00
+    Assets:Cash
+
+2018/04/13 Payday
+    Assets:MSEFCU Checking             $930.08
+    Income:Salary:FCUSD
+
+2018/04/13 CA FTB
+    Expenses:Taxes:State               $153.00
+    Assets:WF Checking
+
+2018/04/13 Connecticut General Life Insurance
+    ;2283
+    Expenses:Insurance:Life:Eric        $15.63
+    Assets:WF Checking
+
+2018/04/13 GofundMe - Becky Marquez
+    Expenses:Donations:Non-deductible   $52.50
+    Liabilities:Amex Blue
+
+2018/04/13 Costco Gas
+    Expenses:Gas:Volvo                  $41.42
+    Liabilities:Costco Visa
+
+2018/04/13 USPS
+    Expenses:Postage                    $11.54
+    Liabilities:Costco Visa
+
+2018/04/13 Smog N Go
+    Expenses:Automotive:Service:Volvo   $68.00
+    Liabilities:Costco Visa
+
+2018/04/13 Hawkins
+    Expenses:Entertainment:Dance        $30.00
+    Liabilities:Citibank MC
+
+2018/04/13 Cost Plus World Market
+    Expenses:Presents                   $11.62
+    Expenses:Food:Candy                  $2.30
+    Expenses:Sales Tax                   $0.90
+    Liabilities:Citibank MC
+
+2018/04/13 Deposit
+    Assets:WF Checking                 $500.00
+    Assets:MSEFCU Checking
+
+2018/04/13 Deposit
+    Assets:WF Checking                  $70.60
+    Expenses:Activities:Volleyball
+
+2018/04/13 Withdrawal
+    Assets:Cash                        $500.00
+    Assets:WF Checking
+
+2018/04/14 Geico
+    Expenses:Insurance:Auto            $178.70
+    Liabilities:Costco Visa
+
+2018/04/14 Michael's
+    Expenses:Household:School            $2.14
+    Assets:Cash
+
+2018/04/14 Staples
+    Expenses:Household:School           $17.23
+    Assets:Cash
+
+2018/04/14 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
     Assets:Cash
 
