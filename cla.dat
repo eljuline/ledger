@@ -339,7 +339,7 @@
     ; :gift:Michael_Christinas_baby:
     Liabilities:Amex Blue
 
-2017/10/01 FUMC Directory
+2017/10/01 Foothills UMC Directory
     Expenses:Church                     $10.00
     Assets:Cash
 
@@ -355,7 +355,7 @@
     Expenses:Food:Groceries             $29.36
     Liabilities:Costco Visa
 
-2017/10/01 FUMC
+2017/10/01 Foothills UMC
     Expenses:Donations:Church          $120.00
     Assets:MSEFCU Checking
 
@@ -967,7 +967,7 @@
     Expenses:Clothing:Lydia              $59.25
     Liabilities:Amex Blue
 
-2017/10/24 FUMC - Staff Appreciation
+2017/10/24 Foothills UMC - Staff Appreciation
     Expenses:Donations                  $150.00
     Assets:MSEFCU Checking
 
@@ -1102,7 +1102,7 @@
     Expenses:Tips:Food                   $3.00
     Assets:Cash                         -$3.00
 
-2017/10/29 FUMC
+2017/10/29 Foothills UMC
     Expenses:Donations:Church          $140.00
     Assets:MSEFCU Checking
 
@@ -1617,7 +1617,7 @@
     Expenses:Food:Breakfast              $5.80
     Assets:Cash
 
-2017/11/19 FUMC
+2017/11/19 Foothills UMC
     Expenses:Donations:Church          $120.00
     Assets:MSEFCU Checking
 
@@ -2478,7 +2478,7 @@
     Expenses:Food:Breakfast              $6.85
     Assets:Cash
 
-2017/12/17 FUMC
+2017/12/17 Foothills UMC
     Expenses:Donations:Church          $150.00
     Assets:MSEFCU Checking
 
@@ -2910,7 +2910,7 @@
     Expenses:Donations                 $210.12
     Liabilities:Costco Visa
 
-2017/12/31 FUMC
+2017/12/31 Foothills UMC
     Expenses:Donations:Church           $20.00
     Assets:MSEFCU Checking
 
@@ -5389,11 +5389,15 @@
     Assets:Cash
 
 2018/04/07 Sling TV
-    Expenses:Entertainment:Movies        $3.99 ;Warm Bodies
+    Expenses:Entertainment:Movies        $3.99    ;Warm Bodies
     Liabilities:Amex Blue
 
 2018/04/07 Rodworks
     Expenses:Presents                   $39.84
+    Assets:Cash
+
+2018/04/08 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $4.65
     Assets:Cash
 
 2018/04/08 Costco Gas
@@ -5584,7 +5588,39 @@
     Expenses:Household:School           $17.23
     Assets:Cash
 
-2018/04/14 Car Money Adjustment
+2018/04/14 Amazon
+    Expenses:College:Supplies            $6.99
+    Liabilities:Citibank MC
+
+2018/04/14 Google Movies
+    Expenses:Entertainment:Movies        $0.99    ;Thor Ragnarok
+    Liabilities:Costco Visa
+
+2018/04/15 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $5.50
+    Assets:Cash
+
+2018/04/15 Costco Gas
+    Expenses:Gas:Prius                  $19.75
+    Liabilities:Costco Visa
+
+2018/04/15 Foothills UMC
+    Expenses:Donations                 $120.00
+    Assets:MSEFCU Checking
+
+2018/04/15 DMV Renewal
+    Expenses:Automotive:Registration:Volvo   $129.00
+    Liabilities:Alaska Visa
+
+2018/04/15 Nathan's Giant Hamburgers
+    Expenses:Presents                    $4.82
+    Assets:Cash
+
+2018/04/15 Winco Foods
+    Expenses:Food:Groceries             $58.77
+    Assets:WF Checking
+
+2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
     Assets:Cash
 
