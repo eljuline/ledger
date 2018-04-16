@@ -5612,13 +5612,44 @@
     Expenses:Automotive:Registration:Volvo   $129.00
     Liabilities:Alaska Visa
 
+2018/04/15 Laundry
+    Expenses:College:Laundry             $2.75
+    Liabilities:Citibank MC
+
+2018/04/15 Farm Fresh to You
+    Expenses:Food:Groceries             $27.10
+    Liabilities:Costco Visa
+
 2018/04/15 Nathan's Giant Hamburgers
     Expenses:Presents                    $4.82
     Assets:Cash
 
+2018/04/15 Patxi's
+    Expenses:Food:Lunch                 $55.00
+    Expenses:Tips:Food                  $12.00
+    Assets:Cash
+
+2018/04/15 Tea Place
+    Expenses:Food:Snacks                $13.50
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+2018/04/15 Trader Joe's
+    Expenses:Food:Groceries             $43.16
+    Liabilities:Citibank MC
+
 2018/04/15 Winco Foods
     Expenses:Food:Groceries             $58.77
     Assets:WF Checking
+
+2018/04/15 Reader Supported News
+    Expenses:Donations:Non-deductible   $30.00
+    Liabilities:Citibank MC
+
+2018/04/15 March of Dimes
+    Expenses:Donations:                 $50.00
+    Expenses:Donations:Non-deductible    $1.50
+    Liabilities:Amex Blue
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
