@@ -5566,7 +5566,7 @@
     Expenses:Food:Lunch:Eric             $4.00
     Assets:Cash
 
-2018/04/13 Hawkins
+2018/04/13 Hawkins - Beauty and the Beast
     Expenses:Entertainment:Dance        $30.00
     Liabilities:Citibank MC
 
@@ -5696,6 +5696,18 @@
     Expenses:Entertainment:Athletics     $6.00
     Assets:Cash
 
+2018/04/16 Hawkins
+    Expenses:Activities:Dance           $30.00
+    Liabilities:Citibank MC
+
+2018/04/16 Sling TV
+    Expenses:Entertainment:TV           $74.98
+    Liabilities:Amex Blue
+
+2018/04/17 Safeway Fuel
+    Expenses:Gas:Prius                  $27.10
+    Liabilities:Citibank MC
+
 2018/04/18 Boys' Volleyball vs Del Oro
     Expenses:Entertainment:Athletics     $6.00
     Assets:Cash
@@ -5711,6 +5723,19 @@
 2018/04/19 Unknown
     Expenses:Presents                    $4.00
     Assets:Cash
+
+2018/04/19 Whole Foods
+    Expenses:Food:Groceries             $24.29
+    Liabilities:Amex Blue
+
+2018/04/20 Payday
+    Assets:WF Checking                $2899.68
+    Income:Salary:Centene
+
+2018/04/20 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
