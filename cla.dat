@@ -5609,6 +5609,14 @@
     Expenses:Clothing:Angela           $108.11
     Assets:Cash
 
+2018/04/14 Freebirds
+    Expenses:Food:Lunch:Angela          $10.00
+    Assets:Cash
+
+2018/04/14 Seven for all Mankind
+    Expenses:Presents                   $63.93
+    Assets:Cash
+
 2018/04/14 Amazon
     Expenses:College:Supplies            $6.99
     Liabilities:Citibank MC
@@ -5686,6 +5694,22 @@
 
 2018/04/16 Boys' Volleyball vs Granite Bay
     Expenses:Entertainment:Athletics     $6.00
+    Assets:Cash
+
+2018/04/18 Boys' Volleyball vs Del Oro
+    Expenses:Entertainment:Athletics     $6.00
+    Assets:Cash
+
+2018/04/19 Taco Bell
+    Expenses:Food:Lunch:Eric             $2.16
+    Assets:Cash
+
+2018/04/19 Unknown
+    Expenses:Presents                   $10.25
+    Assets:Cash
+
+2018/04/19 Unknown
+    Expenses:Presents                    $4.00
     Assets:Cash
 
 2018/04/15 Car Money Adjustment
