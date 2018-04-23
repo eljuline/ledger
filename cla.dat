@@ -5728,6 +5728,10 @@
     Expenses:Food:Groceries             $24.29
     Liabilities:Amex Blue
 
+2018/04/19 Winco Foods
+    Expenses:Food:Groceries             $14.67
+    Assets:WF Checking
+
 2018/04/20 Payday
     Assets:WF Checking                $2899.68
     Income:Salary:Centene
@@ -5736,6 +5740,55 @@
     Assets:HSA:Connect Your Care      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/04/20 Deposit - Fed Tax Refund
+    Assets:WF Checking                $1506.00
+    Expenses:Taxes:Fed
+
+2018/04/20 Winco Foods
+    Expenses:Food:Groceries             $41.99
+    Assets:WF Checking
+
+2018/04/20 Back Wine Bar
+    Expenses:Tips:Food                  $26.00
+    Assets:Cash
+
+2018/04/21 Ultra Mobile
+    Expenses:Communications:Cellular    $30.53
+    Liabilities:Amex Blue
+
+2018/04/21 Manderes
+    Expenses:Food:Dinner               $125.47
+    Liabilities:Amex Blue
+
+2018/04/21 Manderes
+    Expenses:Tips:Food                  $27.00
+    Assets:Cash
+
+2018/04/21 Amazon
+    Expenses:Presents                   $54.96
+    Liabilities:Amex Blue
+
+2018/04/21 Untuck-It
+    Expenses:Clothing:Eric              $80.00
+    Assets:Cash
+
+2018/04/21 Cap Radio
+    Expenses:Donations                  $10.00
+    Liabilities:Costco Visa
+
+2018/04/22 Withdrawal
+    Assets:Cash                        $300.00
+    Assets:WF Checking
+
+2018/04/23 Winco Foods
+    Expenses:Food:Groceries             $40.93
+    Assets:WF Checking
+
+2018/04/23 Credit Card Payment
+    Liabilities:Amex Blue             $1281.58
+    Assets:WF Checking
+
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
