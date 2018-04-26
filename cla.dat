@@ -5733,7 +5733,7 @@
     Assets:WF Checking
 
 2018/04/20 Payday
-    Assets:WF Checking                $2899.68
+    Assets:WF Checking                $2899.67
     Income:Salary:Centene
 
 2018/04/20 Deposit
@@ -5752,6 +5752,10 @@
 2018/04/20 Back Wine Bar
     Expenses:Tips:Food                  $26.00
     Assets:Cash
+
+2018/04/20 UCSB BARC
+    Expenses:College:UCSB BARC           $0.68
+    Assets:WF Checking
 
 2018/04/21 Ultra Mobile
     Expenses:Communications:Cellular    $30.53
@@ -5781,6 +5785,19 @@
     Assets:Cash                        $300.00
     Assets:WF Checking
 
+2018/04/22 Chateau Davell
+    Expenses:Presents                    $8.00
+    Assets:Cash
+
+2018/04/22 Bumgarner
+    Expenses:Food:Wine                   $5.00
+    Expenses:Presents                   $16.00
+    Assets:Cash
+
+2018/04/22 Madrona - Band
+    Expenses:Entertainment:Concerts      $2.00
+    Assets:Cash
+
 2018/04/23 Winco Foods
     Expenses:Food:Groceries             $40.93
     Assets:WF Checking
@@ -5789,6 +5806,41 @@
     Liabilities:Amex Blue             $1281.58
     Assets:WF Checking
 
+2018/04/23 Laundry
+    Expenses:College:Laundry             $2.75
+    Liabilities:Citibank MC
+
+2018/04/23 Act Blue - Be a Hero
+    Expenses:College:Miscellaneous      $11.00
+    Liabilities:Citibank MC
+
+2018/04/23 Barnes and Noble
+    Expenses:Food:Snacks                 $3.00
+    Assets:Cash
+
+2018/04/24 Target
+    Expenses:Food:Groceries             $16.98
+    Expenses:Drugstore                  $39.70
+    Expenses:Sales Tax                   $2.91
+    Expenses:Discounts:Red Card         -$2.84
+    Expenses:Discounts:Bag              -$0.10
+    Assets:WF Checking
+
+2018/04/25 Popeye's
+    Expenses:Food:Lunch:Eric             $8.11
+    Assets:Cash
+
+2018/04/25 49ers Bookstore
+    Expenses:Presents                   $37.29
+    Liabilities:Alaska Visa
+
+2018/04/25 Cal Poly University Store
+    Expenses:Presents                  $134.18
+    Liabilities:Alaska Visa
+
+2018/04/25 Amazon
+    Expenses:Presents                   $96.96
+    Liabilities:Amex Blue
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
