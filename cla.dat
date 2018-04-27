@@ -7,6 +7,7 @@
     Assets:MSEFCU Savings             $2341.62
     Assets:G1 Checking                 $583.61
     Assets:G1 Savings                   $55.00
+    Assets:Paypal                       $34.00
     Assets:Cash                        $108.00; $98.00; $89.72 ;$103.59
     Assets:HSA:Tri-Ad     $2472.17
     Assets:FasTrak                      $25.00
@@ -5830,6 +5831,14 @@
     Expenses:Food:Lunch:Eric             $8.11
     Assets:Cash
 
+2018/04/25 Nothing Bundt Cakes
+    Expenses:Presents                   $20.50
+    Liabilities:Citibank MC
+
+2018/04/25 Rocksbox
+    Expenses:Clothing:Angela            $19.00
+    Liabilities:Citibank MC
+
 2018/04/25 49ers Bookstore
     Expenses:Presents                   $37.29
     Liabilities:Alaska Visa
@@ -5841,6 +5850,35 @@
 2018/04/25 Amazon
     Expenses:Presents                   $96.96
     Liabilities:Amex Blue
+
+2018/04/26 Quiksilver
+    Expenses:Clothing:Eric              $79.09
+    Assets:Paypal                       $34.00
+    Assets:WF Checking
+
+2018/04/26 McDonald's
+    Expenses:Food:Lunch:Eric             $4.19
+    Assets:Cash
+
+2018/04/22 Casa Garden
+    Expenses:Food:Wine                  $10.00
+    Assets:Cash
+
+2018/04/26 Green Acres
+    Expenses:Presents                   $14.50
+    Assets:Cash
+
+2018/04/26 Raley's
+    Expenses:Food:Groceries             $31.93
+    Liabilities:Citibank MC
+
+2018/04/26 Quiksilver
+    Expenses:Clothing:Eric              $41.71
+    Assets:WF Checking
+
+2018/04/27 AAA Insurance
+    Expenses:Insurance:Home            $105.68
+    Liabilities:Citibank MC
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
