@@ -5967,6 +5967,14 @@
     Expenses:Food:Groceries             $61.83
     Assets:WF Checking
 
+2018/05/01 Credit Card Payment
+    Liabilities:Costco Visa           $2284.19
+    Assets:WF Checking
+
+2018/05/01 Credit Card Autopay
+    Liabilities:Costco Visa             $26.00
+    Assets:WF Checking
+
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
     Assets:Cash
