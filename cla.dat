@@ -5839,6 +5839,10 @@
     Expenses:Clothing:Angela            $19.00
     Liabilities:Citibank MC
 
+2018/04/25 Casa Garden
+    Expenses:Food:Wine                  $10.00
+    Assets:Cash
+
 2018/04/25 49ers Bookstore
     Expenses:Presents                   $37.29
     Liabilities:Alaska Visa
@@ -5851,17 +5855,17 @@
     Expenses:Presents                   $96.96
     Liabilities:Amex Blue
 
+2018/04/26 Interest Payment
+    Assets:WF Checking                   $0.04
+    Income:Interest:WF Checking
+
 2018/04/26 Quiksilver
-    Expenses:Clothing:Eric              $79.09
-    Assets:Paypal                       $34.00
+    Expenses:Clothing:Eric             $113.09
+    Assets:Paypal                      -$34.00
     Assets:WF Checking
 
 2018/04/26 McDonald's
     Expenses:Food:Lunch:Eric             $4.19
-    Assets:Cash
-
-2018/04/22 Casa Garden
-    Expenses:Food:Wine                  $10.00
     Assets:Cash
 
 2018/04/26 Green Acres
@@ -5879,6 +5883,89 @@
 2018/04/27 AAA Insurance
     Expenses:Insurance:Home            $105.68
     Liabilities:Citibank MC
+
+2018/04/27 Relish Burger
+    Expenses:Food:Dinner                $54.43
+    Expenses:Tips:Food                  $12.00
+    Assets:Cash                        -$12.00
+    Liabilities:Citibank MC
+
+2018/04/27 Costco Gas
+    Expenses:Gas:Prius                  $26.22
+    Liabilities:Costco Visa
+
+2018/04/27 Jane
+    Expenses:Clothing:Lydia             $26.48
+    Liabilities:Costco Visa
+
+2018/04/28 Amazon
+    Expenses:Presents                   $25.00
+    Liabilities:Amex Blue
+
+2018/04/28 Lydia for Amazon credit
+    Expenses:Presents                   $20.00
+    Assets:Gift Cards:Amazon             $3.10
+    Assets:Cash
+
+2018/04/28 Amazon
+    Expenses:Household                   $2.35
+    Assets:Gift Cards:Amazon
+
+2018/04/28 City of Folsom
+    Expenses:Utilities                 $189.70
+    Liabilities:Costco Visa
+
+2018/04/28 Heckles
+    Expenses:Food:Dinner                $51.00
+    Assets:Cash
+
+2018/04/29 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $4.65
+    Assets:Cash
+
+2018/04/29 Foothills UMC
+    Expenses:Donations                 $120.00
+    Assets:MSEFCU Checking
+
+2018/04/29 Cinemark
+    Expenses:Entertainment:Movies       $15.00    ;A Quiet Place
+    Liabilities:Citibank MC
+
+2018/04/29 Cinemark
+    Expenses:Food:Movies                 $7.35
+    Liabilities:Citibank MC
+
+2018/04/29 Trader Joe's
+    Expenses:Food:Groceries             $47.55
+    Liabilities:Citibank MC
+
+2018/04/30 Taco Bell
+    Expenses:Food:Lunch:Eric             $3.38
+    Assets:Cash
+
+2018/04/30 Payday
+    Assets:MSEFCU Checking            $1175.21
+    Income:Salary:FCUSD
+
+2018/04/30 Transfer
+    Assets:MSEFCU Savings              $900.00
+    Assets:MSEFCU Checking
+
+2018/04/30 Boys' Volleyball vs Oak Ridge
+    Expenses:Entertainment:Athletics     $6.00
+    Assets:Cash
+
+2018/04/30 Amazon - John Oliver book
+    Expenses:Entertainment:Books        $26.76    ;Ordered 3/24
+    Liabilities:Amex Blue
+
+2018/04/30 Costco Gas
+    Expenses:Gas:Volvo                  $38.49
+    Liabilities:Costco Visa
+
+2018/04/30 Winco Foods
+    Expenses:Food:Groceries             $61.83
+    Assets:WF Checking
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
