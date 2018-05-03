@@ -5951,7 +5951,7 @@
     Assets:MSEFCU Savings              $900.00
     Assets:MSEFCU Checking
 
-2018/04/30 Boys' Volleyball vs Oak Ridge
+2018/04/30 Boys' Volleyball vs Rocklin
     Expenses:Entertainment:Athletics     $6.00
     Assets:Cash
 
@@ -5973,6 +5973,34 @@
 
 2018/05/01 Credit Card Autopay
     Liabilities:Costco Visa             $26.00
+    Assets:WF Checking
+
+2018/05/02 Sam's Hofbrau
+    Expenses:Food:Lunch                 $34.15
+    Expenses:Tips:Food                   $5.00
+    Assets:Cash                         -$5.00
+    Liabilities:Costco Visa
+
+2018/05/02 Kathy Copeland
+    Expenses:Activities:Piano          $125.00
+    Assets:MSEFCU Checking
+
+2018/05/02 Boys' Volleyball vs Oak Ridge
+    Expenses:Entertainment:Athletics    $10.00
+    Assets:Cash
+
+2018/05/02 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/05/02 Target
+    Expenses:Clothing:Eric              $17.97
+    Expenses:Clothing:Angela             $6.88
+    Expenses:Food:Candy                  $6.59
+    Expenses:Food:Groceries              $1.74
+    Expenses:Presents                    $4.59
+    Expenses:Sales Tax                   $2.17
+    Expenses:Discounts:Red Card         -$1.88
     Assets:WF Checking
 
 2018/04/15 Car Money Adjustment
