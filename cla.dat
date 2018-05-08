@@ -5848,7 +5848,7 @@
     Liabilities:Alaska Visa
 
 2018/04/25 Cal Poly University Store
-    Expenses:Presents                  $134.18
+    Expenses:Presents                  $134.19
     Liabilities:Alaska Visa
 
 2018/04/25 Amazon
@@ -5975,6 +5975,14 @@
     Liabilities:Costco Visa             $26.00
     Assets:WF Checking
 
+2018/05/01 Laundry
+    Expenses:College:Laundry             $2.75
+    Liabilities:Citibank MC
+
+2018/05/01 Amazon
+    Expenses:College:Misc               $42.02
+    Liabilities:Citibank MC
+
 2018/05/02 Sam's Hofbrau
     Expenses:Food:Lunch                 $34.15
     Expenses:Tips:Food                   $5.00
@@ -6001,6 +6009,91 @@
     Expenses:Presents                    $4.59
     Expenses:Sales Tax                   $2.17
     Expenses:Discounts:Red Card         -$1.88
+    Assets:WF Checking
+
+2018/05/02 Netflix
+    Expenses:Entertainment:Netflix       $8.61
+    Liabilities:Costco Visa
+
+2018/05/02 Verizon Wireless
+    Expenses:Communications:Cellular   $103.51
+    Liabilities:Amex Blue
+
+2018/05/03 Sacramento Airport
+    Expenses:Food:Snacks:Eric            $8.77
+    Liabilities:Citibank MC
+
+2018/05/03 Hawkins
+    Expenses:Activities:Dance          $298.00
+    Liabilities:Citibank MC
+
+2018/05/03 UCLA Store
+    Expenses:Clothing:Eric              $86.55
+    Liabilities:Citibank MC
+
+2018/05/04 Payday
+    Assets:WF Checking                $2899.67
+    Income:Salary:Centene
+
+2018/05/04 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/05/04 Shell
+    Expenses:Gas:Truck                  $24.01
+    Liabilities:Amex Blue
+
+2018/05/05 Chase Mortgage
+    Expenses:House                    $1600.00
+    Assets:WF Checking
+
+2018/05/05 Fabletics
+    Expenses:Clothing:Angela            $54.87
+    Liabilities:Costco Visa
+
+2018/05/05 Phillips 66 Conoco
+    Expenses:Gas:Prius                  $21.96
+    Liabilities:Amex Blue
+
+2018/05/05 Comcast
+    Expenses:Communications:Internet,Home Phone   $51.33
+    Liabilities:Amex Blue
+
+2018/05/06 Sacramento Airport Parking
+    Expenses:Travel:Parking             $30.00
+    Liabilities:Citibank MC
+
+2018/05/06 Lowe's
+    Expenses:Household:Indoors          $33.10
+    Liabilities:Costco Visa
+
+2018/05/06 AAA Membership
+    Expenses:Insurance:Auto            $143.00
+    Liabilities:Citibank MC
+
+2018/05/07 Amazon
+    Expenses:Presents                   $28.49
+    Liabilities:Amex Blue
+
+2018/05/07 CA School Library Association
+    Expenses:Unknown                    $45.00
+    Liabilities:Amex Blue
+
+2018/05/07 CA School Library Association
+    Expenses:Unknown                    $20.00
+    Liabilities:Amex Blue
+
+2018/05/08 Credit Card Payment
+    Liabilities:Citibank MC           $1552.93
+    Assets:WF Checking
+
+2018/05/08 Credit Card Autopay
+    Liabilities:Citibank MC             $25.00
+    Assets:WF Checking
+
+2018/05/08 Credit Card Payment
+    Liabilities:Alaska Visa            $800.48
     Assets:WF Checking
 
 2018/04/15 Car Money Adjustment
