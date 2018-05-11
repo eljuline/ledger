@@ -6236,6 +6236,26 @@
     Expenses:Pets                      $500.00
     Liabilities:Alaska Visa
 
+2018/05/10 Marqueen Pet Hospital
+    Expenses:Pets                     $2800.00
+    Liabilities:Alaska Visa
+
+2018/05/10 PG&E
+    Expenses:Utilities                  $44.00
+    Assets:WF Checking
+
+2018/05/07 Wendy's
+    Expenses:Food:Dessert                $1.08
+    Assets:Cash
+
+2018/05/07 McDonald's
+    Expenses:Food:Dessert                $1.71
+    Assets:Cash
+
+2018/05/07 Wendy's
+    Expenses:Food:Lunch:Eric             $5.41
+    Assets:Cash
+
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
     Assets:Cash
