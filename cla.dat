@@ -6244,17 +6244,76 @@
     Expenses:Utilities                  $44.00
     Assets:WF Checking
 
-2018/05/07 Wendy's
+2018/05/10 Wendy's
     Expenses:Food:Dessert                $1.08
     Assets:Cash
 
-2018/05/07 McDonald's
+2018/05/10 McDonald's
     Expenses:Food:Dessert                $1.71
     Assets:Cash
 
-2018/05/07 Wendy's
+2018/05/11 Wendy's
     Expenses:Food:Lunch:Eric             $5.41
     Assets:Cash
+
+2018/05/11 Deposit
+    Assets:WF Checking                $3687.34
+    Assets:MSEFCU Checking            -$500.00
+    Income:Gift                       -$200.00
+    Income:Salary:FCUSD:Eric
+
+2018/05/11 Withdrawal
+    Assets:Cash                        $300.00
+    Assets:WF Checking
+
+2018/05/11 Winco Foods
+    Expenses:Food:Groceries             $31.77
+    Assets:Cash
+
+2018/05/12 Chevron
+    Expenses:Gas:Subaru                 $39.77
+    Liabilities:Amex Blue
+
+2018/05/12 Subway
+    Expenses:Food:Lunch                 $11.52
+    Liabilities:Costco Visa
+
+2018/05/12 Marqueen Pet Hospital
+    Liabilities:Alaska Visa           $1434.09
+    Expenses:Pets
+
+2018/05/12 Marshall's 
+    Expenses:Clothing:Angela            $37.05
+    Liabilities:Citibank MC
+
+2018/05/12 Little Caesars
+    Expenses:Food:Dinner:Eric            $5.39
+    Liabilities:Costco Visa
+
+2018/05/13 Winco Foods
+    Expenses:Food:Groceries             $22.78
+    Assets:Cash                         $20.00
+    Assets:WF Checking
+
+2018/05/13 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $2.40
+    Assets:Cash
+
+2018/05/13 UCSB Guest House
+    Expenses:Travel:Hotel              $285.00
+    Liabilities:Citibank MC
+
+2018/05/13 Chevron
+    Expenses:Gas:Subaru                 $46.23
+    Liabilities:Citibank MC
+
+2018/05/13 Farm Fresh to You
+    Expenses:Food:Groceries             $28.73
+    Liabilities:Costco Visa
+
+2018/05/14 Geico
+    Expenses:Insurance:Auto            $178.70
+    Liabilities:Costco Visa
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
