@@ -6252,6 +6252,10 @@
     Expenses:Food:Dessert                $1.71
     Assets:Cash
 
+2018/05/10 Sara's Kitchen Indiegogo
+    Liabilities:Costco Visa             $57.50
+    Expenses:Donations:Non-deductible
+
 2018/05/11 Wendy's
     Expenses:Food:Lunch:Eric             $5.41
     Assets:Cash
@@ -6270,6 +6274,10 @@
     Expenses:Food:Groceries             $31.77
     Assets:Cash
 
+2018/05/12 Netflix
+    Expenses:Entertainment:Netflix:Anna   $7.99
+    Liabilities:Citibank MC
+
 2018/05/12 Chevron
     Expenses:Gas:Subaru                 $39.77
     Liabilities:Amex Blue
@@ -6283,12 +6291,37 @@
     Expenses:Pets
 
 2018/05/12 Marshall's 
-    Expenses:Clothing:Angela            $37.05
+    Expenses:Clothing:Anna              $18.00
+    Expenses:Clothing:Angela            $19.05
     Liabilities:Citibank MC
 
 2018/05/12 Little Caesars
     Expenses:Food:Dinner:Eric            $5.39
     Liabilities:Costco Visa
+
+2018/05/12 MexCal
+    Expenses:Tips:Food                  $28.00
+    Assets:Cash
+
+2018/05/12 McConnell's Fine Ice Cream
+    Expenses:Food:Dessert               $19.10
+    Assets:Cash
+
+2018/05/12 Shuttle
+    Expenses:Travel:Taxi                 $1.75
+    Assets:Cash
+
+2018/05/12 Wienerschnitzel
+    Expenses:Food:Lunch                 $18.10
+    Assets:Cash
+
+2018/05/12 Santa Barbara Parking
+    Expenses:Travel:Parking              $6.00
+    Assets:Cash
+
+2018/05/12 UCSB Parking
+    Expenses:Travel:Parking              $5.00
+    Assets:Cash
 
 2018/05/13 Winco Foods
     Expenses:Food:Groceries             $22.78
@@ -6300,7 +6333,7 @@
     Assets:Cash
 
 2018/05/13 UCSB Guest House
-    Expenses:Travel:Hotel              $285.00
+    Expenses:Travel:Hotel              $275.00
     Liabilities:Citibank MC
 
 2018/05/13 Chevron
@@ -6329,6 +6362,20 @@
 2018/05/14 Arco AM/PM
     Expenses:Gas:Volvo                  $10.00
     Assets:Cash
+
+2018/05/15 Wendy's
+    Expenses:Food:Lunch                  $4.34
+    Expenses:Food:Dessert                $2.16
+    Assets:Cash
+
+2018/05/15 Winco Foods
+    Expenses:Food:Groceries             $11.25
+    Assets:Cash                         $20.00
+    Assets:WF Checking
+
+2018/05/15 Costco Gas
+    Expenses:Gas:Volvo                  $38.49
+    Liabilities:Costco Visa
     
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
