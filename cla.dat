@@ -6256,6 +6256,18 @@
     Liabilities:Costco Visa             $57.50
     Expenses:Donations:Non-deductible
 
+2018/05/10 Payday
+    Assets:MSEFCU Checking             $828.20
+    Income:Salary:FCUSD
+
+2018/05/10 Kelley Saia 
+    Expenses:Activities:Dance          $125.00
+    Assets:MSEFCU Checking
+
+2018/05/10 Tony Nguyen
+    Expenses:Activities:Dance          $125.00
+    Assets:MSEFCU Checking
+
 2018/05/11 Wendy's
     Expenses:Food:Lunch:Eric             $5.41
     Assets:Cash
@@ -6367,6 +6379,10 @@
     Expenses:Gas:Volvo                  $10.00
     Assets:Cash
 
+2018/05/14 Trader Joe's
+    Expenses:Food:Groceries             $36.88
+    Assets:Cash
+
 2018/05/15 Wendy's
     Expenses:Food:Lunch                  $4.34
     Expenses:Food:Dessert                $2.16
@@ -6391,6 +6407,18 @@
     Expenses:Sales Tax                   $1.43
     Liabilities:Costco Visa
 
+2018/05/16 Dick's Sporting Goods
+    Expenses:Presents                    $5.00
+    Assets:Cash
+
+2018/05/16 Vista del Lago Dance Show
+    Expenses:Entertainment:Dance        $12.00
+    Assets:Cash
+
+2018/05/16 Petsmart
+    Expenses:Pets                       $17.49
+    Assets:Cash
+
 2018/05/17 Popeye's
     Expenses:Food:Lunch:Eric             $9.19
     Assets:Cash
@@ -6407,6 +6435,23 @@
     Expenses:Food:Snacks:Eric            $1.00
     Assets:Cash
 
+2018/05/17 Cap Radio
+    Expenses:Entertainment:Books        $20.00
+    Assets:Cash
+
+2018/05/18 Payday
+    Assets:WF Checking                $2899.65
+    Income:Salary:Centene
+
+2018/05/04 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/05/18 David Witkowski
+    Expenses:Activities:Saxophone      $110.00
+    Assets:MSEFCU Checking
+
 2018/05/18 Angel's Kitchen
     Expenses:Food:Dinner                $30.44
     Expenses:Tips:Food                   $6.50
@@ -6415,6 +6460,48 @@
 2018/05/18 Costco Gas
     Expenses:Gas:Prius                  $29.87
     Liabilities:Costco Visa
+
+2018/05/19 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2018/05/19 Roxy
+    Expenses:Food:Breakfast:Angela      $22.00
+    Assets:Cash
+
+2018/05/19 Safeway
+    Expenses:Food:Groceries             $15.77
+    Assets:Cash
+
+2018/05/19 Vekran's
+    Expenses:Donations                   $4.00
+    Assets:Cash
+
+2018/05/20 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $4.85
+    Assets:Cash
+
+2018/05/20 Foothills UMC - Pastor's Fund
+    Expenses:Donations                  $20.00
+    Assets:Cash
+
+2018/05/20 Girl Scouts for SPCA
+    Expenses:Donations                  $20.00
+    Assets:Cash
+
+2018/05/20 Cost Plus World Market
+    Expenses:Presents                   $12.97
+    Expenses:Food:Candy                  $2.99
+    Expenses:Sales Tax                   $1.00
+    Assets:Cash
+
+2018/05/20 Winco Foods
+    Expenses:Food:Groceries             $53.59
+    Assets:WF Checking
+
+2018/05/20 KFC
+    Expenses:Food:Dinner                $16.16
+    Assets:Cash
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
