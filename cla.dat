@@ -6711,6 +6711,47 @@
     Expenses:Food:Groceries             $28.77
     Assets:WF Checking
 
+2018/05/29 Wendy's
+    Expenses:Food:Lunch:Eric             $4.56
+    Assets:Cash
+
+2018/05/29 Cat Therapy SB
+    Expenses:College:Misc               $15.00
+    Liabilities:Citibank MC
+
+2018/05/29 Petsmart
+    Expenses:Pets                       $13.90
+    Liabilities:Citibank MC
+
+2018/05/29 Costco Gas
+    Expenses:Gas:Volvo                  $39.16
+    Liabilities:Costco Visa
+
+2018/05/29 Trader Joe's
+    Expenses:Food:Groceries             $36.16
+    Liabilities:Costco Visa
+
+2018/05/29 Payday
+    Assets:MSEFCU Checking            $1175.21
+    Income:Salary:FCUSD
+
+2018/05/29 Transfer
+    Assets:MSEFCU Savings              $700.00
+    Assets:MSEFCU Checking
+
+2018/05/29 Uncommon Goods
+    Expenses:Presents                  $102.95
+    Liabilities:Amex Blue
+
+2018/05/30 Aerie
+    Expenses:Clothing:Anna              $37.00
+    Expenses:Clothing:Lydia             $36.39
+    Liabilities:Amex Blue
+
+2018/05/30 McDonald's
+    Expenses:Food:Lunch:Eric             $3.19
+    Assets:Cash
+
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
     Assets:Cash
