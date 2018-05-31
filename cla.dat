@@ -6039,6 +6039,10 @@
     Assets:Gift Cards:Amazon            $25.00
     Income:Gift
 
+2018/05/02 Jane
+    Liabilities:Costco Visa             $26.48
+    Expenses:Clothing:Lydia
+
 2018/05/03 Rite Aid
     Expenses:Presents                    $1.99
     Assets:Cash
@@ -6268,6 +6272,10 @@
     Expenses:Activities:Dance          $125.00
     Assets:MSEFCU Checking
 
+2018/05/10 Not Too Shabby
+    Expenses:Presents                   $21.44
+    Assets:Cash
+
 2018/05/11 Wendy's
     Expenses:Food:Lunch:Eric             $5.41
     Assets:Cash
@@ -6293,6 +6301,10 @@
 2018/05/12 Chevron
     Expenses:Gas:Subaru                 $39.77
     Liabilities:Amex Blue
+
+2018/05/12 In-N-Out
+    Expenses:Food:Lunch:Anna             $4.58
+    Assets:Cash
 
 2018/05/12 Subway
     Expenses:Food:Lunch                 $11.52
@@ -6347,6 +6359,10 @@
 2018/05/13 UCSB Guest House
     Expenses:Travel:Hotel              $275.00
     Liabilities:Citibank MC
+
+2018/05/13 UCSB Guest House
+    Expenses:Tips:Travel                 $5.00
+    Assets:Cash
 
 2018/05/13 Chevron
     Expenses:Gas:Subaru                 $46.23
@@ -6408,7 +6424,7 @@
     Liabilities:Costco Visa
 
 2018/05/16 Dick's Sporting Goods
-    Expenses:Presents                    $5.00
+    Expenses:Presents                    $4.62
     Assets:Cash
 
 2018/05/16 Vista del Lago Dance Show
@@ -6418,6 +6434,10 @@
 2018/05/16 Petsmart
     Expenses:Pets                       $17.49
     Assets:Cash
+
+2018/05/16 Laundry
+    Expenses:College:Laundry             $4.75
+    Liabilities:Citibank MC
 
 2018/05/17 Popeye's
     Expenses:Food:Lunch:Eric             $9.19
@@ -6439,11 +6459,15 @@
     Expenses:Entertainment:Books        $20.00
     Assets:Cash
 
+2018/05/17 Sling TV
+    Expenses:Entertainment:TV           $54.98
+    Liabilities:Amex Blue
+
 2018/05/18 Payday
     Assets:WF Checking                $2899.65
     Income:Salary:Centene
 
-2018/05/04 Deposit
+2018/05/18 Deposit
     Assets:HSA:Connect Your Care      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
@@ -6461,6 +6485,10 @@
     Expenses:Gas:Prius                  $29.87
     Liabilities:Costco Visa
 
+2018/05/18 Petsmart
+    Expenses:Pets                       $87.12
+    Liabilities:Citibank MC
+
 2018/05/19 Withdrawal
     Assets:Cash                        $200.00
     Assets:WF Checking
@@ -6473,9 +6501,17 @@
     Expenses:Food:Groceries             $15.77
     Assets:Cash
 
-2018/05/19 Vekran's
+2018/05/19 Veteran's charity
     Expenses:Donations                   $4.00
     Assets:Cash
+
+2018/05/19 Fandango
+    Expenses:Entertainment:Movies      $113.75     ;Solo, a Star Wars Story
+    Liabilities:Costco Visa
+
+2018/05/19 Blender's
+    Expenses:Food:Snacks:Anna            $3.75
+    Liabilities:Citibank MC
 
 2018/05/20 Baker's Dozen Donuts
     Expenses:Food:Breakfast              $4.85
@@ -6502,6 +6538,178 @@
 2018/05/20 KFC
     Expenses:Food:Dinner                $16.16
     Assets:Cash
+
+2018/05/20 UCSB BARC
+    Expenses:College:UCSB BARC          $37.50
+    Assets:WF Checking
+
+2018/05/20 Jane
+    Expenses:Clothing:Lydia             $10.98
+    Liabilities:Costco Visa
+
+2018/05/21 Ultra Mobile
+    Expenses:Communications:Cellular    $30.53
+    Liabilities:Amex Blue
+
+2018/05/21 McDonald's
+    Expenses:Food:Lunch:Eric             $3.23
+    Assets:Cash
+
+2018/05/21 Cap Radio
+    Expenses:Donations                  $10.00
+    Liabilities:Costco Visa
+
+2018/05/21 Round Table
+    Expenses:Food:Dinner                $26.40
+    Assets:Cash
+
+2018/05/21 Costco Gas
+    Expenses:Gas:Truck                  $78.18
+    Liabilities:Costco Visa
+
+2018/05/22 Work Vending Machine
+    Expenses:Food:Snacks:Eric            $2.25
+    Assets:Cash
+
+2018/05/22 Amazon gift card for Hannah
+    Expenses:Presents                   $40.00
+    Liabilities:Amex Blue
+
+2018/05/22 Petsmart
+    Expenses:Pets                        $8.89
+    Liabilities:Costco Visa
+    
+2018/05/22 Chewy.com
+    Expenses:Pets                       $59.72
+    Liabilities:Alaska Visa
+    
+2018/05/22 Taco Bell
+    Expenses:Food:Dinner                 $3.00
+    Assets:Cash
+
+2018/05/22 Wendy's
+    Expenses:Food:Dessert                $2.16
+    Assets:Cash
+
+2018/05/22 Winco Foods
+    Expenses:Household:School            $5.67
+    Assets:Cash                         $15.00
+    Assets:WF Checking
+
+2018/05/22 Salsa Taqueria
+    Expenses:Food:Dinner                $22.47
+    Expenses:Tips:Food                   $3.00
+    Assets:Cash
+
+2018/05/23 Sacramento Regional Transit
+    Expenses:Travel:Train                $5.50
+    Liabilities:Citibank MC
+
+2018/05/23 Credit Card Payment
+    Liabilities:Amex Blue              $728.10
+    Assets:WF Checking
+
+2018/05/23 Laundry
+    Expenses:College:Laundry             $2.75
+    Liabilities:Citibank MC
+
+2018/05/23 McDonald's
+    Expenses:Food:Lunch:Eric             $4.19
+    Assets:Cash
+
+2018/05/23 Safeway
+    Expenses:Food:Groceries              $9.98
+    Liabilities:Costco Visa
+
+2018/05/24 McDonald's
+    Expenses:Food:Lunch:Eric             $3.11
+    Assets:Cash
+
+2018/05/24 Petsmart
+    Expenses:Pets                        $5.24
+    Liabilities:Costco Visa
+
+2018/05/24 Target
+    Expenses:Food:Candy                  $6.66
+    Expenses:Food:Groceries              $5.00
+    Expenses:Drugstore                  $75.94
+    Expenses:Household                   $9.69
+    Assets:Gift Cards:Target             $5.00
+    Expenses:Discounts:Bag              -$0.05
+    Expenses:Sales Tax                   $6.30
+    Expenses:Discounts:Red Card         -$4.86
+    Assets:WF Checking
+
+2018/05/25 Koreana Plaza
+    Expenses:Food:Lunch:Eric             $5.46
+    Assets:Cash
+
+2018/05/25 Safeway
+    Expenses:Food:Groceries              $7.88
+    Assets:Cash
+
+2018/05/25 Rocksbox
+    Expenses:Clothing:Angela            $19.00
+    Liabilities:Citibank MC
+
+2018/05/26 Quiksilver
+    Expenses:Clothing:Eric              $47.50
+    Assets:WF Checking
+
+2018/05/26 Petsmart
+    Expenses:Pets                        $7.60
+    Liabilities:Citibank MC
+    
+2018/05/26 Withdrawal
+    Assets:Cash                        $140.00
+    Assets:WF Checking
+
+2018/05/26 See's Candies
+    Expenses:Presents                   $21.92
+    Expenses:Food:Candy                 $14.50
+    Liabilities:Citibank MC
+
+2018/05/26 Target
+    Expenses:Drugstore                   $4.70
+    Assets:Gift Cards:Target
+
+2018/05/26 CVS Pharmacy
+    Expenses:Medical:Lydia              $50.59
+    Assets:HSA:Connect Your Care
+
+2018/05/26 Valero Xpress Gas
+    Expenses:Gas:Prius                  $30.51
+    Liabilities:Costco Visa
+
+2018/05/27 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $7.50
+    Assets:Cash
+
+2018/05/27 Fruit Stand
+    Expenses:Food:Groceries              $9.50
+    Assets:Cash
+
+2018/05/28 Cinemark
+    Expenses:Entertainment:Movies       $15.00    ;Avengers: Infinity War
+    Assets:Cash
+
+2018/05/28 Cinemark
+    Expenses:Food:Movies                 $7.35
+    Assets:Cash
+
+2018/05/28 Raley's
+    Expenses:Food:Groceries             $21.51
+    Liabilities:Citibank MC
+
+2018/05/28 Barnes and Noble
+    Expenses:Presents                    $3.50
+    Expenses:Food:Snacks:Angela          $3.71
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+2018/05/29 Winco Foods
+    Expenses:Food:Groceries             $28.77
+    Assets:WF Checking
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
