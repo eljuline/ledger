@@ -6652,6 +6652,10 @@
     Expenses:Clothing:Angela            $19.00
     Liabilities:Citibank MC
 
+2018/05/25 Interest Payment
+    Assets:WF Checking                   $0.03
+    Income:Interest:WF Checking
+
 2018/05/26 Quiksilver
     Expenses:Clothing:Eric              $47.50
     Assets:WF Checking
@@ -6660,6 +6664,10 @@
     Expenses:Pets                        $7.60
     Liabilities:Citibank MC
     
+2018/05/26 The Habit
+    Expenses:Food:Dinner:Anna            $8.35
+    Liabilities:Citibank MC
+
 2018/05/26 Withdrawal
     Assets:Cash                        $140.00
     Assets:WF Checking
@@ -6715,12 +6723,12 @@
     Expenses:Food:Lunch:Eric             $4.56
     Assets:Cash
 
-2018/05/29 Cat Therapy SB
-    Expenses:College:Misc               $15.00
-    Liabilities:Citibank MC
-
 2018/05/29 Petsmart
     Expenses:Pets                       $13.90
+    Liabilities:Citibank MC
+
+2018/05/29 Cat Therapy SB
+    Expenses:College:Misc               $15.00
     Liabilities:Citibank MC
 
 2018/05/29 Costco Gas
