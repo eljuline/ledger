@@ -6294,6 +6294,10 @@
     Expenses:Food:Groceries             $31.77
     Assets:Cash
 
+2018/05/12 Francesca's
+    Expenses:Clothing:Lydia             $50.00
+    Assets:Cash
+
 2018/05/12 Netflix
     Expenses:Entertainment:Netflix:Anna   $7.99
     Liabilities:Citibank MC
@@ -6720,7 +6724,7 @@
     Assets:WF Checking
 
 2018/05/29 Wendy's
-    Expenses:Food:Lunch:Eric             $4.56
+    Expenses:Food:Lunch:Eric             $3.56
     Assets:Cash
 
 2018/05/29 Petsmart
@@ -6751,13 +6755,56 @@
     Expenses:Presents                  $102.95
     Liabilities:Amex Blue
 
+2018/05/29 Winco Foods
+    Expenses:Food:Groceries              $2.98
+    Assets:Cash
+
 2018/05/30 Aerie
     Expenses:Clothing:Anna              $37.00
     Expenses:Clothing:Lydia             $36.39
     Liabilities:Amex Blue
 
 2018/05/30 McDonald's
-    Expenses:Food:Lunch:Eric             $3.19
+    Expenses:Food:Lunch:Eric             $4.19
+    Assets:Cash
+
+2018/05/31 Work Vending Machine
+    Expenses:Food:Snacks:Eric            $1.00
+    Assets:Cash
+
+2018/05/31 Laundry
+    Expenses:College:Laundry             $2.75
+    Liabilities:Citibank MC
+
+2018/05/31 La Fiesta
+    Expenses:Foid:Dinner                $33.21
+    Expenses:Tips:Food                   $5.00
+    Assets:Cash
+
+2018/05/31 AM/PM
+    Expenses:Food:Snacks:Eric            $0.86
+    Expenses:Gambling                    $2.00
+    Assets:Cash
+
+2018/06/01 Payday
+    Assets:WF Checking                $2899.66
+    Income:Salary:Centene
+
+2018/06/01 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/06/01 Credit Card Payment
+    Liabilities:Costco Visa            $850.25
+    Assets:WF Checking
+
+2018/06/01 Credit Card Autopay
+    Liabilities:Costco Visa             $25.00
+    Assets:WF Checking
+
+2018/06/01 Wendy's
+    Expenses:Food:Lunch:Eric             $4.41
     Assets:Cash
 
 2018/04/15 Car Money Adjustment
