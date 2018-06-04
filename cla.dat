@@ -6216,6 +6216,10 @@
     Expenses:College:Laundry             $4.75
     Liabilities:Citibank MC
 
+2018/05/08 Jackie Smith Campaign
+    Expenses:Donations:Deductible       $21.00
+    Assets:Cash
+
 2018/05/09 Young's Vineyard
     Expenses:Food:Wine                 $115.29
     Liabilities:Citibank MC
@@ -6714,8 +6718,9 @@
     Liabilities:Citibank MC
 
 2018/05/28 Barnes and Noble
-    Expenses:Presents                    $3.50
-    Expenses:Food:Snacks:Angela          $3.71
+    Expenses:Presents                    $5.20
+    Expenses:Food:Snacks:Angela          $5.20
+    Expenses:Sales Tax                   $0.81
     Expenses:Tips:Food                   $1.00
     Assets:Cash
 
@@ -6786,6 +6791,14 @@
     Expenses:Gambling                    $2.00
     Assets:Cash
 
+2018/05/31 Amazon
+    Expenses:Household                  $29.98
+    Liabilities:Amex Blue
+
+2018/05/31 Amazon
+    Expenses:Household                  $24.63
+    Liabilities:Amex Blue
+
 2018/06/01 Payday
     Assets:WF Checking                $2899.66
     Income:Salary:Centene
@@ -6806,6 +6819,70 @@
 2018/06/01 Wendy's
     Expenses:Food:Lunch:Eric             $4.41
     Assets:Cash
+
+2018/06/01 David Witkowski
+    Expenses:Activities:Saxophone      $110.00
+    Assets:MSEFCU Checking
+
+2018/06/02 Netflix
+    Expenses:Entertainment:Netflix       $8.61
+    Liabilities:Costco Visa
+
+2018/06/02 Verizon Wireless
+    Expenses:Communications:Cellular   $103.51
+    Liabilities:Amex Blue
+
+2018/06/02 Costco Gas
+    Expenses:Gas:Prius                  $28.66
+    Liabilities:Costco Visa
+
+2018/06/02 Costco
+    Expenses:Food:Groceries             $39.16
+    Expenses:Household                  $16.99
+    Expenses:Sales Tax                   $2.28
+    Income:Credit Card Rewards:Costco  -$25.77
+    Liabilities:Costco Visa
+
+2018/06/02 Michael's 
+    Expenses:Presents                   $13.07
+    Expenses:Household                   $1.50
+    Liabilities:Amex Blue
+
+2018/06/02 Apricot Lane
+    Expenses:Clothing:Lydia             $42.00
+    Expenses:Presents                   $26.00
+    Expenses:Clothing:Anna               $8.00
+    Expenses:Sales Tax                   $6.08
+    Liabilities:Costco Visa
+
+2018/06/02 Palladio at Broadstone Rack
+    Expenses:Clothing:Lydia             $26.91
+    Liabilities:Amex Blue
+
+2018/06/02 ULTA
+    Expenses:Drugstore                  $73.79
+    Liabilities:Amex Blue
+
+2018/06/02 The Habit
+    Expenses:Food:Dinner                $26.34
+    Expenses:Tips:Food                   $2.66
+    Assets:Cash
+
+2018/06/03 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $3.35
+    Assets:Cash
+
+2018/06/03 Foothills UMC
+    Expenses:Donations                 $120.00 
+    Assets:MSEFCU Checking
+
+2018/06/03 Amazon
+    Expenses:Household:Outdoors         $57.38
+    Liabilities:Amex Blue
+
+2018/06/03 Amazon
+    Expenses:Household:Outdoors        $172.39
+    Liabilities:Amex Blue
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
