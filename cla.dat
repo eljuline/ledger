@@ -15,8 +15,6 @@
     Assets:Gift Cards:Amazon            $36.62
     Assets:Gift Cards:The Habit         $40.00
     Assets:Gift Cards:Cinema West        $7.50
-    Assets:Gift Cards:Quick Quack:Volvo      4
-    Assets:Gift Cards:Cinemark               2
     Assets:Gift Cards:Nordstrom        $100.00
     Assets:Car Money:Prius              $10.75
     Assets:Car Money:Volvo               $7.91; $5.14
@@ -894,11 +892,11 @@
     Expenses:Sales Tax                    $0.42
     Assets:Gift Cards:Amazon
 
-2017/10/22 Baker’s Dozen Donuts
+2017/10/22 Baker's Dozen Donuts
     Expenses:Food:Breakfast               $6.55
     Assets:Cash
 
-2017/10/22 Raley’s
+2017/10/22 Raley's
     Expenses:Household:Decorations       $10.00
     Liabilities:Citibank MC
 
@@ -1090,7 +1088,7 @@
     Expenses:Travel:Parking             $30.00
     Liabilities:Costco Visa
 
-2017/10/29 Rita’s at UOP Soccer
+2017/10/29 Rita's at UOP Soccer
     Expenses:Food:Water                  $8.00
     Assets:Cash
 
@@ -2898,10 +2896,6 @@
     Expenses:Food:Breakfast              $6.65
     Assets:Cash
 
-2017/12/31 Quick Quack Car Wash
-    Expenses:Automotive:Volvo:Car Wash       1
-    Assets:Gift Cards:Quick Quack:Volvo
-
 2017/12/31 Trader Joe's
     Expenses:Food:Groceries             $68.58
     Expenses:Food:Candy                  $1.99
@@ -3677,8 +3671,8 @@
     Liabilities:Citibank MC
 
 2018/01/27 Cinemark
-    Expenses:Entertainment:Movies            2    ;Three Billboards Outside Ebbing, Missouri
-    Assets:Gift Cards:Cinemark
+    Expenses:Entertainment:Movies        $0.00    ;Three Billboards Outside Ebbing, Missouri
+    Assets:Cash
 
 2018/01/27 Cinemark
     Expenses:Food:Movies                $16.00
@@ -3844,7 +3838,7 @@
     Assets:WF Checking
 
 2018/02/03 Browns Valley Elementary 23-7133974
-    Expenses:Donation                   $50.00
+    Expenses:Donations                  $50.00
     Expenses:Entertainment:Raffle       $20.00
     Liabilities:Amex Blue
 
@@ -4876,7 +4870,7 @@
     Assets:Cash
 
 2018/03/18 She Persisted Fundraiser
-    Expenses:Donations:Ineligible       $25.00
+    Expenses:Donations:Non-deductible   $25.00
     Assets:Cash
 
 2018/03/18 Foothills UMC
@@ -5686,7 +5680,7 @@
     Liabilities:Citibank MC
 
 2018/04/15 March of Dimes
-    Expenses:Donations:                 $50.00
+    Expenses:Donations                  $50.00
     Expenses:Donations:Non-deductible    $1.50
     Liabilities:Amex Blue
 
@@ -6408,7 +6402,7 @@
     Assets:Cash
 
 2018/05/15 Wendy's
-    Expenses:Food:Lunch                  $4.34
+    Expenses:Food:Lunch:Eric             $4.34
     Expenses:Food:Dessert                $2.16
     Assets:Cash
 
@@ -6855,7 +6849,7 @@
     Expenses:Sales Tax                   $6.08
     Liabilities:Costco Visa
 
-2018/06/02 Palladio at Broadstone Rack
+2018/06/02 Nordstrom Rack
     Expenses:Clothing:Lydia             $26.91
     Liabilities:Amex Blue
 
@@ -6883,6 +6877,148 @@
 2018/06/03 Amazon
     Expenses:Household:Outdoors        $172.39
     Liabilities:Amex Blue
+
+2018/06/03 iTunes
+    Expenses:Entertainment:Music         $1.24
+    Assets:WF Checking
+
+2018/06/04 Stitch Fix
+    Expenses:Clothing:Angela            $20.00
+    Liabilities:Costco Visa
+
+2018/06/04 Hawkins
+    Expenses:Activities:Dance          $298.00
+    Liabilities:Citibank MC
+
+2018/06/04 Hawkins - Showcase Fee
+    Expenses:Activities:Dance           $70.00
+    Liabilities:Citibank MC
+
+2018/06/04 Subway
+    Expenses:Food:Dinner:Anna            $3.76
+    Liabilities:Citibank MC
+
+2018/06/04 Tutu Tix
+    Expenses:Entertainment:Dance        $37.50
+    Liabilities:Amex Blue
+
+2018/06/04 Tutu Tix
+    Expenses:Entertainment:Dance        $25.00
+    Liabilities:Amex Blue
+
+2018/06/04 Winco Foods
+    Expenses:Food:Groceries             $50.47
+    Assets:WF Checking
+
+2018/06/04 Reimbursement for books
+    Assets:Cash                         $53.00
+    Expenses:Household
+
+2018/06/04 UPS
+    Expenses:Postage                    $11.35
+    Assets:Cash
+
+2018/06/04 Jamba Juice
+    Expenses:Food:Snacks:Lydia           $5.79
+    Assets:Cash
+
+2018/06/04 Target
+    Expenses:Household                  $57.18
+    Expenses:Discounts:Bag              -$0.05
+    Expenses:Sales Tax                   $2.55
+    Expenses:Discounts:Red Card         -$2.50
+    Assets:WF Checking
+
+2018/06/04 Walgreen's
+    Expenses:Presents                    $5.00
+    Assers:Cash
+
+2018/06/04 Wendy's
+    Expenses:Food:Dessert                $2.16
+    Assets:Cash
+
+2018/06/05 Chase Mortgage
+    Expenses:House                    $1600.00
+    Assets:WF Checking
+
+2018/06/05 Costco
+    Expenses:Food:Lunch:Eric             $1.50
+    Expenses:Household                  $35.94
+    Expenses:Sales Tax                   $3.09
+    Liabilities:Costco Visa
+
+2018/06/05 Office Depot
+    Expenses:Household                  $21.93
+    Liabilities:Amex Blue
+    
+2018/06/05 Sprouts
+    Expenses:Food:Groceries             $22.47
+    Liabilities:Amex Blue
+    
+2018/06/05 Nate Gullo
+    Expenses:Presents                   $50.00
+    Assets:MSEFCU Checking
+
+2018/06/05 Todd Predmore
+    Expenses:Presents                  $100.00
+    Assets:MSEFCU Checking
+
+2018/06/06 Comcast
+    Expenses:Communications:Internet,Home Phone   $51.29
+    Liabilities:Amex Blue
+
+2018/06/06 Amazon - Dryer Parts
+    Expenses:Household                  $32.81
+    Expenses:Household:Tools            $11.00
+    Liabilities:Amex Blue
+
+2018/06/06 Appliance Parts
+    Expenses:Household                  $22.28
+    Liabilities:Citibank MC
+
+2018/06/06 DMV Renewal
+    Expenses:Automotive:Registration:Prius   $184.00
+    Liabilities:Citibank MC
+
+2018/06/06 McDonald's
+    Expenses:Food:Lunch:Eric             $5.27
+    Liabilities:Alaska Visa
+
+2018/06/06 Safeway
+    Expenses:Food:Groceries             $24.13
+    Liabilities:Amex Blue
+    
+2018/06/06 Wendy's
+    Expenses:Food:Dessert                $1.82
+    Assets:Cash
+
+2018/06/07 Rim's Deli
+    Expenses:Food:Lunch:Eric            $10.01
+    Liabilities:Citibank MC
+
+2018/06/07 Laundry
+    Expenses:College:Laundry             $2.75
+    Liabilities:Citibank MC
+
+2018/06/07 iTunes
+    Expenses:Entertainment:Music         $2.28
+    Assets:WF Checking
+
+2018/06/07 Petsmart
+    Expenses:Pets                       $16.46
+    Liabilities:Alaska Visa
+
+2018/06/08 Credit Card Payment
+    Liabilities:Citibank MC           $1860.85
+    Assets:WF Checking
+
+2018/06/08 Credit Card Autopay
+    Liabilities:Citibank MC             $25.00
+    Assets:WF Checking
+
+2018/06/08 Credit Card Payment
+    Liabilities:Alaska Visa           $1983.73
+    Assets:WF Checking
 
 2018/04/15 Car Money Adjustment
     Assets:Car Money:Prius               $0.00
