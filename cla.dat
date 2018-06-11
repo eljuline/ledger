@@ -261,7 +261,7 @@
 
 2017/09/27 ! Deposit
     ;2273
-    Assets:HSA:Tri-Ad      $401.00
+    Assets:HSA:Tri-Ad                  $401.00
     Assets:WF Checking
 
 2017/09/27 UCSB Access Card Gaucho Bucks
@@ -1876,7 +1876,7 @@
     Liabilities:Costco Visa
 
 ;2017/11/26 Discount Dance Supply
-;    Expenses:Activities:Dance           $34.31
+;    Expenses:Activities:Dance          $34.31
 ;    Liabilities:Citibank MC
     
 2017/11/27 AAA Insurance
@@ -1990,7 +1990,7 @@
     Assets:WF Checking
 
 ;2017/12/01 Credit Card Autopay
-;    Liabilities:Costco Visa             $25.00
+;    Liabilities:Costco Visa            $25.00
 ;    Assets:WF Checking
 
 2017/12/01 Withdrawal
@@ -7008,6 +7008,10 @@
     Expenses:Pets                       $16.46
     Liabilities:Alaska Visa
 
+2018/06/07 Verizon Wireless
+    Expenses:Communications:Cellular    $15.00
+    Liabilities:Amex Blue
+
 2018/06/08 Credit Card Payment
     Liabilities:Citibank MC           $1860.85
     Assets:WF Checking
@@ -7018,6 +7022,98 @@
 
 2018/06/08 Credit Card Payment
     Liabilities:Alaska Visa           $1983.73
+    Assets:WF Checking
+
+2018/06/08 California Precision Services
+    Expenses:Household                  $45.00
+	Liabilities:Amex Blue
+
+2018/06/08 Willie's
+    Expenses:Food:Lunch                 $23.87
+	Expenses:Tips:Food                   $2.13
+	Assets:Cash
+
+2018/06/08 Payday
+    Assets:MSEFCU Checking             $699.82
+    Income:Salary:FCUSD
+
+2018/06/08 PG&E
+    Expenses:Utilities                  $29.86
+    Assets:WF Checking
+
+2018/06/09 Costco Gas
+    Expenses:Gas:Prius                  $23.60
+	Liabilities:Costco Visa
+
+2018/06/09 Costco
+    Expenses:Food:Groceries             $48.34
+	Expenses:Food:Groceries             -$6.99
+	Liabilities:Costco Visa
+
+2018/06/09 Cookie Connection
+    Expenses:Food:Dessert                $5.65
+	Expenses:Tips:Food                   $1.00
+	Assets:Cash
+
+2018/06/09 Macy's
+    Expenses:Clothing:Angela.           $24.13
+	Liabilities:Macy's
+
+2018/06/09 Zara
+    Expenses:Clothing:Anna              $21.34
+    Liabilities:Amex Blue
+
+2018/06/09 Transfer
+    Assets:MSEFCU Savings              $336.47
+    Assets:MSEFCU Checking
+
+2018/06/10 Deposit
+	Assets:WF Checking                  $29.16
+	Income:Salary:FCUSD
+
+2018/06/10 Withdrawal
+    Assets:Cash                        $140.00
+	Assets:WF Checking
+
+2018/06/10 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $4.85
+    Assets:Cash
+
+2018/06/10 Foothills UMC
+    Expenses:Donations                  $25.00 
+    Assets:MSEFCU Checking
+
+2018/06/10 Nathan Felde 
+    Expenses:Presents                   $25.00
+	Assets:Cash
+
+2018/06/10 Happy Lawn
+    Expenses:Household:Outdoors         $45.00
+	Assets:MSEFCU Checking
+
+2018/06/10 CVS
+    Expenses:Drugstore                   $8.81
+	Expenses:Presents                    $8.00
+	Assets:Cash
+
+2018/06/10 Lowe's
+    Expenses:Household                  $29.31
+	Liabilities:Amex Blue
+
+2018/06/10 Taco Bell
+    Expenses:Food:Lunch                 $14.78
+	Assets:Cash
+
+2018/06/10 Cost Plus World Market
+    Expenses:Household                  $78.57
+	Liabilities:Amex Blue
+
+2018/06/10 Winco Foods
+    Expenses:Food:Groceries             $71.97
+	Assets:WF Checking
+
+2018/06/11 SMUD
+    Expenses:Utilities                  $65.22
     Assets:WF Checking
 
 2018/04/15 Car Money Adjustment
