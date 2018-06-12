@@ -6581,8 +6581,9 @@
     Expenses:Pets                        $8.89
     Liabilities:Costco Visa
     
-2018/05/22 Chewy.com
-    Expenses:Pets                       $59.72
+2018/05/22 Chewy.com SPCA Bradshaw - 21 of 24 small, 22 of 24 large
+    Expenses:Pets                        $6.02
+    Expenses:Donations                  $53.70
     Liabilities:Alaska Visa
     
 2018/05/22 Taco Bell
@@ -7017,7 +7018,7 @@
     Assets:WF Checking
 
 2018/06/08 Credit Card Autopay
-    Liabilities:Citibank MC             $25.00
+    Liabilities:Citibank MC             $22.25
     Assets:WF Checking
 
 2018/06/08 Credit Card Payment
@@ -7026,12 +7027,12 @@
 
 2018/06/08 California Precision Services
     Expenses:Household                  $45.00
-	Liabilities:Amex Blue
+    Liabilities:Amex Blue
 
 2018/06/08 Willie's
     Expenses:Food:Lunch                 $23.87
-	Expenses:Tips:Food                   $2.13
-	Assets:Cash
+    Expenses:Tips:Food                   $2.13
+    Assets:Cash
 
 2018/06/08 Payday
     Assets:MSEFCU Checking             $699.82
@@ -7043,21 +7044,21 @@
 
 2018/06/09 Costco Gas
     Expenses:Gas:Prius                  $23.60
-	Liabilities:Costco Visa
+    Liabilities:Costco Visa
 
 2018/06/09 Costco
     Expenses:Food:Groceries             $48.34
-	Expenses:Food:Groceries             -$6.99
-	Liabilities:Costco Visa
+    Expenses:Food:Groceries             -$6.99
+    Liabilities:Costco Visa
 
 2018/06/09 Cookie Connection
     Expenses:Food:Dessert                $5.65
-	Expenses:Tips:Food                   $1.00
-	Assets:Cash
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
 
 2018/06/09 Macy's
     Expenses:Clothing:Angela.           $24.13
-	Liabilities:Macy's
+    Liabilities:Macy's
 
 2018/06/09 Zara
     Expenses:Clothing:Anna              $21.34
@@ -7067,13 +7068,17 @@
     Assets:MSEFCU Savings              $336.47
     Assets:MSEFCU Checking
 
+2018/06/09 Amazon
+    Expenses:Household                   $8.45
+    Assets:Gift Cards:Amazon
+    
 2018/06/10 Deposit
-	Assets:WF Checking                  $29.16
-	Income:Salary:FCUSD
+    Assets:WF Checking                  $29.16
+    Income:Salary:FCUSD
 
 2018/06/10 Withdrawal
     Assets:Cash                        $140.00
-	Assets:WF Checking
+    Assets:WF Checking
 
 2018/06/10 Baker's Dozen Donuts
     Expenses:Food:Breakfast              $4.85
@@ -7085,40 +7090,94 @@
 
 2018/06/10 Nathan Felde 
     Expenses:Presents                   $25.00
-	Assets:Cash
+    Assets:Cash
 
 2018/06/10 Happy Lawn
     Expenses:Household:Outdoors         $45.00
-	Assets:MSEFCU Checking
+    Assets:MSEFCU Checking
 
 2018/06/10 CVS
     Expenses:Drugstore                   $8.81
-	Expenses:Presents                    $8.00
-	Assets:Cash
+    Expenses:Presents                    $8.00
+    Assets:Cash
 
 2018/06/10 Lowe's
     Expenses:Household                  $29.31
-	Liabilities:Amex Blue
+    Liabilities:Amex Blue
 
 2018/06/10 Taco Bell
     Expenses:Food:Lunch                 $14.78
-	Assets:Cash
+    Assets:Cash
 
 2018/06/10 Cost Plus World Market
-    Expenses:Household                  $78.57
-	Liabilities:Amex Blue
+    Expenses:Household                  $39.99
+    Expenses:Drugstore                   $3.59
+    Expenses:Presents:Friends           $12.99
+    Expenses:Presents:Other              $8.94
+    Expenses:Presents:Us                 $4.99
+    Expenses:Food:Snacks:Lydia           $2.99
+    Expenses:Sales Tax                   $5.08
+    Liabilities:Amex Blue
 
 2018/06/10 Winco Foods
-    Expenses:Food:Groceries             $71.97
-	Assets:WF Checking
+    Expenses:Food:Groceries             $73.45
+    Assets:WF Checking
 
 2018/06/11 SMUD
     Expenses:Utilities                  $65.22
     Assets:WF Checking
 
-2018/04/15 Car Money Adjustment
-    Assets:Car Money:Prius               $0.00
+2018/06/11 Coinstar money
+    Assets:Coinstar                     $19.28
     Assets:Cash
+
+2018/06/11 Cash Adjustment
+    Expenses:Unknown                    $14.76
+    Assets:Cash
+
+2018/06/11 McDonald's
+    Expenses:Food:Lunch:Eric             $2.16
+    Assets:Cash
+
+2018/06/11 Safeway
+    Expenses:Food:Groceries             $21.73
+    Liabilities:Amex Blue
+
+2018/06/11 Jane
+    Expenses:Clothing:Lydia             $26.98
+    Liabilities:Amex Blue
+
+2018/06/11 BR Factory Outlet
+    Expenses:Clothing:Angela            $37.70
+    Liabilities:Amex Blue
+
+2018/06/11 The Gap Outlet
+    Expenses:Clothing:Angela            $19.99
+    Expenses:Clothing:Anna              $26.98
+    Expenses:Clothing:Lydia              $9.99
+    Expenses:Clothing:Eric               $7.99
+    Expenses:Clothing:Eric               $7.99
+    Expenses:Presents:Family            $11.99
+    Expenses:Sales Tax                   $6.58
+    Liabilities:Amex Blue
+
+2018/06/11 Amazon
+    Expenses:Presents:Friends           $19.50
+    Assets:Gift Cards:Amazon           -$16.55
+    Liabilities:Amex Blue
+
+2018/06/11 Joy Dravecky
+    Expenses:Presents:Friends           $52.18
+    Liabilities:Amex Blue
+
+2018/06/11 Amazon
+    Expenses:Presents:Friends           $30.17
+    Liabilities:Amex Blue
+
+2018/06/12 Netflix
+    Expenses:Entertainment:Netflix:Anna   $7.99
+    Liabilities:Citibank MC
+
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
