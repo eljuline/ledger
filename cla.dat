@@ -1301,7 +1301,7 @@
     Liabilities:Costco Visa
 
 2017/11/05 Money for Anna
-    Expenses:College:Miscellaneous     $100.00
+    Expenses:College:Misc              $100.00
     Assets:Cash
 
 2017/11/05 Chevron
@@ -1781,7 +1781,7 @@
 
 2017/11/24 Lowe's
     Expenses:Household:Decorations      $84.92
-    Expenses:Household:Outdoor           $4.48
+    Expenses:Household:Outdoors          $4.48
     Expenses:Sales Tax                   $6.93
     Liabilities:Costco Visa
 
@@ -1845,7 +1845,7 @@
     Assets:Cash
 
 2017/11/26 Money for Anna 
-    Expenses:College:Miscellaneous      $60.00
+    Expenses:College:Misc               $60.00
     Assets:Cash
 
 2017/11/26 Cinemark
@@ -1921,7 +1921,7 @@
     Liabilities:Amex Blue
 
 2017/11/28 UCSB Associated Students We
-    Expenses:College:Miscellaneous      $13.00
+    Expenses:College:Misc               $13.00
     Liabilities:Citibank MC
 
 2017/11/28 Interest Payment
@@ -3076,7 +3076,7 @@
     Assets:WF Checking
 
 2018/01/05 Money for Anna
-    Expenses:College:Miscellaneous     $100.00
+    Expenses:College:Misc              $100.00
     Assets:Cash
 
 2018/01/05 Dollar Store
@@ -3378,7 +3378,7 @@
     Assets:WF Checking
 
 2018/01/15 Amazon
-    Expenses:Household:Outdoor          $24.99
+    Expenses:Household:Outdoors         $24.99
     Liabilities:Amex Blue
 
 2018/01/16 Barnes & Noble
@@ -3487,7 +3487,7 @@
     Liabilities:Citibank MC
 
 2018/01/21 Amazon
-    Expenses:College:Miscellaneous      $14.94
+    Expenses:College:Misc               $14.94
     Liabilities:Citibank MC
 
 2018/01/21 Nordstrom Rack
@@ -3544,7 +3544,7 @@
     Liabilities:Amex Blue
 
 2018/01/22 Amazon
-    Expenses:College:Miscellaneous      $26.57
+    Expenses:College:Misc               $26.57
     Liabilities:Citibank MC
 
 2018/01/22 Winco Foods
@@ -3970,8 +3970,8 @@
     Liabilities:Citibank MC
 
 2018/02/10 Lowe's 
-    Expenses:Household:Outdoor          $12.88
-    Expenses:Household:Indoor            $9.98
+    Expenses:Household:Outdoors         $12.88
+    Expenses:Household:Indoors           $9.98
     Expenses:Sales Tax                   $1.77
     Liabilities:Alaska Visa
 
@@ -4003,7 +4003,7 @@
     Liabilities:Amex Blue
 
 2018/02/10 UCSB Assoc Students We
-    Expenses:College:Miscellaneous      $10.50
+    Expenses:College:Misc               $10.50
     Liabilities:Citibank MC
 
 2018/02/10 Kathy Copeland
@@ -4066,11 +4066,11 @@
     Assets:Cash
 
 2018/02/12 Lowe's
-    Expenses:Household:Indoor           $12.47
+    Expenses:Household:Indoors          $12.47
     Liabilities:Amex Blue 
 
 2018/02/12 Amazon
-    Expenses:Household:Indoor           $63.99
+    Expenses:Household:Indoors          $63.99
     Liabilities:Amex Blue
 
 2018/02/12 Netflix
@@ -4112,7 +4112,7 @@
     Liabilities:Citibank MC
 
 2018/02/14 Anna Juline
-    Expenses:College:Miscellaneous     $100.00
+    Expenses:College:Misc              $100.00
     Assets:WF Checking
 
 2018/02/14 American Airlines Seat Selection
@@ -4124,7 +4124,7 @@
     Assets:HSA:Connect Your Care
 
 2018/02/15 Lowe's
-    Expenses:Household:Indoor           $10.76
+    Expenses:Household:Indoors          $10.76
     Liabilities:Amex Blue
 
 2018/02/16 Work Vending Machine
@@ -4164,7 +4164,7 @@
     Assets:College:Parents
 
 2018/02/17 Lowe's
-    Expenses:Household:Indoor           $32.34
+    Expenses:Household:Indoors          $32.34
     Liabilities:Amex Blue
     
 2018/02/17 99 Ranch
@@ -4197,10 +4197,10 @@
 
 2018/02/18 Lowe's 
     Liabilities:Amex Blue                $8.60
-    Expenses:Household:Indoor
+    Expenses:Household:Indoors
 
 2018/02/18 Lowe's
-    Expenses:Household:Indoor           $22.84
+    Expenses:Household:Indoors          $22.84
     Liabilities:Amex Blue
 
 2018/02/18 Costco
@@ -4290,7 +4290,7 @@
     Assets:Cash
 
 2018/02/21 Kmart Goleta
-    Expenses:College:Miscellaneous      $32.97
+    Expenses:College:Misc               $32.97
     Liabilities:Citibank MC
 
 2018/02/22 McDonald's
@@ -4493,11 +4493,11 @@
     Interest:Income
 
 2018/03/03 The Home Depot
-    Expenses:Household:Indoor            $8.59
+    Expenses:Household:Indoors           $8.59
     Liabilities:Alaska Visa
 
 2018/03/03 Lowe's
-    Expenses:Household:Indoor            $4.82
+    Expenses:Household:Indoors           $4.82
     Liabilities:Alaska Visa
 
 2018/03/03 33 Coffee Bar - Hyatt
@@ -4535,7 +4535,7 @@
     Assets:WF Checking
 
 2018/03/04 Rite Aid
-    Expenses:College:Miscellaneous      $35.28
+    Expenses:College:Misc               $35.28
     Liabilities:Citibank MC
 
 2018/03/04 Evolve Photo and Video
@@ -4605,7 +4605,7 @@
 
 2018/03/06 Cost Plus World Market - International Night
     Expenses:Household:School           $35.95
-    Expenses:Household:Indoor           $19.95
+    Expenses:Household:Indoors          $19.95
     Expenses:Sales Tax                   $1.16
     Liabilities:Costco Visa
 
@@ -4641,10 +4641,10 @@
 
 2018/03/08 Lowe's
     Liabilities:Alaska Visa              $4.82
-    Expenses:Household:Indoor
+    Expenses:Household:Indoors
 
 2018/03/08 Lowe's
-    Expenses:Household:Indoor           $56.37
+    Expenses:Household:Indoors          $56.37
     Liabilities:Alaska Visa
 
 2018/03/08 Raley's
@@ -4665,7 +4665,7 @@
     Assets:Cash
 
 2018/03/09 Amazon Prime
-    Expenses:College:Miscellaneous      $52.80
+    Expenses:College:Misc               $52.80
     Liabilities:Citibank MC
 
 2018/03/09 David Witkowski
@@ -4693,7 +4693,7 @@
     Liabilities:Costco Visa
 
 2018/03/10 Costco
-    Expenses:Household:Indoor           $32.94
+    Expenses:Household:Indoors          $32.94
     Expenses:Drugstore                  $38.99
     Expenses:Food:Groceries             $67.56
     Expenses:Sales Tax                   $5.57
@@ -4745,7 +4745,7 @@
     Assets:Cash                       -$250.00
 
 2018/03/12 Casper
-    Expenses:Household:Indoor         $1343.92
+    Expenses:Household:Indoors        $1343.92
     Liabilities:Alaska Visa
 
 2018/03/12 Netflix
@@ -4937,11 +4937,11 @@
     Liabilities:Costco Visa
 
 2018/03/21 Target
-    Expenses:Household:Indoor           $12.90
+    Expenses:Household:Indoors          $12.90
     Liabilities:Costco Visa
 
 2018/03/19 Wayfair
-    Expenses:Household:Indoor          $106.66
+    Expenses:Household:Indoors         $106.66
     Liabilities:Costco Visa
 
 2018/03/21 Jane
@@ -5232,7 +5232,7 @@
     Assets:MSEFCU Checking
 
 2018/03/30 Transfer
-    Expenses:College:Miscellaneous       $5.00
+    Expenses:College:Misc                $5.00
     Assets:Cash App:Angela
 
 2018/03/31 Cinemark
@@ -5811,7 +5811,7 @@
     Liabilities:Citibank MC
 
 2018/04/23 Act Blue - Be a Hero
-    Expenses:College:Miscellaneous      $11.00
+    Expenses:College:Misc               $11.00
     Liabilities:Citibank MC
 
 2018/04/23 Barnes and Noble
@@ -6777,7 +6777,7 @@
     Liabilities:Citibank MC
 
 2018/05/31 La Fiesta
-    Expenses:Foid:Dinner                $33.21
+    Expenses:Food:Dinner                $33.21
     Expenses:Tips:Food                   $5.00
     Assets:Cash
 
@@ -6932,7 +6932,7 @@
 
 2018/06/04 Walgreen's
     Expenses:Presents                    $5.00
-    Assers:Cash
+    Assets:Cash
 
 2018/06/04 Wendy's
     Expenses:Food:Dessert                $2.16
@@ -7057,7 +7057,7 @@
     Assets:Cash
 
 2018/06/09 Macy's
-    Expenses:Clothing:Angela.           $24.13
+    Expenses:Clothing:Angela            $24.13
     Liabilities:Macy's
 
 2018/06/09 Zara
@@ -7132,7 +7132,7 @@
     Assets:Cash
 
 2018/06/11 Cash Adjustment
-    Expenses:Unknown                    $14.76
+    Expenses:Unknown                     $9.76
     Assets:Cash
 
 2018/06/11 McDonald's
@@ -7178,6 +7178,9 @@
     Expenses:Entertainment:Netflix:Anna   $7.99
     Liabilities:Citibank MC
 
+2018/06/12 Nordstrom
+    Expenses:Clothing:Angela            $90.24
+    Liabilities:Amex Blue
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
