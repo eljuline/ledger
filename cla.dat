@@ -7071,7 +7071,15 @@
 2018/06/09 Amazon
     Expenses:Household                   $8.45
     Assets:Gift Cards:Amazon
-    
+
+2018/06/09 Santo Mezcal
+   Expenses:Food:Dinner:Anna            $22.78
+   Liabilities:Citibank MC
+
+2018/06/09 McConnell's Fine Ice Cream
+   Expenses:Food:Dessert:Anna            $5.95
+   Liabilities:Citibank MC
+
 2018/06/10 Deposit
     Assets:WF Checking                  $29.16
     Income:Salary:FCUSD
@@ -7122,6 +7130,10 @@
 2018/06/10 Winco Foods
     Expenses:Food:Groceries             $73.45
     Assets:WF Checking
+
+2018/06/10 Farm Fresh to You
+    Expenses:Food:Groceries             $28.19
+    Liabilities:Costco Visa
 
 2018/06/11 SMUD
     Expenses:Utilities                  $65.22
@@ -7180,6 +7192,23 @@
 
 2018/06/12 Nordstrom
     Expenses:Clothing:Angela            $90.24
+    Liabilities:Amex Blue
+
+2018/06/13 AM/PM
+    Expenses:Food:Snacks:Eric            $1.50
+    Assets:Cash
+
+2018/06/14 Geico
+    Expenses:Insurance:Auto            $178.70
+    Liabilities:Costco Visa
+
+2018/06/14 Stitch Fix
+    Expenses:Clothing:Angela            $42.50
+    Liabilities:Costco Visa
+
+2018/06/14 Karen's Bakery
+    Expenses:Presents:Friends           $16.84
+    Expenses:Food:Breakfast             $16.84
     Liabilities:Amex Blue
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
