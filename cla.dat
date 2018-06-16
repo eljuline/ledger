@@ -7270,6 +7270,30 @@
     Expenses:Tips:Food                   $4.00
     Assets:Cash
 
+2018/06/15 Rite Aid
+    Expenses:Household                   $7.99
+    Expenses:Automotive                  $2.99
+    Expenses:Sales Tax                   $0.85
+    Liabilities:Amex Blue
+
+2018/06/15 UCSB Bookstore
+    Expenses:Clothing:Anna              $53.86
+    Assets:Cash                         -$8.62
+    Assets:Gift Cards:UCSB
+
+2018/06/15 Costco Gas
+    Expenses:Gas:Truck                  $62.01
+    Liabilities:Costco Visa
+
+2018/06/15 Costco
+    Expenses:Food:Dinner                 $7.08
+    Assets:Cash
+
+
+
+
+
+
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
