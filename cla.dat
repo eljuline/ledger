@@ -7013,10 +7013,6 @@
     Expenses:Pets                       $16.46
     Liabilities:Alaska Visa
 
-2018/06/07 Verizon Wireless
-    Expenses:Communications:Cellular    $15.00
-    Liabilities:Amex Blue
-
 2018/06/08 Credit Card Payment
     Liabilities:Citibank MC           $1860.85
     Assets:WF Checking
@@ -7276,6 +7272,10 @@
     Expenses:Sales Tax                   $0.85
     Liabilities:Amex Blue
 
+2018/06/15 UCSB Parking
+    Expenses:Travel:Parking              $8.00
+    Liabilities:Costco Visa
+
 2018/06/15 UCSB Bookstore
     Expenses:Clothing:Anna              $53.86
     Assets:Cash                         -$8.62
@@ -7289,6 +7289,9 @@
     Expenses:Food:Dinner                 $7.08
     Assets:Cash
 
+2018/06/15 Aerie
+    Expenses:Clothing:Anna              $29.57
+    Liabilities:Amex Blue
 
 
 
