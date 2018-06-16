@@ -7200,7 +7200,7 @@
 
 2018/06/13 Kentucky Fried Chicken
     Expenses:Food:Dinner                $16.16
-	Assets:Cash
+    Assets:Cash
 
 2018/06/13 AM/PM
     Expenses:Food:Snacks:Eric            $1.50
@@ -7217,20 +7217,20 @@
 2018/06/14 Karen's Bakery
     Expenses:Presents:Friends           $16.84
     Expenses:Food:Breakfast             $16.84
-	Expenses:Tips:Food                   $1.00
-	Assets:Cash                         -$1.00
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash                         -$1.00
     Liabilities:Amex Blue
 
 2018/06/14 Macy's
     Expenses:Clothing:Angela            $38.25
-	Expenses:Presents:Family            $21.38
-	Expenses:Sales Tax                   $4.62
-	Liabilities:Macy's
+    Expenses:Presents:Family            $21.38
+    Expenses:Sales Tax                   $4.62
+    Liabilities:Macy's
 
 2018/06/14 The Gap Outlet
     Liabilities:Amex Blue               $26.92
-	Expenses:Clothing:Eric              -$7.99
-	Expenses:Clothing:Anna
+    Expenses:Clothing:Eric              -$7.99
+    Expenses:Clothing:Anna
 
 2018/06/14 Banana Republic Outlet
     Liabilities:Amex Blue               $37.70
@@ -7238,28 +7238,38 @@
 
 2018/06/14 Apricot Lane
     Expenses:Presents:Family             $3.24
-	Assets:Cash
+    Assets:Cash
 
 2018/06/14 Costco Gas
     Expenses:Gas:Truck                  $24.33
-	Liabilities:Costco Visa
+    Liabilities:Costco Visa
 
 2018/06/14 Winco Foods
     Expenses:Food:Groceries             $21.49
-	Assets:WF Checking
+    Assets:WF Checking
 
 2018/06/14 Amazon
     Expenses:Entertainment:Books         $2.99
-	Liabilities:Amex Blue
+    Liabilities:Amex Blue
 
 2018/06/15 Payday
-    Assets:WF Checking                $2899.66
+    Assets:WF Checking                $2899.67
     Income:Salary:Centene
 
 2018/06/15 Deposit
     Assets:HSA:Connect Your Care      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/06/15 Union 76 Coalinga
+    Expenses:Gas:Truck                  $65.94
+    Liabilities:Costco Visa
+
+2018/06/15 Denny's
+    Expenses:Food:Breakfast             $20.76
+    Expenses:Tips:Food                   $4.00
+    Assets:Cash
+
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
