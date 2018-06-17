@@ -7327,8 +7327,32 @@
     Expenses:Food:Groceries             $27.26
     Liabilities:Amex Blue
 
+2018/06/16 Target
+    Expenses:Donations                   $4.99
+    Expenses:Sales Tax                   $0.37
+    Expenses:Discounts:Red Card         -$0.25
+    Assets:WF Checking
+    
+2018/06/17 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
 
+2018/06/17 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $6.80
+    Expenses:Tips:Food                   $1.20
+    Assets:Cash
 
+2018/06/17 Foothills UMC - Pastor's Fund
+    Expenses:Donations                  $20.00
+    Assets:Cash
+
+2018/06/16 MSEFCU Dividend
+    Assets:MSEFCU Savings                $0.97
+    Income:Interest:MSEFCU Savings
+
+2018/06/16 Transfer
+    Assets:MSEFCU Savings              $500.00
+    Assets:MSEFCU Checking
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
