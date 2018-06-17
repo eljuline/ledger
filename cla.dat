@@ -55,6 +55,10 @@
     Expenses:Food:Groceries             $10.99
     Liabilities:Amex Blue
 
+2017/09/17 Via Heart Project
+    Expenses:Medical:Lydia              $25.00
+    Assets:MSEFCU Checking
+
 2017/09/19 Lowe's
     Expenses:College:Supplies           $95.90
     Liabilities:Amex Blue
@@ -103,6 +107,10 @@
 2017/09/21 Togo's
     Expenses:Food:Dinner                 $6.75
     Assets:Cash
+
+2017/09/21 Haircut - Jamee Neumann
+    Expenses:Cosmetics:Haircut:Angela    $60.00
+    Assets:MSEFCU Checking
 
 2017/09/21 Trader Joe's
     Expenses:Food:Groceries             $47.63
@@ -297,6 +305,10 @@
     Expenses:Presents                   $10.00
     ; :gift:Donna_Evans:
     Assets:Cash
+
+2017/09/29 David Witkowski
+    Expenses:Activities:Saxophone      $110.00
+    Assets:MSEFCU Checking
 
 2017/09/30 Cinemark
     Expenses:Entertainment:Movies       $10.50     ;American Assassin
@@ -5408,6 +5420,10 @@
     Expenses:College:Laundry             $2.75
     Liabilities:Citibank MC
 
+2018/04/08 Foothills UMC
+    Expenses:Donations                 $120.00
+    Assets:MSEFCU Checking
+
 2018/04/08 Credit Card Payment
     Liabilities:Citibank MC            $790.34
     Assets:WF Checking
@@ -5632,10 +5648,6 @@
 2018/04/15 Costco Gas
     Expenses:Gas:Prius                  $19.75
     Liabilities:Costco Visa
-
-2018/04/15 Foothills UMC
-    Expenses:Donations                 $120.00
-    Assets:MSEFCU Checking
 
 2018/04/15 DMV Renewal
     Expenses:Automotive:Registration:Volvo   $129.00
@@ -5998,7 +6010,7 @@
     Liabilities:Costco Visa
 
 2018/05/02 Kathy Copeland
-    Expenses:Activities:Piano          $125.00
+    Expenses:Activities:Piano          $100.00
     Assets:MSEFCU Checking
 
 2018/05/02 Boys' Volleyball vs Oak Ridge
@@ -6631,6 +6643,10 @@
 2018/05/24 Petsmart
     Expenses:Pets                        $5.24
     Liabilities:Costco Visa
+
+2018/05/24 Haircut - Jamee Neumann
+    Expenses:Cosmetics:Haircut:Angela   $170.00
+    Assets:MSEFCU Checking
 
 2018/05/24 Target
     Expenses:Food:Candy                  $6.66
@@ -7297,6 +7313,19 @@
     Expenses:College:UCSB BARC           $0.16
     Assets:WF Checking
 
+2018/06/16 USPS
+    Expenses:Postage                    $10.00
+    Liabilities:Amex Blue
+
+2018/06/16 Walgreen's
+    Expenses:Drugstore                  $10.49
+    Expenses:Food:Candy                  $5.00
+    Expenses:Sales Tax                   $0.81
+    Liabilities:Amex Blue
+
+2018/06/16 Raley's
+    Expenses:Food:Groceries             $27.26
+    Liabilities:Amex Blue
 
 
 
