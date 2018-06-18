@@ -7332,6 +7332,10 @@
     Expenses:Sales Tax                   $0.37
     Expenses:Discounts:Red Card         -$0.25
     Assets:WF Checking
+
+2018/06/16 Sling TV
+    Expenses:Entertainment:TV           $54.98
+    Liabilities:Amex Blue
     
 2018/06/17 Withdrawal
     Assets:Cash                        $200.00
@@ -7344,6 +7348,10 @@
 
 2018/06/17 Foothills UMC - Pastor's Fund
     Expenses:Donations                  $20.00
+    Assets:Cash
+
+2018/06/17 Wayback Burgers
+    Expenses:Food:Lunch                 $34.29
     Assets:Cash
 
 2018/06/16 MSEFCU Dividend
