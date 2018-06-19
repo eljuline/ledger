@@ -6940,10 +6940,15 @@
     Assets:Cash
 
 2018/06/04 Target
-    Expenses:Household                  $57.18
-    Expenses:Discounts:Bag              -$0.05
-    Expenses:Sales Tax                   $2.55
-    Expenses:Discounts:Red Card         -$2.50
+    Expenses:Drugstore                  $21.43
+    Expenses:Clothing:Angela             $8.00
+    Expenses:Clothing:Anna               $8.00
+    Expenses:Clothing:Lydia             $16.00
+    Expenses:Food:Groceries              $3.46
+    Expenses:Discounts:Bag              -$0.10
+    Expenses:Sales Tax                   $3.93
+    Expenses:Discounts:Red Card         -$2.84
+    Assets:Gift Cards:Target            -$0.70
     Assets:WF Checking
 
 2018/06/04 Walgreen's
@@ -7360,6 +7365,16 @@
 
 2018/06/17 Popeye's
     Expenses:Food:Dinner                $18.16
+    Assets:Cash
+
+2018/06/18 Trader Joe's
+    Expenses:Food:Groceries             $54.14
+    Expenses:Drugstore                  $11.98
+    Expenses:Sales Tax                   $0.93
+    Liabilities:Amex Blue
+
+2018/06/18 Round Table
+    Expenses:Food:Dinner                $26.40
     Assets:Cash
 
 2018/06/16 MSEFCU Dividend
