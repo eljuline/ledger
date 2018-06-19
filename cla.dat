@@ -7367,6 +7367,10 @@
     Expenses:Food:Dinner                $18.16
     Assets:Cash
 
+2018/06/18 Hair Salon
+    Expenses:Cosmetics:Haircut:Anna.    $21.00
+    Assets:Cash
+
 2018/06/18 Trader Joe's
     Expenses:Food:Groceries             $54.14
     Expenses:Drugstore                  $11.98
@@ -7380,6 +7384,21 @@
 2018/06/18 Round Table
     Expenses:Food:Dinner                $26.40
     Assets:Cash
+
+2018/06/18 Costco Gas
+    Expenses:Gas:Truck                  $77.80
+    Liabilities:Costco Visa
+
+2018/06/18 Uniqlo
+    Expenses:Clothing:Eric              $11.80
+    Expenses:Clothing:Angela             $9.90
+    Expenses:Sales Tax                   $1.68
+    Expenses:Postage                     $5.00
+    Assets:WF Checking
+
+2018/06/19 Amazon
+    Expenses:Household:Eric             $19.99
+    Liabilities:Amex Blue
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
