@@ -7404,6 +7404,31 @@
     Expenses:Household:Eric             $19.99
     Liabilities:Amex Blue
 
+2018/06/19 Work Vending Machine
+    Expenses:Food:Snacks:Eric            $1.00
+    Assets:Cash
+
+2018/06/19 Kathy Copeland
+    Expenses:Activities:Piano           $75.00
+    Assets:MSEFCU Checking
+
+2018/06/19 Costco Gas
+    Expenses:Gas:Volvo                  $40.56
+    Liabilities:Costco Visa
+
+2018/06/19 Michael's
+    Expenses:Presents                   $14.75
+    Assets:Cash
+
+2018/06/19 Connecticut General Life Insurance
+    ;2286
+    Expenses:Insurance:Life:Eric        $15.63
+    Assets:WF Checking
+
+2018/06/19 City of Folsom
+    Expenses:Utilities                 $110.23
+    Liabilities:Amex Blue
+
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
     Income:Interest:MSEFCU Savings
