@@ -7429,6 +7429,43 @@
     Expenses:Utilities                 $110.23
     Liabilities:Amex Blue
 
+2018/06/20 Cap Radio
+    Expenses:Donations                  $10.00
+    Liabilities:Costco Visa
+
+2018/06/20 Ultra Mobile
+    Expenses:Communications:Cellular    $30.53
+    Liabilities:Amex Blue
+
+2018/06/20 McDonald's
+    Expenses:Food:Lunch:Eric             $5.26
+    Assets:Cash
+
+2018/06/20 Apricot Lane
+    Expenses:Clothing:Anna              $42.12
+    Liabilities:Costco Visa
+
+2018/06/20 Hawkins
+    Expenses:Activities:Dance           $35.00
+    Liabilities:Citibank MC
+
+2018/06/20 See's Candies
+    Expenses:Food:Candy                  $7.07
+    Expenses:Presents                    $4.25
+    Assets:Cash
+
+2018/06/20 Bel Air
+    Expenses:Food:Groceries             $12.39
+    Assets:Cash
+
+2018/06/20 Winco Foods
+    Expenses:Presents                    $6.49
+    Assets:WF Checking
+
+2018/06/20 AM/PM
+    Expenses:Presents                    $7.00
+    Assets:Cash
+
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
     Income:Interest:MSEFCU Savings
