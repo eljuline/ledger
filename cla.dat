@@ -7466,6 +7466,23 @@
     Expenses:Presents                    $7.00
     Assets:Cash
 
+2018/06/21 Winco Foods
+    Expenses:Food:Groceries              $7.28
+    Assets:WF Checking
+
+2018/06/21 Haircut - Jamee Neumann
+    Expenses:Cosmetics:Haircut:Angela  $125.00
+    Assets:WF Checking
+
+2018/06/21 Ulta
+    Expenses:Drugstore                  $63.76
+    Liabilities:Amex Blue
+
+2018/06/21 Nordstrom Rack
+    Expenses:Clothing:Angela            $18.29
+    Expenses:Clothing:Anna              $18.28
+    Liabilities:Amex Blue
+
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
     Income:Interest:MSEFCU Savings
