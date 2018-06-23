@@ -7475,7 +7475,7 @@
     Assets:WF Checking
 
 2018/06/21 Ulta
-    Expenses:Drugstore:Anna             $33.36
+    Expenses:Drugstore:Anna             $33.56
     Expenses:Drugstore:Angela           $25.61
     Expenses:Sales Tax                   $4.59
     Liabilities:Amex Blue
@@ -7515,6 +7515,14 @@
     Expenses:Tips:Food                   $2.00
     Assets:Cash                         -$2.00
     Liabilities:Citibank MC
+
+2018/06/23 Cinema West
+    Expenses:Entertainment:Movies       $16.50    ;Solo, a Star Wars Story
+    Assets:Cash
+
+2018/06/23 Credit Card Payment
+    Liabilities:Amex Blue             $2082.50
+    Assets:WF Checking
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
