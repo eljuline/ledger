@@ -7518,11 +7518,20 @@
 
 2018/06/23 Cinema West
     Expenses:Entertainment:Movies       $16.50    ;Solo, a Star Wars Story
-    Assets:Cash
+    Liabilities:Costco Visa
 
 2018/06/23 Credit Card Payment
     Liabilities:Amex Blue             $2082.50
     Assets:WF Checking
+
+2018/06/23 Mimi's Cafe
+    Expenses:Food:Breakfast             $10.00
+    Expenses:Tips:Food                  $10.00
+    Assets:Cash
+
+2018/06/23 Costco Gas
+    Expenses:Gas:Prius                  $27.73
+    Liabilities:Costco Visa
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
