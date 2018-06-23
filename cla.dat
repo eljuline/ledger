@@ -7533,6 +7533,19 @@
     Expenses:Gas:Prius                  $27.73
     Liabilities:Costco Visa
 
+2018/06/23 Willow Creek Cleaners
+    Expenses:Clothing:Eric               $6.00
+    Expenses:Clothing:Anna               $6.00
+    Liabilities:Costco Visa
+
+2018/06/23 Deposit
+    Assets:WF Checking                 $200.00
+    Income:Gift
+
+2018/06/23 Withdrawal
+    Assets:Cash                        $300.00
+    Assets:WF Checking
+
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
     Income:Interest:MSEFCU Savings
