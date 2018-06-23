@@ -7047,7 +7047,7 @@
     Assets:WF Checking
 
 2018/06/08 California Precision Services
-    Expenses:Household                  $45.00
+    Expenses:Household:Electronics      $45.00
     Liabilities:Amex Blue
 
 2018/06/08 Willie's
@@ -7368,7 +7368,7 @@
     Assets:Cash
 
 2018/06/18 Hair Salon
-    Expenses:Cosmetics:Haircut:Anna.    $21.00
+    Expenses:Cosmetics:Haircut:Anna     $21.00
     Assets:Cash
 
 2018/06/18 Trader Joe's
@@ -7475,13 +7475,46 @@
     Assets:WF Checking
 
 2018/06/21 Ulta
-    Expenses:Drugstore                  $63.76
+    Expenses:Drugstore:Anna             $33.36
+    Expenses:Drugstore:Angela           $25.61
+    Expenses:Sales Tax                   $4.59
     Liabilities:Amex Blue
 
 2018/06/21 Nordstrom Rack
     Expenses:Clothing:Angela            $18.29
     Expenses:Clothing:Anna              $18.28
     Liabilities:Amex Blue
+
+2018/06/22 California Precision Services
+    Expenses:Household:Electronics     $185.31
+    Liabilities:Amex Blue
+
+2018/06/22 Willie's
+    Expenses:Food:Lunch:Eric            $16.87
+    Liabilities:Costco Visa
+
+2018/06/22 Target
+    Expenses:Drugstore:Lydia             $4.46
+    Expenses:Drugstore:Angela           $12.98
+    Expenses:Drugstore                   $3.99
+    Expenses:Clothing:Angela            $19.99
+    Expenses:Clothing:Anna               $6.67
+    Expenses:Clothing:Lydia             $13.33
+    Expenses:Food:Groceries              $3.99
+    Expenses:Pets                        $1.99
+    Expenses:Sales Tax                   $4.95
+    Expenses:Discounts:Red Card         -$3.57
+    Assets:WF Checking
+
+2018/06/22 Shannon Family Automotive
+    Expenses:Automotive:Service:Prius   $64.62
+    Liabilities:Costco Visa
+
+2018/06/22 Sourdough & Company
+    Expenses:Food:Dinner                $16.71
+    Expenses:Tips:Food                   $2.00
+    Assets:Cash                         -$2.00
+    Liabilities:Citibank MC
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
