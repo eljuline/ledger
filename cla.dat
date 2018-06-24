@@ -6776,8 +6776,9 @@
     Assets:Cash
 
 2018/05/30 Aerie
-    Expenses:Clothing:Anna              $37.00
-    Expenses:Clothing:Lydia             $36.39
+    Expenses:Clothing:Lydia             $18.71
+    Expenses:Clothing:Anna              $49.40
+    Expenses:Sales Tax                   $5.28
     Liabilities:Amex Blue
 
 2018/05/30 McDonald's
@@ -7545,6 +7546,12 @@
 2018/06/23 Withdrawal
     Assets:Cash                        $300.00
     Assets:WF Checking
+
+2018/06/23 Aerie
+    Liabilities:Amex Blue               $38.74
+    Expenses:Sales Tax                  -$2.80
+    Expenses:Clothing:Anna             -$49.40
+    Expenses:Clothing:Anna              $13.46
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
