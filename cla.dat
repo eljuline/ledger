@@ -7553,6 +7553,12 @@
     Expenses:Clothing:Anna             -$49.40
     Expenses:Clothing:Anna              $13.46
 
+2018/06/24 Lowe's
+    Expenses:Household:Indoors           $7.96
+    Expenses:Household:Outdoors          $8.18
+    Expenses:Sales Tax                   $1.25
+    Liabilities:Costco Visa
+
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
     Income:Interest:MSEFCU Savings
