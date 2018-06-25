@@ -10,7 +10,6 @@
     Assets:Paypal                       $34.00
     Assets:Cash                        $108.00; $98.00; $89.72 ;$103.59
     Assets:HSA:Tri-Ad     $2472.17
-    Assets:FasTrak                      $25.00
     Assets:Gift Cards:American Eagle    $37.01
     Assets:Gift Cards:Amazon            $36.62
     Assets:Gift Cards:The Habit         $40.00
@@ -651,10 +650,6 @@
 2017/10/09 Jamba Juice
     Expenses:Food:Breakfast:Eric         $5.00
     Assets:Cash
-
-2017/10/09 FasTrak Bridge Tolls
-    Expenses:Travel:Tolls                $5.00
-    Assets:FasTrak
 
 2017/10/09 Chevron
     Expenses:Gas:Prius                  $29.27
@@ -1476,10 +1471,6 @@
     Expenses:Gas:Prius                  $19.00
     Liabilities:Costco Visa
 
-2017/11/11 Tolls
-    Expenses:Travel:Tolls                $5.00
-    Assets:FasTrak
-
 2017/11/11 Parking
     Expenses:Travel:Parking              $2.25
     Assets:Cash
@@ -1495,10 +1486,6 @@
 2017/11/11 USF
     Expenses:Food:Snacks                $16.00
     Assets:Cash
-
-2017/11/11 Tolls
-    Expenses:Travel:Tolls                $4.00
-    Assets:FasTrak
 
 2017/11/12 Baker's Dozen Donuts
     Expenses:Food:Breakfast              $5.80
@@ -2082,10 +2069,6 @@
     Expenses:Activities:Dance           $48.90
     Liabilities:Costco Visa
 
-2017/12/03 Bridge Toll
-    Expenses:Travel:Tolls                $5.00
-    Assets:FasTrak
-
 2017/12/03 Apricot Lane
     Expenses:Presents                   $39.96
     Liabilities:Citibank MC
@@ -2665,10 +2648,6 @@
     Expenses:Communications:Cellular    $30.50
     Liabilities:Amex Blue
 
-2017/12/22 Bridge Toll
-    Expenses:Travel:Tolls                $5.00
-    Assets:FasTrak
-
 2017/12/22 Marine Layer
     Expenses:Presents                  $218.09
     Liabilities:Costco Visa
@@ -2708,7 +2687,7 @@
     Assets:Cash
 
 2017/12/23 FasTrak
-    Assets:FasTrak                      $25.00
+    Expenses:Travel:Tolls               $25.00
     Liabilities:Costco Visa
 
 2017/12/23 Credit Card Payment
@@ -7562,6 +7541,26 @@
 2018/06/24 Baker's Dozen Donuts
     Expenses:Food:Breakfast              $5.80
     Assets:Cash
+
+2018/06/24 California Academy of Science
+    Expenses:Entertainment:Museums.    $154.80
+    Liabilities:Costco Visa
+
+2018/06/24 California Academy of Science
+    Expenses:Food:Lunch                 $40.62
+    Liabilities:Costco Visa
+
+2018/06/24 California Academy of Science
+    Expenses:Food:Lunch                 $22.86
+    Assets:Cash
+
+2018/06/24 Mexican Restaurant 9th Street
+    Expenses:Tips:Food                  $31.00
+    Assets:Cash
+
+2018/06/24 Golden Gate Parking
+    Expenses:Travel:Parking             $33.00
+    Liabilities:Costco Visa
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
