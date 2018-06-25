@@ -7562,6 +7562,10 @@
     Expenses:Travel:Parking             $33.00
     Liabilities:Costco Visa
 
+2018/06/25 FasTrak
+    Expenses:Travel:Tolls               $25.00
+    Liabilities:Costco Visa
+
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
     Income:Interest:MSEFCU Savings
