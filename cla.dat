@@ -7566,6 +7566,50 @@
     Expenses:Travel:Tolls               $25.00
     Liabilities:Costco Visa
 
+2018/06/25 Trader Joe's
+    Expenses:Presents                   $38.31
+    Liabilities:Costco Visa
+
+2018/06/25 Target
+    Expenses:Household                  $11.67
+    Expenses:Food:Groceries              $8.76
+    Expenses:Drugstore                   $2.99
+    Expenses:Sales Tax                   $1.20
+    Expenses:Discounts:Red Card         -$1.17
+    Assets:WF Checking
+    
+2018/06/25 Prohibition
+    Expenses:Food:Dinner:Angela         $25.00
+    Assets:Cash
+
+2018/06/25 Barnes and Noble
+    Expenses:Food:Snacks:Angela         $10.03
+    Assets:Cash
+
+2018/06/25 Petsmart
+    Expenses:Pets                        $9.19
+    Liabilities:Costco Visa
+
+2018/06/25 Rocksbox
+    Expenses:Clothing:Angela            $19.00
+    Liabilities:Citibank MC
+
+2018/06/25 Target
+    Expenses:Drugstore                   $8.61
+    Liabilities:Costco Visa
+
+2018/06/25 JoAnn's
+    Expenses:Household                   $2.13
+    Assets:Cash
+
+2018/06/25 Taco Bell
+    Expenses:Food:Dinner                 $7.28
+    Assets:Cash
+
+2018/06/25 Becky Ladine
+    Expenses:Presents                   $20.00
+    Assets:Cash
+
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
     Income:Interest:MSEFCU Savings
