@@ -7249,6 +7249,10 @@
     Expenses:Entertainment:Books         $2.99
     Liabilities:Amex Blue
 
+2018/06/14 Chewy.com
+    Expenses:Pets                       $61.90
+    Liabilities:Alaska Visa
+
 2018/06/15 Payday
     Assets:WF Checking                $2899.67
     Income:Salary:Centene
@@ -7443,7 +7447,7 @@
 
 2018/06/20 See's Candies
     Expenses:Food:Candy                  $7.07
-    Expenses:Presents                    $4.25
+    Expenses:Presents:Other              $4.25
     Assets:Cash
 
 2018/06/20 Bel Air
@@ -7451,11 +7455,11 @@
     Assets:Cash
 
 2018/06/20 Winco Foods
-    Expenses:Presents                    $6.49
+    Expenses:Presents:Us                 $6.49
     Assets:WF Checking
 
 2018/06/20 AM/PM
-    Expenses:Presents                    $7.00
+    Expenses:Presents:Us                 $7.00
     Assets:Cash
 
 2018/06/21 Winco Foods
@@ -7579,7 +7583,7 @@
     Liabilities:Costco Visa
 
 2018/06/25 Trader Joe's
-    Expenses:Presents                   $38.31
+    Expenses:Presents:Family            $38.31
     Liabilities:Costco Visa
 
 2018/06/25 Target
@@ -7623,8 +7627,12 @@
     Liabilities:Costco Visa
 
 2018/06/25 Becky Ladine
-    Expenses:Presents                   $20.00
+    Expenses:Presents:Family            $20.00
     Assets:Cash
+
+2018/06/25 Annamaria
+    Expenses:Pets                      $150.00
+    Assets:MSEFCU Checking
 
 2018/06/26 Chevron
     Expenses:Gas:Prius                  $26.49
@@ -7726,6 +7734,237 @@
     Expenses:Food:Dinner                $83.55
     Expenses:Tips:Food                  $17.00
     Liabilities:Costco Visa
+
+2018/06/30 Sand People
+    Expenses:Presents:Family            $47.00
+    Expenses:Presents:Us                $17.00
+    Expenses:Sales Tax                   $2.67
+    Liabilities:Costco Visa
+
+2018/06/30 Making Waves
+    Expenses:Clothing:Anna              $49.95
+    Expenses:Clothing:Lydia             $44.00
+    Expenses:Sales Tax                   $3.91
+    Liabilities:Costco Visa
+
+2018/07/01 Credit Card Payment
+    Liabilities:Costco Visa           $1800.00
+    Assets:WF Checking
+
+2018/07/01 Credit Card Autopay
+    Liabilities:Costco Visa             $25.00
+    Assets:WF Checking
+
+2018/07/01 Kipu Ranch Tour
+    Expenses:Tips:Other                 $20.00
+    Assets:Cash
+
+2018/07/01 Long's Drugs
+    Expenses:Drugstore                   $8.28
+    Liabilities:Alaska Visa
+
+2018/07/01 Quiksilver
+    Expenses:Clothing:Eric              $24.00
+    Expenses:Clothing:Lydia             $22.00
+    Expenses:Sales Tax                   $1.92
+    Liabilities:Alaska Visa
+
+2018/07/01 Lappert's Ice Cream
+    Expenses:Food:Dessert               $22.75
+    Assets:Cash
+
+2018/07/02 Laundry
+    Expenses:Household:Laundry          $10.00
+    Assets:Cash
+
+2018/07/02 Verizon Wireless
+    Expenses:Communications:Cellular   $127.33
+    Liabilities:Amex Blue
+
+2018/07/02 Netflix
+    Expenses:Entertainment:Netflix       $8.61
+    Liabilities:Costco Visa
+
+2018/07/02 Costco
+    Expenses:Household                 $120.00
+    Liabilities:Costco Visa
+
+2018/07/03 Motorola
+    Expenses:Communications:Cellular   $307.08
+    Liabilities:Alaska Visa
+
+2018/07/03 Big Save Market
+    Expenses:Food:Groceries             $40.89
+    Liabilities:Alaska Visa
+
+2018/07/03 Uncle's Save Ice
+    Expenses:Food:Dessert               $27.29
+    Liabilities:Alaska Visa
+
+2018/07/03 Puka Dog
+    Expenses:Food:Lunch                 $17.07
+    Liabilities:Alaska Visa
+
+2018/07/03 Bubba's Burgers
+    Expenses:Food:Lunch                 $10.84
+    Expenses:Household                   $2.50
+    Expenses:Tips:Food                   $1.00
+    Liabilities:Alaska Visa
+
+2018/07/03 Island Taco
+    Expenses:Food:Lunch                 $23.96
+    Liabilities:Alaska Visa
+
+2018/07/03 Island Taco
+    Expenses:Food:Lunch                  $5.21
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+2018/07/04 Keoki's
+    Expenses:Food:Dinner                $58.33
+    Expenses:Tips:Food                  $10.00
+    Liabilities:Alaska Visa
+
+2018/07/04 Keoki's
+    Expenses:Tips:Other                 $20.00
+    Assets:Cash
+
+2018/07/04 Costco Visa Interest Penalty
+    Expenses:Finance Charge             $11.77
+    Liabilities:Costco Visa
+
+2018/07/05 Kiahuna Staff
+    Expenses:Tips:Travel                $20.00
+    Assets:Cash
+
+2018/07/05 Chase Mortgage
+    Expenses:House                    $1600.00
+    Assets:WF Checking
+
+2018/07/05 Costco Gas
+    Expenses:Gas:Rental Car             $14.54
+    Liabilities:Costco Visa
+
+2018/07/05 Starbuck's
+    Expenses:Food:Breakfast:Angela       $2.60
+    Assets:Cash
+
+2018/07/05 Lihue Airport
+    Expenses:Food:Water                  $5.50
+    Assets:Cash
+
+2018/07/05 Makai Plantation Honolulu Airport
+    Expenses:Food:Lunch                 $45.03
+    Expenses:Tips:Food                   $5.00
+    Liabilities:Alaska Visa
+
+2018/07/05 Dollar Rent A Car
+    Expenses:Travel:Rental Car         $548.17
+    Liabilities:Costco Visa
+
+2018/07/05 Hawaiian Airlines
+    Expenses:Travel:Luggage             $75.00
+    Liabilities:Alaska Visa
+
+2018/07/05 Oakland Airport Parking
+    Expenses:Travel:Parking            $120.00
+    Liabilities:Alaska Visa
+
+2018/07/06 Winco Foods
+    Expenses:Food:Breakfast:Eric         $3.48
+    Assets:Cash
+
+2018/07/06 Work Vending Machine
+    Expenses:Food:Snacks:Eric            $1.50
+    Assets:Cash
+
+2018/07/06 Taco Bell
+    Expenses:Food:Dinner                $17.89
+    Liabilities:Alaska Visa
+
+2018/07/06 Hawkins
+    Expenses:Activities:Dance           $40.00
+    Liabilities:Citibank MC
+
+2018/07/06 Comcast
+    Expenses:Communications:Internet,Home Phone   $51.29
+    Liabilities:Amex Blue
+
+2018/07/07 Cinemark
+    Expenses:Entertainment:Movies       $16.50    ;The Incredibles 2
+    Liabilities:Citibank MC
+
+2018/07/07 Cinemark
+    Expenses:Food:Movies                 $7.35
+    Liabilities:Citibank MC
+
+2018/07/07 Winco Foods
+    Expenses:Food:Groceries             $94.41
+    Assets:WF Checking
+
+2018/07/07 Amazon
+    Expenses:Presents:Other             $25.00
+    Liabilities:Amex Blue
+
+2018/07/07 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/07/07 Folsom Tap House
+    Expenses:Tips:Food                  $22.00
+    Assets:Cash
+
+2018/07/07 Target
+    Expenses:Food:Groceries              $5.92
+    Expenses:Household                  $12.93
+    Expenses:Clothing:Eric              $13.99
+    Expenses:Discounts:Red Card         -$1.65
+    Expenses:Sales Tax                   $1.98
+    Assets:WF Checking
+
+2018/07/07 Vimeo
+    Expenses:Entertainment:Dance        $20.00
+    Liabilities:Costco Visa
+
+2018/07/08 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $5.65
+    Assets:Cash
+
+2018/07/08 Foothills UMC
+    Expenses:Donations                 $120.00 
+    Assets:MSEFCU Checking
+
+2018/07/08 Credit Card Payment
+    Liabilities:Citibank MC            $246.79
+    Assets:WF Checking
+
+2018/07/08 Credit Card Autopay
+    Liabilities:Citibank MC             $25.00
+    Assets:WF Checking
+
+2018/07/08 Credit Card Payment
+    Liabilities:Alaska Visa            $179.98
+    Assets:WF Checking
+
+2018/07/08 Coinstar money
+    Assets:Coinstar                      $9.00
+    Assets:Cash
+
+2018/07/08 Vacation Unknown Cash
+    Expenses:Unknown                    $18.81
+    Assets:Cash
+
+2018/07/08 Volvo Car Money
+    Expenses:Unknown                     $2.30
+    Assets:Car Money:Volvo
+
+2018/07/10 PG&E
+    Expenses:Utilities                  $20.64
+    Assets:WF Checking
+
+2018/07/11 SMUD
+    Expenses:Utilities                  $82.31
+    Assets:WF Checking
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
