@@ -5109,7 +5109,7 @@
 
 2018/03/27 Interest Payment
     Assets:WF Savings                    $0.01
-    Income:Interest:WF Checking
+    Income:Interest:WF Savings
 
 2018/03/28 Amtrak
     Expenses:Travel:Train               $38.00
@@ -7326,6 +7326,10 @@
     Expenses:Entertainment:TV           $54.98
     Liabilities:Amex Blue
     
+2018/06/17 Google Movies
+    Expenses:Entertainment:Movies        $1.49    ;The Incredibles
+    Liabilities:Costco Visa
+
 2018/06/17 Withdrawal
     Assets:Cash                        $200.00
     Assets:WF Checking
@@ -7380,6 +7384,10 @@
     Expenses:Postage                     $5.00
     Assets:WF Checking
 
+2018/06/18 Hawkins
+    Expenses:Activities:Dance           $25.00
+    Liabilities:Citibank MC
+
 2018/06/19 Amazon
     Expenses:Household:Eric             $19.99
     Liabilities:Amex Blue
@@ -7408,6 +7416,10 @@
 2018/06/19 City of Folsom
     Expenses:Utilities                 $110.23
     Liabilities:Amex Blue
+
+2018/06/19 Amazon
+    Expenses:Entertainment:Books        $18.10
+    Liabilities:Citibank MC
 
 2018/06/20 Cap Radio
     Expenses:Donations                  $10.00
@@ -7470,7 +7482,7 @@
     Liabilities:Amex Blue
 
 2018/06/22 Willie's
-    Expenses:Food:Lunch:Eric            $16.87
+    Expenses:Food:Lunch:Eric            $16.49
     Liabilities:Costco Visa
 
 2018/06/22 Target
@@ -7491,7 +7503,7 @@
     Liabilities:Costco Visa
 
 2018/06/22 Sourdough & Company
-    Expenses:Food:Dinner                $16.71
+    Expenses:Food:Dinner                $27.17
     Expenses:Tips:Food                   $2.00
     Assets:Cash                         -$2.00
     Liabilities:Citibank MC
@@ -7523,7 +7535,7 @@
     Income:Gift
 
 2018/06/23 Withdrawal
-    Assets:Cash                        $300.00
+    Assets:Cash                        $400.00
     Assets:WF Checking
 
 2018/06/23 Aerie
@@ -7606,9 +7618,114 @@
     Expenses:Food:Dinner                 $7.28
     Assets:Cash
 
+2018/06/25 Hawaiian Airlines
+    Expenses:Travel:Luggage             $75.00
+    Liabilities:Costco Visa
+
 2018/06/25 Becky Ladine
     Expenses:Presents                   $20.00
     Assets:Cash
+
+2018/06/26 Chevron
+    Expenses:Gas:Prius                  $26.49
+    Liabilities:Costco Visa
+
+2018/06/26 Oakland Airport
+    Expenses:Food:Breakfast             $23.00 
+    Assets:Cash
+    
+2018/06/26 Honolulu Airport - Chow Mein
+    Expenses:Food:Lunch                 $28.76
+    Liabilities:Costco Visa
+
+2018/06/26 Honolulu Airport - Lahaina Chicken
+    Expenses:Food:Lunch                 $13.60
+    Assets:Cash
+
+2018/06/26 Costco
+    Expenses:Drugstore                  $10.99
+    Expenses:Household                   $6.59
+    Expenses:Food:Groceries             $97.30
+    Expenses:Sales Tax                   $4.71
+    Liabilities:Costco Visa
+
+2018/06/26 Safeway
+    Expenses:Food:Groceries             $92.57
+    Liabilities:Costco Visa
+
+2018/06/26 Long's Drugs
+    Expenses:Drugstore                  $34.47
+    Expenses:Food:Groceries              $8.08
+    Expenses:Sales Tax                   $1.77
+    Liabilities:Costco Visa
+
+2018/06/27 Interest Payment
+    Assets:WF Checking                   $0.04
+    Income:Interest:WF Checking
+
+2018/06/27 Interest Payment
+    Assets:WF Savings                    $0.01
+    Income:Interest:WF Savings
+
+2018/06/27 Big Save
+    Expenses:Food:Groceries             $42.99 
+    Expenses:Sales Tax                   $1.79
+    Liabilities:Costco Visa
+
+2018/06/27 AAA Insurance
+    Expenses:Insurance:Home            $108.05
+    Liabilities:Citibank MC
+
+2018/06/28 Amazon
+    Expenses:Presents:Other             $25.00
+    Liabilities:Amex Blue
+
+2018/06/28 Brick Oven Pizza
+    Expenses:Food:Dinner               $194.58
+    Expenses:Tips:Food                  $40.00
+    Assets:Cash                        -$40.00
+    Liabilities:Costco Visa
+
+2018/06/29 Payday
+    Assets:WF Checking                $2899.67
+    Income:Salary:Centene
+
+2018/06/29 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/06/29 Mira Flores
+    Expenses:Food:Wine                  $51.48
+    Liabilities:Amex Blue
+
+2018/06/29 Da Crack
+    Expenses:Food:Lunch                 $33.80
+    Expenses:Tips:Food                   $3.20
+    Assets:Cash
+
+2018/06/29 Acai Bowl
+    Expenses:Food:Lunch                  $9.11
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+2018/06/29 Kukuiula Store
+    Expenses:Food:Water                  $0.99
+    Assets:Cash
+
+2018/06/29 Long's Drugs
+    Expenses:Drugstore                  $24.24
+    Liabilities:Costco Visa
+
+2018/06/29 Long's Drugs
+    Expenses:Household                   $9.01
+    Expenses:Food:Water                  $1.05
+    Assets:Cash
+
+2018/06/29 Kalapaki Joe's
+    Expenses:Food:Dinner                $83.55
+    Expenses:Tips:Food                  $17.00
+    Liabilities:Costco Visa
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
