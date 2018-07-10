@@ -7974,6 +7974,26 @@
     Expenses:Food:Dinner                $15.30
     Assets:Cash
 
+2018/07/09 Amazon
+    Expenses:Presents:Other             $17.00
+    Expenses:Communications:Cellular    $33.87
+    Expenses:Sales Tax                   $3.94
+    Liabilities:Amex Blue
+
+2018/07/09 Amazon
+    Expenses:Presents:Other             $17.00
+    Expenses:Sales Tax                   $1.32
+    Liabilities:Amex Blue
+
+2018/07/09 Costco Gas
+    Expenses:Gas:Prius                  $26.71
+    Liabilities:Costco Visa
+
+2018/07/09 Round Table
+    Expenses:Food:Dinner                $28.90
+    Expenses:Tips:Food                   $3.00
+    Liabilities:Costco Visa
+
 2018/07/10 PG&E
     Expenses:Utilities                  $20.64
     Assets:WF Checking
