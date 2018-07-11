@@ -7994,6 +7994,18 @@
     Expenses:Tips:Food                   $3.00
     Liabilities:Costco Visa
 
+2018/07/10 McDonald's
+    Expenses:Food:Lunch:Eric             $3.23
+    Assets:Cash
+
+2018/07/10 Amazon
+    Expenses:Drugstore                  $42.02
+    Liabilities:Citibank MC
+
+2018/07/10 Hawkins
+    Expenses:Activities:Dance           $35.00
+    Liabilities:Citibank MC
+
 2018/07/10 PG&E
     Expenses:Utilities                  $20.64
     Assets:WF Checking
