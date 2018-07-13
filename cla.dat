@@ -8010,9 +8010,52 @@
     Expenses:Utilities                  $20.64
     Assets:WF Checking
 
+2018/07/10 Payday
+    Assets:MSEFCU Checking             $620.67
+    Income:Salary:FCUSD
+
 2018/07/11 SMUD
     Expenses:Utilities                  $82.31
     Assets:WF Checking
+
+2018/07/11 Teriyaki Station
+    Expenses:Food:Dinner                $21.64
+    Liabilities:Costco Visa
+
+2018/07/11 Fats
+    Expenses:Tips:Food                  $20.00
+    Assets:Cash
+
+2018/07/11 Lululemon
+    Expenses:Presents:Family           $105.11
+    Liabilities:Costco Visa
+
+2018/07/11 See's Candies
+    Expenses:Food:Candy                  $5.79
+    Assets:Cash
+
+2018/07/12 Netflix
+    Expenses:Entertainment:Netflix:Anna   $7.99
+    Liabilities:Citibank MC
+
+2018/07/12 Safeway
+    Expenses:Food:Groceries             $14.68
+    Liabilities:Costco Visa
+
+2018/07/12 Slowtide
+    Expenses:Presents:Family            $15.26
+    Expenses:Presents:Us                $51.21
+    Expenses:Sales Tax                   $4.82
+    Liabilities:Costco Visa
+
+2018/07/13 Payday
+    Assets:WF Checking                $2899.67
+    Income:Salary:Centene
+
+2018/07/13 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
