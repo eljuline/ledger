@@ -4084,6 +4084,10 @@
     Expenses:Gas:Truck                  $40.74
     Liabilities:Costco Visa
 
+2018/02/13 HSA Fee
+    Expenses:Fees                        $1.75
+    Assets:HSA:Connect Your Care
+
 2018/02/14 Geico
     Expenses:Insurance:Auto            $181.34
     Liabilities:Costco Visa
@@ -4109,10 +4113,6 @@
 2018/02/14 American Airlines Seat Selection
     Expenses:Travel:Air                 $63.95
     Liabilities:Alaska Visa
-
-2018/02/14 HSA Fee
-    Expenses:Fees                        $1.75
-    Assets:HSA:Connect Your Care
 
 2018/02/15 Lowe's
     Expenses:Household:Indoors          $10.76
@@ -4747,6 +4747,10 @@
     Expenses:College:Laundry             $2.75
     Liabilities:Citibank MC
 
+2018/03/12 HSA Fee
+    Expenses:Fees                        $1.75
+    Assets:HSA:Connect Your Care
+
 2018/03/13 Dean Jepson
     Expenses:Gambling                   $15.00
     Assets:MSEFCU Checking
@@ -5099,7 +5103,7 @@
     Expenses:Food:Snacks                 $5.00
     Assets:Cash
 
-2018/03/27 Folsom Dermatology
+2018/03/26 Folsom Dermatology
     Expenses:Medical:Anna               $85.00
     Assets:HSA:Connect Your Care
 
@@ -5158,6 +5162,10 @@
 2018/03/28 American Eagle
     Expenses:Clothing:Lydia             $32.27
     Liabilities:Amex Blue
+
+2018/03/29 HSA Interest Payment
+    Assets:HSA:Tri-Ad                    $0.62
+    Income:Interest
 
 2018/03/29 McDonald's 
     Expenses:Food:Lunch:Eric             $1.08
@@ -5302,6 +5310,10 @@
     Expenses:Communications:Cellular   $103.57
     Liabilities:Amex Blue
 
+2018/04/02 HSA Interest Payment
+    Assets:HSA:Connect Your Care         $0.04
+    Income:Interest
+
 2018/04/03 Mira Flores
     Expenses:Food:Wine                  $54.91
     Liabilities:Amex Blue
@@ -5330,6 +5342,10 @@
     Expenses:Activities:Piano          $125.00
     Assets:MSEFCU Checking
 
+2018/04/04 HSA Paper Statement Fee
+    Expenses:Fees                        $1.50
+    Assets:HSA:Connect Your Care
+
 2018/04/05 McDonald's
     Expenses:Food:Lunch:Eric             $3.00
     Assets:Cash
@@ -5345,6 +5361,10 @@
 2018/04/05 Chase Mortgage
     Expenses:House                    $1600.00
     Assets:WF Checking
+
+2018/04/05 HSA Fee
+    Expenses:Fees                        $5.00
+    Assets:HSA:Tri-Ad
 
 2018/04/06 Comcast
     Expenses:Communications:Internet,Home Phone   $51.33
@@ -5479,6 +5499,10 @@
 2018/04/10 Amazon
     Expenses:College:Supplies           $10.89
     Liabilities:Citibank MC
+
+2018/04/10 HSA Fee
+    Expenses:Fees                        $1.75
+    Assets:HSA:Connect Your Care
 
 2018/04/11 SMUD
     Expenses:Utilities                  $84.16
@@ -5699,6 +5723,10 @@
     Expenses:Gas:Prius                  $27.10
     Liabilities:Citibank MC
 
+2018/04/17 Allure Pharmacy
+    Expenses:Medical:Anna               $75.00
+    Assets:HSA:Connect Your Care
+
 2018/04/18 Boys' Volleyball vs Del Oro
     Expenses:Entertainment:Athletics     $6.00
     Assets:Cash
@@ -5722,6 +5750,10 @@
 2018/04/19 Winco Foods
     Expenses:Food:Groceries             $14.67
     Assets:WF Checking
+
+2018/04/19 Allure Pharmacy
+    Expenses:Medical:Anna               $40.00
+    Assets:HSA:Connect Your Care
 
 2018/04/20 Payday
     Assets:WF Checking                $2899.67
@@ -5962,6 +5994,10 @@
     Expenses:Food:Groceries             $61.83
     Assets:WF Checking
 
+2018/04/30 HSA Interest Payment
+    Assets:HSA:Tri-Ad                    $0.60
+    Income:Interest
+
 2018/05/01 Credit Card Payment
     Liabilities:Costco Visa           $2284.19
     Assets:WF Checking
@@ -6027,6 +6063,10 @@
 2018/05/02 Jane
     Liabilities:Costco Visa             $26.48
     Expenses:Clothing:Lydia
+
+2018/05/02 HSA Interest Payment
+    Assets:HSA:Connect Your Care         $0.06
+    Income:Interest
 
 2018/05/03 Rite Aid
     Expenses:Presents                    $1.99
@@ -6108,6 +6148,10 @@
 2018/05/05 DMV
     Expenses:Household                  $35.00
     Assets:MSEFCU Checking
+
+2018/05/05 HSA Fee
+    Expenses:Fees                        $5.00
+    Assets:HSA:Tri-Ad
 
 2018/05/06 Baker's Dozen Donuts
     Expenses:Food:Breakfast              $4.65
@@ -6264,6 +6308,10 @@
 2018/05/10 Not Too Shabby
     Expenses:Presents                   $21.44
     Assets:Cash
+
+2018/05/10 HSA Fee
+    Expenses:Fees                        $1.75
+    Assets:HSA:Connect Your Care
 
 2018/05/11 Wendy's
     Expenses:Food:Lunch:Eric             $5.41
@@ -6560,6 +6608,14 @@
     Expenses:Gas:Truck                  $78.18
     Liabilities:Costco Visa
 
+2018/05/21 Folsom Dermatology
+    Expenses:Medical:Lydia              $31.98
+    Assets:HSA:Connect Your Care
+
+2018/05/21 Folsom Dermatology
+    Expenses:Medical:Lydia              $50.00
+    Assets:HSA:Connect Your Care
+
 2018/05/22 Work Vending Machine
     Expenses:Food:Snacks:Eric            $2.25
     Assets:Cash
@@ -6790,6 +6846,10 @@
     Expenses:Household                  $24.63
     Liabilities:Amex Blue
 
+2018/05/31 HSA Interest Payment
+    Assets:HSA:Tri-Ad                    $0.62
+    Income:Interest
+
 2018/06/01 Payday
     Assets:WF Checking                $2899.66
     Income:Salary:Centene
@@ -6878,6 +6938,10 @@
 2018/06/03 iTunes
     Expenses:Entertainment:Music         $1.24
     Assets:WF Checking
+
+2018/06/03 HSA Interest Payment
+    Assets:HSA:Connect Your Care         $0.08
+    Income:Interest
 
 2018/06/04 Stitch Fix
     Expenses:Clothing:Angela            $20.00
@@ -6969,6 +7033,10 @@
     Expenses:Dental:Angela             $682.40
     Assets:HSA:Connect Your Care
 
+2018/06/05 HSA Fee
+    Expenses:Fees                        $5.00
+    Assets:HSA:Tri-Ad
+
 2018/06/06 Comcast
     Expenses:Communications:Internet,Home Phone   $51.29
     Liabilities:Amex Blue
@@ -7043,6 +7111,10 @@
     Expenses:Utilities                  $29.86
     Assets:WF Checking
 
+2018/06/08 HSA Fee
+    Expenses:Fees                        $1.75
+    Assets:HSA:Connect Your Care
+
 2018/06/09 Costco Gas
     Expenses:Gas:Prius                  $23.60
     Liabilities:Costco Visa
@@ -7058,7 +7130,7 @@
     Assets:Cash
 
 2018/06/09 Macy's
-    Expenses:Clothing:Angela            $24.13
+    Expenses:Clothing:Angela            $24.12
     Liabilities:Macy's
 
 2018/06/09 Zara
@@ -7735,6 +7807,10 @@
     Expenses:Tips:Food                  $17.00
     Liabilities:Costco Visa
 
+2018/06/29 HSA Interest Payment
+    Assets:HSA:Tri-Ad                    $0.60
+    Income:Interest
+
 2018/06/30 Sand People
     Expenses:Presents:Family            $47.00
     Expenses:Presents:Us                $17.00
@@ -7789,6 +7865,10 @@
     Expenses:Household                 $120.00
     Liabilities:Costco Visa
 
+2018/07/02 HSA Interest Payment
+    Assets:HSA:Connect Your Care         $0.06
+    Income:Interest
+
 2018/07/03 Motorola
     Expenses:Communications:Cellular   $307.08
     Liabilities:Alaska Visa
@@ -7833,6 +7913,10 @@
     Expenses:Finance Charge             $11.77
     Liabilities:Costco Visa
 
+2018/07/04 HSA Paper Statement Fee
+    Expenses:Fees                        $1.50
+    Assets:HSA:Connect Your Care
+
 2018/07/05 Kiahuna Staff
     Expenses:Tips:Travel                $20.00
     Assets:Cash
@@ -7869,6 +7953,10 @@
 2018/07/05 Oakland Airport Parking
     Expenses:Travel:Parking            $120.00
     Liabilities:Alaska Visa
+
+2018/07/05 HSA Fee
+    Expenses:Fees                        $5.00
+    Assets:HSA:Tri-Ad
 
 2018/07/06 Winco Foods
     Expenses:Food:Breakfast:Eric         $3.48
@@ -7991,8 +8079,8 @@
 
 2018/07/09 Round Table
     Expenses:Food:Dinner                $28.90
-    Expenses:Tips:Food                   $3.00
     Liabilities:Costco Visa
+;    Expenses:Tips:Food                   $3.00
 
 2018/07/10 McDonald's
     Expenses:Food:Lunch:Eric             $3.23
@@ -8013,6 +8101,10 @@
 2018/07/10 Payday
     Assets:MSEFCU Checking             $620.67
     Income:Salary:FCUSD
+
+2018/07/10 HSA Fee
+    Expenses:Fees                        $1.75
+    Assets:HSA:Connect Your Care
 
 2018/07/11 SMUD
     Expenses:Utilities                  $82.31
@@ -8049,13 +8141,247 @@
     Liabilities:Costco Visa
 
 2018/07/13 Payday
-    Assets:WF Checking                $2899.67
+    Assets:WF Checking                $2985.95
     Income:Salary:Centene
 
 2018/07/13 Deposit
     Assets:HSA:Connect Your Care      $230.77
     Income:Benefits:Centene            -$76.92
     Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/07/13 David Witkowski
+    Expenses:Activities:Saxophone      $110.00
+    Assets:MSEFCU Checking
+
+2018/07/14 Willie's
+    Expenses:Food:Lunch                 $35.05
+    Expenses:Tips:Food                   $3.00
+    Assets:Cash                         -$3.00
+    Liabilities:Costco Visa
+
+2018/07/14 Warby Parker
+    Expenses:Clothing:Angela           $102.85
+    Liabilities:Costco Visa
+
+2018/07/14 City of Sacramento Parking
+    Expenses:Travel:Parking              $1.75
+    Liabilities:Costco Visa
+
+2018/07/14 Geico
+    Expenses:Insurance:Auto            $178.70
+    Liabilities:Costco Visa
+
+2018/07/14 Petsmart
+    Expenses:Pets                       $14.00
+    Liabilities:Amex Blue
+
+2018/07/14 Amazon
+    Expenses:Presents:Friends           $50.00
+    Liabilities:Amex Blue
+
+2018/07/14 Bed Bath & Beyond
+    Expenses:Household:Indoors          $17.23
+    Liabilities:Citibank MC
+
+2018/07/15 Amazon
+    Expenses:Household                   $7.98
+    Liabilities:Amex Blue
+
+2018/07/15 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $6.65
+    Assets:Cash
+
+2018/07/15 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/07/15 Costco Gas
+    Expenses:Gas:Volvo                  $37.50
+    Liabilities:Costco Visa
+
+2018/07/16 Costco Gas
+    Expenses:Gas:Volvo                  $29.99
+    Liabilities:Costco Visa
+
+2018/07/15 Farm Fresh to You
+    Expenses:Food:Groceries             $31.18
+    Liabilities:Costco Visa
+
+2018/07/15 Macy's Credit Card Payment
+    Liabilities:Macy's                  $88.37
+    Assets:MSEFCU Checking
+
+2018/07/16 Safeway
+    Expenses:Food:Groceries             $27.07
+    Liabilities:Costco Visa
+
+2018/07/16 Winco Foods
+    Expenses:Food:Groceries             $65.77
+    Assets:WF Checking
+
+2018/07/16 Sling TV
+    Expenses:Entertainment:TV           $54.98
+    Liabilities:Amex Blue
+
+2018/07/16 Sophia Hee
+    Expenses:Clothing:Lydia             $73.58
+    Expenses:Drugstore                  $11.42
+    Assets:MSEFCU Checking
+
+2018/07/17 Work Vending Machine
+    Expenses:Food:Snacks:Eric            $1.00
+    Assets:Cash
+
+2018/07/17 Trader Joe's
+    Expenses:Food:Groceries             $36.07
+    Liabilities:Costco Visa
+
+2018/07/17 Sheet Music Direct
+    Expenses:Entertainment:Music         $3.99
+    Liabilities:Citibank MC
+
+2018/07/18 Work Vending Machine
+    Expenses:Food:Snacks:Eric            $1.00
+    Assets:Cash
+
+2018/07/18 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/07/18 Kathy Copeland
+    Expenses:Activities:Piano           $25.00
+    Assets:MSEFCU Checking
+
+2018/07/18 Target
+    Expenses:Clothing:Lydia             $22.48
+    Expenses:Clothing:Anna              $36.99
+    Expenses:Clothing:Nobody            $15.00
+    Expenses:Food:Groceries              $3.37
+    Expenses:Drugstore                  $13.27
+    Expenses:Discounts:Bag              -$0.10
+    Expenses:Discounts:Red Card         -$4.55
+    Expenses:Sales Tax                   $6.45
+    Assets:WF Checking
+
+2018/07/18 Cotton:On
+    Expenses:Clothing:Lydia             $11.43
+    Expenses:Clothing:Angela             $8.57
+    Expenses:Sales Tax                   $1.45
+    Liabilities:Citibank MC
+
+2018/07/18 Macy's
+    Expenses:Presents:Family            $44.24
+    Liabilities:Macy's
+
+2018/07/18 Hawkins
+    Expenses:Activities:Dance           $15.00
+    Liabilities:Citibank MC
+
+2018/07/18 Amazon
+    Expenses:Household                  $11.49
+    Liabilities:Amex Blue
+
+2018/07/18 Amazon
+    Expenses:Drugstore                  $12.41
+    Liabilities:Amex Blue
+
+2018/07/19 Apple Online Store
+    Expenses:Communications:Cellular   $637.07
+    Liabilities:Citibank MC
+
+2018/07/19 Jamba Juice
+    Expenses:Food:Lunch                 $12.00
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+2018/07/19 Bed Bath & Beyond
+    Expenses:Drugstore                  $15.93
+    Assets:Cash
+
+2018/07/19 Cost Plus World Market
+    Expenses:Presents:Other              $6.02
+    Assets:Cash
+
+2018/07/19 Amazon
+    Expenses:Household                   $8.57
+    Liabilities:Citibank MC
+
+2018/07/19 Walgreen's
+    Expenses:Household                  $14.85
+    Expenses:Food:Snacks                 $1.49
+    Expenses:Sales Tax                   $1.15
+    Liabilities:Costco Visa
+
+2018/07/19 Walmart
+    Expenses:Drugstore                   $9.67
+    Liabilities:Costco Visa
+
+2018/07/20 Costco Gas
+    Expenses:Gas:Prius                  $25.27
+    Liabilities:Costco Visa
+
+2018/07/20 La Fiesta
+    Expenses:Food:Dinner                $35.07
+    Expenses:Tips:Food                   $4.00
+    Assets:Cash
+
+2018/07/20 Deposit
+    Assets:WF Checking                 $548.17
+    Income:Gift
+
+2018/07/20 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/07/20 Ultra Mobile
+    Expenses:Communications:Cellular    $30.44
+    Liabilities:Amex Blue
+
+2018/07/21 SP*Applebiotic
+    Expenses:Drugstore                  $30.00
+    Liabilities:Costco Visa
+
+2018/07/21 Sacramento Airport Parking
+    Expenses:Travel:Parking              $8.00
+    Liabilities:Costco Visa
+
+2018/07/21 In-N-Out
+    Expenses:Food:Lunch                 $15.32
+    Assets:Cash
+
+2018/07/21 Alfonso's
+    Expenses:Food:Dinner                $59.66
+    Expenses:Tips:Food                  $13.00
+    Assets:Cash                        -$13.00
+    Liabilities:Citibank MC
+
+2018/07/22 The Donut Shop
+    Expenses:Food:Breakfast              $7.38
+    Assets:Cash
+
+2018/07/22 The Great American Bake Sale
+    Expenses:Food:Dessert               $35.00
+    Assets:MSEFCU Checking
+
+2018/07/22 Foothills UMC
+    Expenses:Donations                  $40.00
+    Assets:MSEFCU Checking
+
+2018/07/22 The Great American Bake Sale
+    Expenses:Food:Dessert                $5.00
+    Assets:Cash
+
+2018/07/22 Whole Foods
+    Expenses:Food:Dinner:Angela          $4.23
+    Assets:Cash
+
+2018/07/16 Cash for Anna - For while at work
+    Expenses:Unknown                    $20.00
+    Assets:Cash
+
+2018/07/20 Cash for Lydia - For at Bruin Woods
+    Expenses:Unknown                    $60.00
+    Assets:Cash
 
 2018/06/16 MSEFCU Dividend
     Assets:MSEFCU Savings                $0.97
