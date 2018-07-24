@@ -8379,6 +8379,18 @@
     Expenses:Food:Dinner:Angela          $4.23
     Assets:Cash
 
+2018/07/23 Work Vending Maching
+    Expenses:Food:Snacks:Eric            $1.50
+    Assets:Cash
+
+2018/07/23 Anna Phone Contribution
+    Assets:Cash                        $300.00
+    Income:Gift
+
+2018/07/23 Winco Foods
+    Expenses:Food:Groceries             $52.24
+    Assets:WF Checking
+
 2018/07/16 Cash for Anna - For while at work
     Expenses:Unknown                    $20.00
     Assets:Cash
