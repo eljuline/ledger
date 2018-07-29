@@ -8460,7 +8460,6 @@
     Expenses:Entertainment:Parks        $15.00
     Expenses:Travel:Parking             $15.00
     Expenses:Food:Lunch:Anna            $22.00
-    Expenses:Unknown                     $8.00
     Assets:Cash
 
 2018/07/27 Ulta
@@ -8509,6 +8508,14 @@
 
 2018/07/29 Costco Gas
     Expenses:Gas:Volvo                  $42.50
+    Liabilities:Costco Visa
+
+2018/07/29 Safeway
+    Expenses:Food:Groceries             $27.85
+    Liabilities:Citibank MC
+
+2018/07/29 23andme
+    Expenses:Presents:Family            $78.95
     Liabilities:Costco Visa
 
 2018/07/16 Cash for Anna - For while at work
