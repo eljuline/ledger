@@ -7401,6 +7401,14 @@
 2018/06/16 Sling TV
     Expenses:Entertainment:TV           $54.98
     Liabilities:Amex Blue
+
+2018/06/16 MSEFCU Dividend
+    Assets:MSEFCU Savings                $0.97
+    Income:Interest:MSEFCU Savings
+
+2018/06/16 Transfer
+    Assets:MSEFCU Savings              $500.00
+    Assets:MSEFCU Checking
     
 2018/06/17 Google Movies
     Expenses:Entertainment:Movies        $1.49    ;The Incredibles
@@ -8236,6 +8244,10 @@
     Expenses:Drugstore                  $11.42
     Assets:MSEFCU Checking
 
+2018/07/16 Cash for Anna - For while at work
+    Expenses:Unknown                    $20.00
+    Assets:Cash
+
 2018/07/17 Work Vending Machine
     Expenses:Food:Snacks:Eric            $1.00
     Assets:Cash
@@ -8344,6 +8356,12 @@
 2018/07/20 Ultra Mobile
     Expenses:Communications:Cellular    $30.44
     Liabilities:Amex Blue
+
+2018/07/20 Cash for Lydia - For at Bruin Woods
+    Expenses:Food:Snacks:Lydia          $10.00
+    Expenses:Clothing:Lydia             $20.00
+    Expenses:Unknown                    $30.00
+    Assets:Cash
 
 2018/07/21 SP*Applebiotic
     Expenses:Drugstore                  $30.00
@@ -8595,26 +8613,16 @@
     Expenses:Food:Movies                 $7.35
     Assets:Cash
 
-2018/07/16 Cash for Anna - For while at work
-    Expenses:Unknown                    $20.00
-    Assets:Cash
+2018/08/01 Credit Card Payment
+    Liabilities:Costco Visa           $2416.05
+    Assets:WF Checking
 
-2018/07/20 Cash for Lydia - For at Bruin Woods
-    Expenses:Food:Snacks:Lydia          $10.00
-    Expenses:Clothing:Lydia             $20.00
-    Expenses:Unknown                    $30.00
-    Assets:Cash
+2018/08/01 Credit Card Autopay
+    Liabilities:Costco Visa             $25.00
+    Assets:WF Checking
 
-2018/06/16 MSEFCU Dividend
-    Assets:MSEFCU Savings                $0.97
-    Income:Interest:MSEFCU Savings
-
-2018/06/16 Transfer
-    Assets:MSEFCU Savings              $500.00
-    Assets:MSEFCU Checking
-
-2018/08/01 Adjustment
-    Assets:Cash                      = $198.00
+2018/08/03 Adjustment
+    Assets:Cash                      = $131.00
     Equity:Adjustments
 
 2018/08/05 Chase Mortgage
