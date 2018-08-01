@@ -8522,6 +8522,10 @@
     Expenses:Gas:Volvo                  $42.50
     Liabilities:Costco Visa
 
+2018/07/29 Foothills UMC
+    Expenses:Donations                  $20.00
+    Assets:MSEFCU Checking
+
 2018/07/29 Safeway
     Expenses:Food:Groceries             $27.85
     Liabilities:Citibank MC
@@ -8549,12 +8553,56 @@
     Expenses:Insurance:Home            $107.91
     Liabilities:Citibank MC
 
+2018/07/29 Amazon
+    Expenses:Presents:Friends           $16.11
+    Liabilities:Amex Blue
+
+2018/07/30 Winco Foods
+    Expenses:Food:Groceries             $70.10
+    Expenses:Sales Tax                   $0.97
+    Assets:WF Checking
+
+2018/07/30 Round Table
+    Expenses:Food:Dinner                $26.40
+    Liabilities:Costco Visa
+
+2018/07/31 Purple Place
+    Expenses:Food:Breakfast:Angela      $37.50
+    Expenses:Tips:Food                   $8.00
+    Assets:Cash
+
+2018/07/31 Work Vending Machine
+    Expenses:Food:Snacks:Eric            $1.00
+    Assets:Cash
+
+2018/07/31 Transfer for Orthodontist
+    Assets:MSEFCU Checking            $5000.00
+    Assets:MSEFCU Savings
+
+2018/07/31 Raley's
+    Expenses:Food:Groceries             $44.19
+    Liabilities:Costco Visa
+
+2018/07/31 Walgreen's
+    Expenses:Presents:Family             $3.56
+    Assets:Cash
+
+2018/07/31 Cinemark
+    Expenses:Entertainment:Movies       $10.00    ;Ant Man and the Wasp
+    Assets:Cash
+
+2018/07/31 Cinemark
+    Expenses:Food:Movies                 $7.35
+    Assets:Cash
+
 2018/07/16 Cash for Anna - For while at work
     Expenses:Unknown                    $20.00
     Assets:Cash
 
 2018/07/20 Cash for Lydia - For at Bruin Woods
-    Expenses:Unknown                    $60.00
+    Expenses:Food:Snacks:Lydia          $10.00
+    Expenses:Clothing:Lydia             $20.00
+    Expenses:Unknown                    $30.00
     Assets:Cash
 
 2018/06/16 MSEFCU Dividend
