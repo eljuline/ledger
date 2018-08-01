@@ -8575,6 +8575,10 @@
     Expenses:Presents:Friends           $16.11
     Liabilities:Amex Blue
 
+2018/07/29 HSA Interest Payment
+    Assets:HSA:Tri-Ad                    $0.62
+    Income:Interest
+
 2018/07/30 Winco Foods
     Expenses:Food:Groceries             $70.10
     Expenses:Sales Tax                   $0.97
@@ -8606,7 +8610,7 @@
     Assets:Cash
 
 2018/07/31 Cinemark
-    Expenses:Entertainment:Movies       $10.00    ;Ant Man and the Wasp
+    Expenses:Entertainment:Movies       $10.00    ;Ant-Man and the Wasp
     Assets:Cash
 
 2018/07/31 Cinemark
@@ -8619,6 +8623,10 @@
 
 2018/08/01 Credit Card Autopay
     Liabilities:Costco Visa             $25.00
+    Assets:WF Checking
+
+2018/08/01 HSA Withdrawal for Orthodontist
+    Assets:HSA:Tri-Ad                 $4274.96
     Assets:WF Checking
 
 2018/08/03 Adjustment
