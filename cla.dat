@@ -8598,7 +8598,7 @@
     Assets:Cash
 
 2018/07/31 Transfer for Orthodontist
-    Assets:MSEFCU Checking            $5000.00
+    Assets:MSEFCU Checking            $5300.00
     Assets:MSEFCU Savings
 
 2018/07/31 Poidmore Orthodontics
@@ -8799,6 +8799,14 @@
     Expenses:Household:School           $15.00
     Expenses:Sales Tax                   $1.16
     Liabilities:Amex Blue
+
+2018/08/06 Comcast
+    Expenses:Communications:Internet,Home Phone   $51.29
+    Liabilities:Amex Blue
+
+2018/08/06 Taco Bell
+    Expenses:Food:Lunch:Eric             $5.39
+    Assets:Cash
 
 2018/08/07 HSA Withdrawal for Orthodontist
     Assets:WF Checking                $4274.96
