@@ -8808,11 +8808,34 @@
     Expenses:Food:Lunch:Eric             $5.39
     Assets:Cash
 
-2018/08/07 HSA Withdrawal for Orthodontist
+2018/08/06 Raley's
+    Expenses:Food:Groceries             $39.23
+    Assets:WF Checking
+
+2018/08/06 Winco Foods
+    Expenses:Food:Groceries             $47.62
+    Expenses:Sales Tax                   $0.68
+    Assets:WF Checking
+
+2018/08/06 Lush
+    Expenses:Drugstore                  $32.12
+    Liabilities:Citibank MC
+
+2018/08/06 See's Candies
+    Expenses:Food:Candy                  $7.59
+    Liabilities:Citibank MC
+
+2018/08/07 FasTrak
+    Expenses:Travel:Tolls               $25.00
+    Liabilities:Costco Visa
+
+
+
+2018/08/08 HSA Withdrawal for Orthodontist
     Assets:WF Checking                $4274.96
     Assets:HSA:Tri-Ad
 
-2018/08/07 Adjustment
+2018/08/08 Adjustment
     Assets:Cash                       = $172.00
     Equity:Adjustments
 
