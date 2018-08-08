@@ -8390,7 +8390,7 @@
     Assets:MSEFCU Checking
 
 2018/07/22 Foothills UMC
-    Expenses:Donations                  $40.00
+    Expenses:Donations:Deductible       $40.00
     Assets:MSEFCU Checking
 
 2018/07/22 The Great American Bake Sale
@@ -8541,7 +8541,7 @@
     Liabilities:Costco Visa
 
 2018/07/29 Foothills UMC
-    Expenses:Donations                  $20.00
+    Expenses:Donations:Deductible       $20.00
     Assets:MSEFCU Checking
 
 2018/07/29 Safeway
@@ -8718,11 +8718,11 @@
 
 2018/08/04 Safeway
     Expenses:Food:Groceries             $15.76
-    Assets:Cash
+    Liabilities:Citibank MC
 
 2018/08/04 Raley's 
     Expenses:Food:Groceries              $3.12
-    Liabilities:Citibank MC
+    Liabilities:Alaska Visa
 
 2018/08/04 Lowe's
     Expenses:Presents:Friends           $10.23
@@ -8800,6 +8800,10 @@
     Expenses:Sales Tax                   $1.16
     Liabilities:Amex Blue
 
+2018/08/05 Present for Mom
+    Expenses:Presents:Family            $50.00
+    Assets:Cash
+
 2018/08/06 Comcast
     Expenses:Communications:Internet,Home Phone   $51.29
     Liabilities:Amex Blue
@@ -8810,7 +8814,7 @@
 
 2018/08/06 Raley's
     Expenses:Food:Groceries             $39.23
-    Assets:WF Checking
+    Liabilities:Citibank MC
 
 2018/08/06 Winco Foods
     Expenses:Food:Groceries             $47.62
@@ -8825,6 +8829,30 @@
     Expenses:Food:Candy                  $7.59
     Liabilities:Citibank MC
 
+2018/08/06 Folsom High School PTSA - Fundraiser
+    Expenses:Donations:Deductible      $100.00
+    Assets:MSEFCU Checking
+
+2018/08/06 Folsom High School Yearbook
+    Expenses:Entertainment:Books        $90.00
+    Assets:MSEFCU Checking
+
+2018/08/06 Folsom High School PTSA - Membership
+    Expenses:Donations:Non-deductible   $20.00
+    Assets:MSEFU Checking
+
+2018/08/06 FHS Cow Pie Bingo
+    Expenses:Donations:Deductible       $20.00
+    Assets:Cash
+
+2018/08/06 USPS
+    Expenses:Postage                    $20.20
+    Assets:Cash
+
+2018/08/06 The Cobbler
+    Expenses:Clothing:Angela            $16.00
+    Assets:Cash
+
 2018/08/07 FasTrak
     Expenses:Travel:Tolls               $25.00
     Liabilities:Costco Visa
@@ -8833,15 +8861,26 @@
     Expenses:Food:Snacks:Eric            $1.25
     Assets:Cash
 
+2018/08/07 Safeway
+    Expenses:Food:Groceries             $17.24
+    Liabilities:Costco Visa
 
+2018/08/07 Lowe's
+    Expenses:Household:Inside            $4.76
+    Expenses:Sales Tax                   $0.37
+    Liabilities:Alaska Visa
 
-2018/08/08 HSA Withdrawal for Orthodontist
-    Assets:WF Checking                $4274.96
-    Assets:HSA:Tri-Ad
+2018/08/08 Credit Card Payment
+    Liabilities:Alaska Visa            $700.00
+    Assets:WF Checking
 
-2018/08/08 Adjustment
-    Assets:Cash                       = $172.00
-    Equity:Adjustments
+2018/08/08 Credit Card Autopay
+    Liabilities:Citibank MC             $25.00
+    Assets:WF Checking
+
+2018/08/08 Credit Card Payment
+    Liabilities:Citibank MC            $842.37
+    Assets:WF Checking
 
 2018/08/09 SMUD
     Expenses:Utilities                 $119.26
@@ -8850,6 +8889,15 @@
 2018/08/09 PG&E
     Expenses:Utilities                  $16.10
     Assets:WF Checking
+
+2018/08/11 HSA Withdrawal for Orthodontist
+    Assets:WF Checking                $4274.96
+    Assets:HSA:Tri-Ad
+
+2018/08/11 Adjustment
+    Assets:Cash                       = $75.00
+    Equity:Adjustments
+
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
