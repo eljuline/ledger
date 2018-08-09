@@ -8882,6 +8882,15 @@
     Liabilities:Citibank MC            $842.37
     Assets:WF Checking
 
+2018/08/08 McDonald's
+    Expenses:Food:Lunch:Eric             $1.79
+    Expenses:Sales Tax                   $0.14
+    Assets:Cash
+
+2018/08/08 Fabletics
+    Expenses:Clothing:Angela            $49.95
+    Liabilities:Costco Visa
+
 2018/08/09 SMUD
     Expenses:Utilities                 $119.26
     Assets:WF Checking
