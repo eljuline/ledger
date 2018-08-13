@@ -8891,6 +8891,10 @@
     Expenses:Clothing:Angela            $49.95
     Liabilities:Costco Visa
 
+2018/08/08 Haircut - Jamee Neumann
+    Expenses:Cosmetics:Haircut:Angela  $150.00
+    Assets:MSEFCU Checking
+
 2018/08/09 SMUD
     Expenses:Utilities                 $119.26
     Assets:WF Checking
@@ -8899,12 +8903,145 @@
     Expenses:Utilities                  $16.10
     Assets:WF Checking
 
-2018/08/11 HSA Withdrawal for Orthodontist
-    Assets:WF Checking                $4274.96
+2018/08/09 J Crew Outlet
+    Expenses:Clothing:Angela            $14.95
+    Expenses:Clothing:Anna             ($17.48+$23.70)
+    Expenses:Clothing:Eric              $14.98
+    Expenses:Clothing:Lydia            ($23.70+$17.48+$19.80+$49.95)
+    Expenses:Sales Tax                  $14.80
+    Liabilities:Citibank MC
+
+2018/08/09 7 For All Mankind
+    Expenses:Clothing:Anna              $98.54
+    Expenses:Sales Tax                   $8.01
+    Liabilities:Citibank MC
+
+2018/08/09 Abercrombie & Fitch
+    Expenses:Clothing:Lydia             $19.95
+    Expenses:Sales Tax                   $1.62
+    Expenses:Donations:Deductible        $0.43
+    Liabilities:Citibank MC
+
+2018/08/09 Chili's
+    Expenses:Food:Lunch                 $62.26
+    Liabilities:Citibank MC
+
+2018/08/09 Edward R. Marszal En
+    Expenses:Gas:Volvo                  $19.02
+    Liabilities:Citibank MC
+
+2018/08/09 Cotton On
+    Expenses:Clothing:Anna              $27.00
+    Expenses:Clothing:Lydia             $22.00
+    Expenses:Sales Tax                   $3.98
+    Liabilities:Citibank MC
+
+2018/08/09 Grad Guard
+    Expenses:Insurance:College         $184.00
+    Liabilities:Citibank MC
+
+2018/08/10 Payday
+    Assets:WF Checking                $2985.95
+    Income:Salary:Centene
+
+2018/08/10 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/08/10 Smashburger
+    Expenses:Food:Dinner                $51.54
+    Expenses:Sales Tax                   $3.99
+    Liabilities:Costco Visa
+
+2018/08/10 Costco Gas
+    Expenses:Gas:Prius                  $25.18
+    Liabilities:Costco Visa
+
+2018/08/10 Payday
+    Assets:MSEFCU Checking            $1482.22
+    Income:Salary:FCUSD
+
+2018/08/10 Transfer
+    Assets:MSEFCU Savings              $519.52
+    Assets:MSEFCU Checking
+
+2018/08/10 Withdrawal
+    Assets:Cash                        $200.00
+    Assets:WF Checking
+
+2018/08/11 Steiner Road Wine Tasting
+    Expenses:Entertainment:Wine Tasting   $40.00
+    Assets:Cash
+
+2018/08/11 Iron Hub Winery
+    Expenses:Food:Wine                  $28.00
+    Expenses:Sales Tax                   $1.23
+    Liabilities:Citibank MC
+
+2018/08/11 Deaver Vineyards
+    Expenses:Food:Wine                  $17.00
+    Expenses:Food:Dessert               $10.50
+    Expenses:Sales Tax                   $1.23
+    Liabilities:Citibank MC
+
+2018/08/11 Deli
+    Expenses:Food:Snacks                 $1.00
+    Expenses:Food:Dessert                $9.00
+    Assets:Cash
+
+2018/08/11 Taco Bell
+    Expenses:Food:Dinner                $15.44
+    Expenses:Sales Tax                   $1.20
+    Assets:Cash
+
+2018/08/11 Target
+    Expenses:Food:Groceries             $10.00
+    Expenses:Drugstore                  $15.00
+    Expenses:Household:School           $15.00
+    Expenses:Presents:Other             $10.00
+    Expenses:Discounts:Bag              -$0.10
+    Expenses:Discounts:Red Card         -$3.00
+    Expenses:Sales Tax                   $4.00
+    Assets:WF Checking
+
+2018/08/12 BJ Cinnamon
+    Expenses:Food:Breakfast              $8.00
+    Expenses:Tips:Food                   $1.00
+    Assets:Cash
+
+2018/08/12 Netflix
+    Expenses:Entertainment:Netflix:Anna   $7.99
+    Liabilities:Citibank MC
+
+2018/08/12 Foothills UMC
+    Expenses:Donations:Deductible       $40.00
+    Assets:MSEFCU Checking
+
+2018/08/12 Transfer Coinstar money
+    Assets:Coinstar                     $13.07
+    Assets:Cash
+
+2018/07/31 MSEFCU Dividend
+    Assets:MSEFCU Savings                $0.91
+    Income:Interest:MSEFCU Savings
+
+2018/08/12 Trader Joe's
+    Expenses:Food:Groceries             $60.31
+    Expenses:Sales Tax                   $0.32
+    Liabilities:Citibank MC
+
+2018/08/12 Winco Foods
+    Expenses:Food:Groceries             $65.79
+    Expenses:Sales Tax                   $1.89
+    Assets:WF Checking
+
+2018/08/14 HSA Withdrawal for Orthodontist
+    Assets:G1 Checking                $4274.96
     Assets:HSA:Tri-Ad
 
-2018/08/11 Adjustment
-    Assets:Cash                       = $75.00
+2018/08/14 Adjustment
+    Assets:Cash                      = $207.00
     Equity:Adjustments
 
 
