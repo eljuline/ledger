@@ -9036,11 +9036,28 @@
     Expenses:Sales Tax                   $1.89
     Assets:WF Checking
 
-2018/08/14 HSA Withdrawal for Orthodontist
+2018/08/13 Safeway
+    Expenses:Food:Groceries             $32.46
+    Liabilities:Costco Visa
+
+2018/08/13 Petsmart
+    Expenses:Pets                       $25.98
+    Expenses:Sales Tax                   $2.01
+    Liabilities:Citibank MC
+
+2018/08/13 Costco Gas
+    Expenses:Gas:Volvo                  $39.41
+    Liabilities:Costco Visa
+
+2018/08/14 Geico
+    Expenses:Insurance:Auto            $193.79
+    Liabilities:Costco Visa
+ 
+2018/08/16 HSA Withdrawal for Orthodontist
     Assets:G1 Checking                $4274.96
     Assets:HSA:Tri-Ad
 
-2018/08/14 Adjustment
+2018/08/16 Adjustment
     Assets:Cash                      = $207.00
     Equity:Adjustments
 
