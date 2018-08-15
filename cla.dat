@@ -9052,7 +9052,22 @@
 2018/08/14 Geico
     Expenses:Insurance:Auto            $193.79
     Liabilities:Costco Visa
- 
+
+2018/08/14 McDonald's
+    Expenses:Food:Lunch:Eric             $1.79
+    Expenses:Sales Tax                   $0.14
+    Assets:Cash
+
+2018/08/14 Winco Foods
+    Expenses:Household:School            $0.48
+    Expenses:Sales Tax                   $0.04
+    Assets:Cash
+
+2018/08/14 Target
+    Expenses:Household:School            $1.78
+    Expenses:Sales Tax                   $0.14
+    Assets:Cash
+
 2018/08/16 HSA Withdrawal for Orthodontist
     Assets:G1 Checking                $4274.96
     Assets:HSA:Tri-Ad
