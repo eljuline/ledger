@@ -8996,13 +8996,13 @@
     Assets:Cash
 
 2018/08/11 Target
-    Expenses:Food:Groceries             $10.00
-    Expenses:Drugstore                  $15.00
-    Expenses:Household:School           $15.00
-    Expenses:Presents:Other             $10.00
+    Expenses:Food:Groceries              $4.64
+    Expenses:Drugstore                  ($56.01-$4.64-$15.96-$3.99)
+    Expenses:Presents:Other             $15.96
+    Expenses:Pets                        $3.99
     Expenses:Discounts:Bag              -$0.10
-    Expenses:Discounts:Red Card         -$3.00
-    Expenses:Sales Tax                   $4.00
+    Expenses:Discounts:Red Card         -$2.80
+    Expenses:Sales Tax                   $3.77
     Assets:WF Checking
 
 2018/08/12 BJ Cinnamon
@@ -9049,6 +9049,11 @@
     Expenses:Gas:Volvo                  $39.41
     Liabilities:Costco Visa
 
+2018/08/13 Ulta
+    Expenses:Drugstore                  -$4.88
+    Expenses:Sales Tax                  -$0.38
+    Liabilities:Citibank MC
+
 2018/08/14 Geico
     Expenses:Insurance:Auto            $193.79
     Liabilities:Costco Visa
@@ -9068,12 +9073,21 @@
     Expenses:Sales Tax                   $0.14
     Assets:Cash
 
-2018/08/16 HSA Withdrawal for Orthodontist
+2018/08/15 McDonald's
+    Expenses:Food:Lunch:Eric             $3.68
+    Expenses:Sales Tax                   $0.28
+    Assets:Cash
+
+2018/08/15 Trader Joe's
+    Expenses:Food:Groceries             $26.67
+    Liabilities:Costco Visa
+
+2018/08/18 HSA Withdrawal for Orthodontist
     Assets:G1 Checking                $4274.96
     Assets:HSA:Tri-Ad
 
-2018/08/16 Adjustment
-    Assets:Cash                      = $207.00
+2018/08/18 Adjustment
+    Assets:Cash                      = $176.00
     Equity:Adjustments
 
 
