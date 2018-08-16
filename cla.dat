@@ -8952,6 +8952,8 @@
 2018/08/10 Smashburger
     Expenses:Food:Dinner                $51.54
     Expenses:Sales Tax                   $3.99
+    Expenses:Food:Tips                   $5.00
+    Assets:Cash                         -$5.00
     Liabilities:Costco Visa
 
 2018/08/10 Costco Gas
@@ -8971,7 +8973,7 @@
     Assets:WF Checking
 
 2018/08/11 Steiner Road Wine Tasting
-    Expenses:Entertainment:Wine Tasting   $40.00
+    Expenses:Entertainment:Wine Tasting   $50.00
     Assets:Cash
 
 2018/08/11 Iron Hub Winery
@@ -8986,7 +8988,7 @@
     Liabilities:Citibank MC
 
 2018/08/11 Deli
-    Expenses:Food:Snacks                 $1.00
+    Expenses:Food:Snacks                 $4.85
     Expenses:Food:Dessert                $9.00
     Assets:Cash
 
