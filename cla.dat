@@ -4166,7 +4166,7 @@
     Expenses:Presents                   $10.00
     Assets:Cash
 
-2018/02/17 Kentucky Fried Chicken
+2018/02/17 KFC
     Expenses:Food:Dinner                $11.94
     Assets:Cash
 
@@ -7267,7 +7267,7 @@
     Expenses:Clothing:Angela            $90.24
     Liabilities:Amex Blue
 
-2018/06/13 Kentucky Fried Chicken
+2018/06/13 KFC
     Expenses:Food:Dinner                $16.16
     Assets:Cash
 
@@ -8110,10 +8110,6 @@
     Assets:MSEFCU Checking             $620.67
     Income:Salary:FCUSD
 
-2018/07/10 HSA Fee
-    Expenses:Fees                        $1.75
-    Assets:HSA:Connect Your Care
-
 2018/07/11 SMUD
     Expenses:Utilities                  $82.31
     Assets:WF Checking
@@ -8147,6 +8143,10 @@
     Expenses:Presents:Us                $51.21
     Expenses:Sales Tax                   $4.82
     Liabilities:Costco Visa
+
+2018/07/12 HSA Fee
+    Expenses:Fees                        $1.75
+    Assets:HSA:Connect Your Care
 
 2018/07/13 Payday
     Assets:WF Checking                $2985.95
@@ -8694,6 +8694,10 @@
     Expenses:Sales Tax                   $3.32
     Liabilities:Costco Visa
 
+2018/08/02 HSA Interest Payment
+    Assets:HSA:Connect Your Care         $0.08
+    Income:Interest
+
 2018/08/03 JoAnn Fabrics
     Expenses:Presents:Other             $31.24
     Expenses:Sales Tax                 ($1.87+$0.39+$0.16)
@@ -8715,6 +8719,10 @@
 2018/08/03 Hawkins
     Expenses:Activities:Dance          $303.00
     Liabilities:Citibank MC
+
+2018/08/03 Costco Visa Interest Penalty
+    Expenses:Finance Charge             $23.11
+    Liabilities:Costco Visa
 
 2018/08/04 Safeway
     Expenses:Food:Groceries             $15.76
@@ -8809,7 +8817,8 @@
     Liabilities:Amex Blue
 
 2018/08/06 Taco Bell
-    Expenses:Food:Lunch:Eric             $5.39
+    Expenses:Food:Lunch:Eric             $5.00
+    Expenses:Sales Tax                   $0.39
     Assets:Cash
 
 2018/08/06 Raley's
@@ -8940,6 +8949,11 @@
     Expenses:Insurance:College         $184.00
     Liabilities:Citibank MC
 
+2018/08/09 Amazon
+    Expenses:Clothing:Lydia             $48.97
+    Expenses:Sales Tax                   $3.80
+    Liabilities:Amex Blue
+
 2018/08/10 Payday
     Assets:WF Checking                $2985.95
     Income:Salary:Centene
@@ -8978,7 +8992,7 @@
 
 2018/08/11 Iron Hub Winery
     Expenses:Food:Wine                  $28.00
-    Expenses:Sales Tax                   $1.23
+    Expenses:Sales Tax                   $2.17
     Liabilities:Citibank MC
 
 2018/08/11 Deaver Vineyards
@@ -9038,9 +9052,9 @@
     Expenses:Sales Tax                   $1.89
     Assets:WF Checking
 
-2018/08/13 Safeway
-    Expenses:Food:Groceries             $32.46
-    Liabilities:Costco Visa
+2018/08/13 Parking Fee
+    Expenses:Travel:Parking              $5.00
+    Liabilities:Citibank MC
 
 2018/08/13 Petsmart
     Expenses:Pets                       $25.98
@@ -9051,10 +9065,18 @@
     Expenses:Gas:Volvo                  $39.41
     Liabilities:Costco Visa
 
+2018/08/13 Safeway
+    Expenses:Food:Groceries             $32.46
+    Liabilities:Costco Visa
+
 2018/08/13 Ulta
     Expenses:Drugstore                  -$4.88
     Expenses:Sales Tax                  -$0.38
-    Liabilities:Citibank MC
+    Liabilities:Costco Visa
+
+2018/08/13 HSA Fee
+    Expenses:Fees                        $1.75
+    Assets:HSA:Connect Your Care
 
 2018/08/14 Geico
     Expenses:Insurance:Auto            $193.79
@@ -9084,15 +9106,94 @@
     Expenses:Food:Groceries             $26.67
     Liabilities:Costco Visa
 
-2018/08/18 HSA Withdrawal for Orthodontist
+2018/08/16 Taco Bell
+    Expenses:Food:Lunch:Eric             $5.00
+    Expenses:Sales Tax                   $0.39
+    Assets:Cash
+
+2018/08/16 Whole Foods
+    Expenses:Food:Groceries             $10.09
+    Liabilities:Citibank MC
+
+2018/08/16 Back Wine Bar
+    Expenses:Food:Dinner:Angela         $32.00
+    Expenses:Tips:Food                   $5.00
+    Assets:Cash
+
+2018/08/16 Sling TV
+    Expenses:Entertainment:TV           $54.98
+    Liabilities:Amex Blue
+
+2018/08/17 McDonald's
+    Expenses:Food:Lunch:Eric             $2.79
+    Expenses:Sales Tax                   $0.22
+    Assets:Cash
+
+2018/08/17 Amazon
+    Expenses:Drugstore                  $22.60
+    Liabilities:Amex Blue
+
+2018/08/17 Amazon
+    Expenses:Household                  $12.90
+    Liabilities:Amex Blue
+
+2018/08/17 Starbucks
+    Expenses:Food:Snacks                 $8.28
+    Liabilities:Citibank MC
+
+2018/08/17 KFC
+    Expenses:Food:Dinner                $20.00
+    Expenses:Sales Tax                   $1.55
+    Liabilities:Costco Visa
+
+2018/08/17 Adjustment
+    Assets:Cash                       = $62.85
+    Equity:Adjustments
+
+2018/08/18 First Street Grill
+    Expenses:Food:Breakfast:Angela      $20.00
+    Expenses:Tips:Food                   $5.00
+    Assets:Cash
+
+2018/08/18 Chevron
+    Expenses:Gas:Prius                  $23.71
+    Liabilities:Citibank MC
+
+2018/08/18 Folsom Library
+    Expenses:Fines                       $0.15
+    Assets:Cash
+
+2018/08/18 Raley's
+    Expenses:Food:Groceries             $46.08
+    Liabilities:Citibank MC
+
+2018/08/19 Ultra Mobile
+    Expenses:Communications:Cellular    $30.44
+    Liabilities:Amex Blue
+
+2018/08/19 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $6.00
+    Assets:Cash
+
+2018/08/19 Pro Winds
+    Expenses:Activities:Saxophone      $142.00
+    Liabilities:Citibank MC
+
+2018/08/19 Macy's Credit Card Payment
+    Liabilities:Macy's                  $44.24
+    Assets:WF Checking
+
+2018/08/19 City of Folsom
+    Expenses:Utilities                 $111.46
+    Liabilities:Amex Blue
+
+2018/08/19 HSA Withdrawal for Orthodontist
     Assets:G1 Checking                $4274.96
     Assets:HSA:Tri-Ad
 
-2018/08/18 Adjustment
-    Assets:Cash                      = $176.00
-    Equity:Adjustments
-
-
+2018/08/21 HSA Withdrawal for Orthodontist
+    Assets:WF Checking                $1065.04
+    Assets:HSA:Connect Your Care
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
