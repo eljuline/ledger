@@ -9138,7 +9138,7 @@
     Liabilities:Amex Blue
 
 2018/08/17 Starbucks
-    Expenses:Food:Snacks                 $8.28
+    Expenses:Presents:Other              $8.28
     Liabilities:Citibank MC
 
 2018/08/17 KFC
@@ -9190,6 +9190,48 @@
 2018/08/19 HSA Withdrawal for Orthodontist
     Assets:G1 Checking                $4274.96
     Assets:HSA:Tri-Ad
+
+2018/08/19 Target
+    Expenses:Household:Indoors          ($2.99+$2.79)
+    Expenses:Clothing:Eric              $14.99
+    Expenses:Clothing:Lydia             ($17.99+$15.00+$9.00)
+    Expenses:Clothing:Anna              $15.00
+    Expenses:Food:Groceries             ($2.50+$1.19+$1.30+$3.49+$3.49)
+    Expenses:Presents:Family            ($14.99+$3.99+$3.99)
+    Expenses:Drugstore                   $9.99
+    Expenses:Presents:Other             ($14.99+$9.99+$5.99)
+    Expenses:Discounts:Bag              -$0.10
+    Expenses:Discounts:Red Card         -$7.68
+    Expenses:Sales Tax                  $10.52 
+    Assets:WF Checking
+
+2018/08/19 Target Return
+    Expenses:Presents:Family           -$15.00
+    Expenses:Discounts:Red Card          $0.75
+    Expenses:Sales Tax                  -$1.10
+    Assets:WF Checking
+
+2018/08/19 Target
+    Expenses:Presents:Family             $9.49
+    Expenses:Sales Tax                   $0.74
+    Assets:WF Checking
+
+2018/08/19 Cash from Anna for Michelle's Gift
+    Assets:Cash                         $30.00
+    Expenses:Presents:Other            -$30.00
+
+2018/08/19 Cash from Lydia for Blouse
+    Assets:Cash                         $18.00
+    Expenses:Clothing:Lydia
+
+2018/08/19 Winco Foods
+    Expenses:Food:Groceries             $64.95
+    Expenses:Sales Tax                   $1.56
+    Assets:WF Checking
+
+2018/08/20 Folsom High School - French Workbook
+    Expenses:Household:School           $10.00
+    Assets:Cash
 
 2018/08/21 HSA Withdrawal for Orthodontist
     Assets:WF Checking                $1065.04
