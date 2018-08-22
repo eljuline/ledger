@@ -9191,6 +9191,10 @@
     Assets:G1 Checking                $4274.96
     Assets:HSA:Tri-Ad
 
+2018/08/19 Fabletics
+    Expenses:Clothing:Angela            $20.53
+    Liabilities:Costco Visa
+
 2018/08/19 Target
     Expenses:Household:Indoors          ($2.99+$2.79)
     Expenses:Clothing:Eric              $14.99
@@ -9233,7 +9237,25 @@
     Expenses:Household:School           $10.00
     Assets:Cash
 
-2018/08/21 HSA Withdrawal for Orthodontist
+2018/08/20 McDonald's
+    Expenses:Food:Lunch:Eric             $1.79
+    Expenses:Sales Tax                   $0.14
+    Assets:Cash
+
+2018/08/20 Safeway
+    Expenses:Food:Groceries             $30.08
+    Liabilities:Citibank MC
+
+2018/08/20 USPS
+    Expenses:Postage                    $16.05
+    Assets:Cash
+
+2018/08/21 Taco Bell
+    Expenses:Food:Lunch:Eric             $5.00
+    Expenses:Sales Tax                   $0.39
+    Assets:Cash
+
+2018/08/23 HSA Withdrawal for Orthodontist
     Assets:WF Checking                $1065.04
     Assets:HSA:Connect Your Care
 
