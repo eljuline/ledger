@@ -2743,7 +2743,7 @@
     Expenses:Food:Groceries             $32.27
     Liabilities:Citibank MC
 
-2017/12/26 Mountain Mike's
+2017/12/26 Mountain Mike's Pizza
     Expenses:Food:Dinner                $37.74
     Liabilities:Citibank MC
 
@@ -9254,6 +9254,11 @@
     Expenses:Food:Lunch:Eric             $5.00
     Expenses:Sales Tax                   $0.39
     Assets:Cash
+
+2018/08/21 Mountain Mike's Pizza
+    Expenses:Food:Dinner                $24.55
+    Expenses:Tips:Food                   $2.00
+    Liabilities:Alaska Visa
 
 2018/08/23 HSA Withdrawal for Orthodontist
     Assets:WF Checking                $1065.04
