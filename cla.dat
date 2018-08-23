@@ -9260,9 +9260,27 @@
     Expenses:Tips:Food                   $2.00
     Liabilities:Alaska Visa
 
-2018/08/23 HSA Withdrawal for Orthodontist
+2018/08/22 HSA Withdrawal for Orthodontist
     Assets:WF Checking                $1065.04
     Assets:HSA:Connect Your Care
+
+2018/08/22 Raley's
+    Expenses:Food:Groceries             $23.41
+    Liabilities:Citibank MC
+
+2018/08/22 McDonald's
+    Expenses:Food:Dessert                $7.96
+    Expenses:Sales:Tax                   $0.62
+    Liabilities:Alaska Visa
+
+2018/08/22 Lowe's
+    Expenses:Household:Outdoors         $25.97
+    Expenses:Sales Tax                   $2.01
+    Liabilities:Alaska Visa
+
+2018/08/22 Costco Gas
+    Expenses:Gas:Prius                  $25.36
+    Liabilities:Costco Visa
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
