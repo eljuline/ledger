@@ -9282,6 +9282,14 @@
     Expenses:Gas:Prius                  $25.36
     Liabilities:Costco Visa
 
+2018/08/23 Rewards Statement Credit
+    Liabilities:Amex Blue               $69.48
+    Income:Credit Card Rewards:Amex Blue
+
+2018/08/23 Credit Card Payment
+    Liabilities:Amex Blue              $1043.89
+    Assets:WF Checking
+
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
 ; not yet posted
