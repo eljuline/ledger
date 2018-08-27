@@ -9407,6 +9407,14 @@
     Assets:Cash                      = $196.07
     Equity:Adjustments
 
+2018/08/26 Tabula Tua
+    Expenses:Presents:Other              $25.00
+    Liabilities:Amex Blue
+
+2018/08/26 Matter of Taste
+    Expenses:Presents:Other              $52.80
+    Assets:WF Checking
+
 2018/08/26 Winco Foods
     Expenses:Food:Groceries          ($84.11-$15.78+$1.80)
     Expenses:Sales Tax                    $1.46
@@ -9426,7 +9434,7 @@
     Assets:College:Parents          -$11079.00
     Assets:WF Checking
 
-2018/09/01 Credit Card Autopay
+2018/09/06 Credit Card Autopay
     Liabilities:Costco Visa             $25.00
     Assets:WF Checking
 
