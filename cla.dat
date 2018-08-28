@@ -9408,21 +9408,47 @@
     Equity:Adjustments
 
 2018/08/26 Tabula Tua
-    Expenses:Presents:Other              $25.00
+    Expenses:Presents:Other             $25.00
     Liabilities:Amex Blue
 
 2018/08/26 Matter of Taste
-    Expenses:Presents:Other              $52.80
+    Expenses:Presents:Other             $52.80
     Assets:WF Checking
 
 2018/08/26 Winco Foods
     Expenses:Food:Groceries          ($84.11-$15.78+$1.80)
-    Expenses:Sales Tax                    $1.46
-    Assets:Cash                          $13.98
+    Expenses:Sales Tax                   $1.46
+    Assets:Cash                         $13.98
     Assets:WF Checking
 
+2018/08/27 Donation - Homeless
+    Expenses:Donations:Non-Deductible   $3.00
+    Assets:Cash
+
+2018/08/27 Wendy's
+    Expenses:Food:Lunch:Eric             $4.00
+    Expenses:Food:Dessert:Eric           $0.50
+    Expenses:Sales Tax                   $0.37
+    Assets:Cash
+
+2018/08/27 Trader Joe's
+    Expenses:Food:Groceries             $22.59
+    Assets:Cash
+
+2018/08/27 iTunes
+    Expenses:Entertainment:Books         $5.99
+    Liabilities:Costco Visa
+
+2018/08/27 Hawkins
+    Expenses:Activities:Dance           $50.00
+    Liabilities:Citibank MC
+
+2018/08/28 AAA Insurance
+    Expenses:Insurance:Home            $107.91
+    Liabilities:Citibank MC
+
 2018/08/30 Credit Card Payment
-    Liabilities:Costco Visa            $1052.07
+    Liabilities:Costco Visa           $1058.06
     Assets:WF Checking
 
 2018/08/31 UCSB BARC
