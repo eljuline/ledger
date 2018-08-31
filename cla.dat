@@ -9443,12 +9443,69 @@
     Expenses:Activities:Dance           $50.00
     Liabilities:Citibank MC
 
+2018/08/27 Out of Bounds
+    Expenses:Food:Snacks:Angela         $15.35
+    Assets:Cash
+
+2018/08/28 World Language Studies
+    Expenses:Household:School            $5.00
+    Assets:Cash
+
 2018/08/28 AAA Insurance
     Expenses:Insurance:Home            $107.91
     Liabilities:Citibank MC
 
+2018/08/28 Taco Bell
+    Expenses:Food:Lunch:Eric             $6.00
+    Expenses:Sales Tax                   $0.47
+    Assets:Cash
+
+2018/08/28 Skipolini's Pizza
+    Expenses:Food:Dinner:Angela         $19.30
+    Liabilities:Amex Blue
+
+2018/08/28 Skipolini's Pizza
+    Expenses:Tips:Food                  $12.00
+    Assets:Cash
+
+2018/08/28 Target
+    Expenses:Food:Groceries              $2.99
+    Expenses:Sales Tax                   $0.10
+    Assets:Cash
+
+2018/08/29 Trader Joe's
+    Expenses:Food:Groceries             $13.46
+    Liabilities:Costco Visa
+
+2018/08/29 Amazon
+    Expenses:Presents:Family            ($42.56-$4.86)
+    Expenses:Sales Tax                   $4.86
+    Liabilities:Amex Blue
+
+2018/08/29 Amazon
+    Expenses:Communications:Cellular     $8.99
+    Liabilities:Amex Blue
+
+2018/08/30 McDonald's
+    Expenses:Food:Lunch:Eric             $2.00
+    Expenses:Sales:Tax                   $0.16
+    Assets:Cash
+
+2018/08/30 AM/PM
+    Expenses:Food:Lunch:Eric             $0.99
+    Expenses:Sales:Tax                   $0.08
+    Assets:Cash
+
+2018/08/30 Folsom Dermatology
+    Expenses:Medical:Lydia              $85.00
+    Assets:HSA:Connect Your Care
+
+2018/08/30 Wendy's
+    Expenses:Food:Dessert                $2.16
+    Assets:Cash
+
 2018/08/30 Credit Card Payment
-    Liabilities:Costco Visa           $1058.06
+    Liabilities:Costco Visa           $1046.52
     Assets:WF Checking
 
 2018/08/31 UCSB BARC
@@ -9460,7 +9517,9 @@
     Assets:College:Parents          -$11079.00
     Assets:WF Checking
 
-2018/09/06 Credit Card Autopay
+
+
+2018/09/01 Credit Card Autopay
     Liabilities:Costco Visa             $25.00
     Assets:WF Checking
 
