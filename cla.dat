@@ -8469,10 +8469,6 @@
     Assets:WF Checking                   $0.02
     Income:Interest:WF Checking
 
-2018/07/27 Interest Payment
-    Assets:WF Savings                    $0.01
-    Income:Interest:WF Savings
-
 2018/07/27 Payday
     Assets:WF Checking                $2985.96
     Income:Salary:Centene
@@ -8588,7 +8584,7 @@
     Expenses:Food:Dinner                $26.40
     Liabilities:Costco Visa
 
-2018/07/31 Purple Place
+2018/07/31 The Purple Place
     Expenses:Food:Breakfast:Angela      $37.50
     Expenses:Tips:Food                   $8.00
     Assets:Cash
@@ -9447,6 +9443,14 @@
     Expenses:Food:Snacks:Angela         $15.35
     Assets:Cash
 
+2018/08/27 Interest Payment
+    Assets:WF Checking                   $0.03
+    Income:Interest:WF Checking
+
+2018/08/27 Interest Payment
+    Assets:WF Savings                    $0.01
+    Income:Interest:WF Savings
+
 2018/08/28 World Language Studies
     Expenses:Household:School            $5.00
     Assets:Cash
@@ -9501,7 +9505,8 @@
     Assets:HSA:Connect Your Care
 
 2018/08/30 Wendy's
-    Expenses:Food:Dessert                $2.16
+    Expenses:Food:Dessert                $2.00
+    Expenses:Sales Tax                   $0.16
     Assets:Cash
 
 2018/08/30 Credit Card Payment
@@ -9517,10 +9522,178 @@
     Assets:College:Parents          -$11079.00
     Assets:WF Checking
 
+2018/08/31 Chevron
+    Expenses:Gas:Prius                  $30.70
+    Liabilities:Costco Visa
 
+2018/08/31 Walgreen's
+    Expenses:Presents:Other              $2.59
+    Expenses:Sales Tax                   $0.20
+    Assets:Cash
+
+2018/08/31 REI
+    Expenses:Presents:Family            $16.44
+    Liabilities:Costco Visa
+
+2018/08/31 Target
+    Expenses:Household:Indoors          $10.37
+    Expenses:Food:Groceries             $16.58
+    Expenses:Discounts:Red Card         -$1.34
+    Expenses:Sales Tax                   $0.76 
+    Assets:WF Checking
+
+2018/08/31 Payday
+    Assets:MSEFCU Checking            $1182.95
+    Income:Salary:FCUSD
+
+2018/08/31 Transfer
+    Assets:MSEFCU Savings              $767.95
+    Assets:MSEFCU Checking
+
+2018/08/31 Social Committee Williamson
+    Expenses:Household:School           $30.00
+    Assets:Cash
 
 2018/09/01 Credit Card Autopay
     Liabilities:Costco Visa             $25.00
+    Assets:WF Checking
+
+2018/09/01 American Eagle
+    Expenses:Presents:Family            $41.96
+    Liabilities:Citibank MC
+
+2018/09/01 Kelly Moore
+    Expenses:Household:Indoors           $5.35
+    Expenses:Sales Tax                   $0.42
+    Liabilities:Alaska Visa
+
+2018/09/01 Lowe's
+    Expenses:Household:Indoors          $58.94
+    Expenses:Sales Tax                   $4.57
+    Liabilities:Alaska Visa
+
+2018/09/01 Sourdough & Company
+    Expenses:Food:Lunch                 $18.93
+    Expenses:Sales Tax                   $1.47
+    Liabilities:Alaska Visa
+
+2018/09/01 City of Sacramento Parking
+    Expenses:Travel:Parking              $7.00
+    Liabilities:Citibank MC
+
+2018/09/01 Wendy's
+    Expenses:Food:Dessert:Eric           $0.50
+    Expenses:Sales Tax                   $0.04
+    Assets:Cash
+
+2018/09/01 Rio City Cafe
+    Expenses:Food:Lunch                 $58.50
+    Expenses:Sales Tax                   $4.83
+    Expenses:Tips:Food                  $12.00
+    Liabilities:Amex Blue
+
+2018/09/01 Costco Gas
+    Expenses:Gas:Volvo                  $39.25
+    Liabilities:Costco Visa
+
+2018/09/01 Lowe's
+    Expenses:Household:Indoors          $48.62
+    Expenses:Sales Tax                   $3.77
+    Liabilities:Alaska Visa
+
+2018/09/01 Lowe's
+    Expenses:Household:Indoors          -$2.38
+    Expenses:Sales Tax                  -$0.18
+    Liabilities:Alaska Visa
+
+2018/09/01 Lowe's
+    Expenses:Household:Indoors           $1.44
+    Expenses:Sales Tax                   $0.11
+    Assets:Cash
+
+2018/09/01 Cafeteria 15L
+    Expenses:Food:Dinner:Anna           $50.28
+    Liabilities:Citibank MC
+
+2018/09/02 Netflix
+    Expenses:Entertainment:Netflix       $8.61
+    Liabilities:Costco Visa
+
+2018/09/02 Baker's Dozen Donuts
+    Expenses:Food:Breakfast              $4.85
+    Assets:Cash
+
+2018/09/02 Negro Bar State Park
+    Expenses:Entertainment:Parks        $10.00
+    Assets:Cash
+
+2018/09/02 Adventure Sports Rental
+    Expenses:Entertainment:Paddleboarding   $64.64
+    Liabilities:Citibank MC
+
+2018/09/02 Sutter Street Taqueria
+    Expenses:Food:Dinner:Anna           $32.33
+    Liabilities:Citibank MC
+
+2018/09/02 Back Wine Bar
+    Expenses:Food:Drinks:Angela          $6.50
+    Expenses:Tips:Food                   $3.50
+    Assets:Cash
+
+2018/09/02 Whole Foods
+    Expenses:Food:Groceries             $50.53
+    Liabilities:Citibank MC
+
+2018/09/02 Farm Fresh to You
+    Expenses:Food:Groceries             $29.67
+    Liabilities:Costco Visa
+
+2018/09/02 Kimpton Sawyer Hotel Sacramento
+    Expenses:Travel:Hotel:Anna         $256.58
+    Liabilities:Citibank MC
+
+2018/09/02 Wendy's
+    Expenses:Food:Dessert                $2.00
+    Expenses:Sales Tax                   $0.16
+    Assets:Cash
+
+2018/09/03 Stitch Fix
+    Expenses:Clothing:Angela            $20.00
+    Liabilities:Costco Visa
+
+2018/09/03 The Purple Place
+    Expenses:Food:Breakfast             $74.17
+    Expenses:Sales Tax                   $5.38
+    Expenses:Tips:Food                  $16.00
+    Liabilities:Alaska Visa
+
+2018/09/03 Safeway
+    Expenses:Food:Groceries              $8.26
+    Assets:Cash
+
+2018/09/03 Jack's Urban Eats
+    Expenses:Food:Lunch:Anna            $26.40
+    Liabilities:Citibank MC
+
+2018/09/03 Cost Plus World Market
+    Expenses:Household:Indoors           $9.11
+    Expenses:Household:School            $8.41
+    Expenses:Presents:Other          ($2.80+$7.01+$1.05+$4.90+$4.90+$4.90+$4.21)
+    Expenses:Sales Tax                   $3.58
+    Liabilities:Costco Visa
+
+2018/09/03 Whips
+    Expenses:Food:Dessert:Anna           $9.70
+    Assets:Cash
+
+2018/09/03 Firestone Public House
+    Expenses:Food:Dinner               $215.85
+    Expenses:Tips:Food                  $42.00
+    Liabilities:Costco Visa
+
+2018/09/04 Winco Foods
+    Expenses:Food:Groceries             $59.25
+    Expenses:Sales Tax                   $0.78
     Assets:WF Checking
 
 2018/09/05 Chase Mortgage
