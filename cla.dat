@@ -2751,14 +2751,6 @@
     Expenses:Entertainment:Anna        $120.00
     Liabilities:Citibank MC
 
-2017/12/26 Presents
-    Assets:Gift Cards:iTunes            $25.00
-    Income:Gift
-
-2017/12/26 Presents
-    Assets:Gift Cards:Jamba Juice       $25.00
-    Income:Gift
-
 2017/12/27 Not Too Shabby
     Expenses:Household                   $3.50
     Expenses:Presents                   $18.44
@@ -3028,10 +3020,6 @@
 2018/01/04 See's Candy
     Expenses:Food:Candy                 $16.81
     Liabilities:Costco Visa
-
-2018/01/04 DSW
-    Assets:Gift Cards:DSW               $96.96
-    Expenses:Presents
 
 2018/01/04 Powerball
     Expenses:Gambling                    $2.00
@@ -6056,7 +6044,6 @@
 
 2018/05/02 Coaching Gift
     Assets:Cash                         $25.00
-    Assets:Gift Cards:Palladio          $50.00
     Assets:Gift Cards:Amazon            $25.00
     Income:Gift
 
@@ -6210,7 +6197,9 @@
     Assets:Cash
 
 2018/05/07 Amazon
-    Expenses:Presents                   $28.49
+    Expenses:Presents                   $28.46
+    Expenses:Sales Tax                   $0.78
+    Assets:Gift Cards:Amazon            -$0.75
     Liabilities:Amex Blue
 
 2018/05/07 CA School Library Association
@@ -6985,14 +6974,14 @@
 
 2018/06/04 Target
     Expenses:Drugstore                  $21.43
-    Expenses:Clothing:Angela             $8.00
-    Expenses:Clothing:Anna               $8.00
+    Expenses:Clothing:Angela             $7.80
+    Expenses:Clothing:Anna               $7.80
     Expenses:Clothing:Lydia             $16.00
     Expenses:Food:Groceries              $3.46
     Expenses:Discounts:Bag              -$0.10
     Expenses:Sales Tax                   $3.93
     Expenses:Discounts:Red Card         -$2.84
-    Assets:Gift Cards:Target            -$0.70
+    Assets:Gift Cards:Target            -$0.30
     Assets:WF Checking
 
 2018/06/04 Walgreen's
@@ -7446,7 +7435,7 @@
     Liabilities:Amex Blue
 
 2018/06/18 Amazon
-    Expenses:Household:School.          $13.76
+    Expenses:Household:School           $13.76
     Liabilities:Amex Blue
 
 2018/06/18 Round Table
@@ -9403,9 +9392,9 @@
     Assets:Cash                      = $196.07
     Equity:Adjustments
 
-2018/08/26 Tabula Tua
-    Expenses:Presents:Other             $25.00
-    Liabilities:Amex Blue
+;2018/08/26 Tabula Tua
+;    Expenses:Presents:Other             $25.00
+;    Liabilities:Amex Blue
 
 2018/08/26 Matter of Taste
     Expenses:Presents:Other             $52.80
@@ -9476,6 +9465,10 @@
     Expenses:Food:Groceries              $2.99
     Expenses:Sales Tax                   $0.10
     Assets:Cash
+
+2018/08/28 Amazon
+    Expenses:Presents:Family            $15.87
+    Liabilities:Amex Blue
 
 2018/08/29 Trader Joe's
     Expenses:Food:Groceries             $13.46
@@ -9589,7 +9582,7 @@
 2018/09/01 Rio City Cafe
     Expenses:Food:Lunch                 $58.50
     Expenses:Sales Tax                   $4.83
-    Expenses:Tips:Food                  $12.00
+    Expenses:Tips:Food                  $13.00
     Liabilities:Amex Blue
 
 2018/09/01 Costco Gas
@@ -9649,6 +9642,10 @@
     Liabilities:Costco Visa
 
 2018/09/02 Kimpton Sawyer Hotel Sacramento
+    Expenses:Entertainment:Movies        $9.99
+    Liabilities:Citibank MC
+
+2018/09/02 Kimpton Sawyer Hotel Sacramento
     Expenses:Travel:Hotel:Anna         $256.58
     Liabilities:Citibank MC
 
@@ -9657,9 +9654,21 @@
     Expenses:Sales Tax                   $0.16
     Assets:Cash
 
+2018/09/02 The UPS Store
+    Expenses:Postage                    $22.51
+    Liabilities:Alaska Visa
+
+2018/09/02 Verizon Wireless
+    Expenses:Communications:Cellular   $107.74
+    Liabilities:Amex Blue
+
 2018/09/03 Stitch Fix
     Expenses:Clothing:Angela            $20.00
     Liabilities:Costco Visa
+
+2018/09/03 Crate & Barrel
+    Expenses:Presents:Other             $26.76
+    Liabilities:Alaska Visa
 
 2018/09/03 The Purple Place
     Expenses:Food:Breakfast             $74.17
@@ -9696,9 +9705,180 @@
     Expenses:Sales Tax                   $0.78
     Assets:WF Checking
 
+2018/09/04 AM/PM
+    Expenses:Food:Lunch:Eric             $2.88
+    Expenses:Sales:Tax                   $0.22
+    Assets:Cash
+
+2018/09/04 Hawkins
+    Expenses:Activities:Dance          $303.00
+    Liabilities:Citibank MC
+
 2018/09/05 Chase Mortgage
     Expenses:House                    $1600.00
     Assets:WF Checking
+
+2018/09/05 Chewy.com
+    Expenses:Pets                       $61.90
+    Liabilities:Alaska Visa
+
+2018/09/05 Wendy's
+    Expenses:Food:Lunch:Eric             $4.00
+    Expenses:Food:Dessert:Eric           $0.50
+    Expenses:Sales Tax                   $0.37
+    Assets:Cash
+
+2018/09/05 Trader Joe's
+    Expenses:Food:Groceries             $45.60
+    Expenses:Sales Tax                   $0.23
+    Liabilities:Costco Visa
+
+2018/09/06 Work Vending Machine
+    Expenses:Food:Snacks:Eric            $1.00
+    Assets:Cash
+
+2018/09/06 Paypal to Richard for NFL Pool
+    Expenses:Gambling                   $51.00
+    Assets:WF Checking
+
+2018/09/06 Comcast
+    Expenses:Communications:Internet,Home Phone   $51.29
+    Liabilities:Amex Blue
+
+2018/09/07 Costco Gas
+    Expenses:Gas:Prius                  $25.67
+    Liabilities:Costco Visa
+
+2018/09/07 Payday
+    Assets:WF Checking                $2985.95
+    Income:Salary:Centene
+
+2018/09/07 Deposit
+    Assets:HSA:Connect Your Care      $230.77
+    Income:Benefits:Centene            -$76.92
+    Income:Benefits:Pre-tax Contribution    -$153.85
+
+2018/09/07 McDonald's
+    Expenses:Food:Lunch:Eric             $2.00
+    Expenses:Sales Tax                   $0.16
+    Assets:Cash
+
+2018/09/07 AM/PM
+    Expenses:Food:Lunch:Eric             $0.99
+    Expenses:Sales Tax                   $0.08
+    Assets:Cash
+
+2018/09/08 Costco Gas
+    Expenses:Gas:Volvo                  $25.40
+    Liabilities:Costco Visa
+
+2018/09/08 Credit Card Autopay - Not registering in WF yet
+    Liabilities:Citibank MC             $25.00
+    Assets:WF Checking
+
+2018/09/08 Credit Card Payment
+    Liabilities:Citibank MC           $2792.56
+    Assets:WF Checking
+
+2018/09/08 Credit Card Payment
+    Liabilities:Alaska Visa            $963.37
+    Assets:WF Checking
+
+2018/09/08 PTA Williamson Elementary
+    Expenses:Food:Snacks:Angela          $1.00
+    Expenses:Clothing:Angela             $1.00
+    Expenses:Household:Indoors           $2.00
+    Expenses:Food:Dessert                $5.00
+    Assets:Cash
+
+2018/09/08 Paparazzi - Lanyard
+    Expenses:Clothing:Angela            $11.00
+    Expenses:Presents:Other              $2.00
+    Assets:Cash
+
+2018/09/08 Taco Bell
+    Expenses:Food:Dinner                $15.53
+    Expenses:Sales Tax                   $1.20
+    Liabilities:Amex Blue
+
+2018/09/08 Lowe's
+    Expenses:Household:Indoors         $104.85
+    Expenses:Sales Tax                   $8.13
+    Liabilities:Amex Blue
+
+2018/09/08 OilDrainValve.net
+    Expenses:Automotive:Truck           $27.95
+    Expenses:Postage                     $3.75
+    Assets:WF Checking
+
+2018/09/09 Howard's Donuts
+    Expenses:Food:Breakfast              $6.75
+    Assets:Cash
+
+2018/09/09 Transfer Coinstar money
+    Assets:Coinstar                      $7.72
+    Assets:Cash
+
+2018/09/09 Amazon Credit
+    Assets:Gift Cards:Amazon           $238.57
+    Assets:Coinstar                   -$137.63
+    Income:Gift:Coins
+
+2018/09/09 Transfer to Lydia
+    Expenses:Presents:Family           $238.57
+    Assets:WF Checking
+
+2018/09/09 Withdrawal
+    Assets:Cash                        $100.00
+    Assets:WF Checking
+
+2018/09/09 UCSB Recreation
+    Expenses:College:Activities         $88.00
+    Liabilities:Citibank MC
+
+2018/09/09 Audible
+    Expenses:Entertainment:Books        $14.95
+    Liabilities:Amex Blue
+
+2018/09/09 Lowe's
+    Expenses:Household:Indoors          $65.00
+    Expenses:Sales Tax                   $5.04
+    Liabilities:Amex Blue
+
+2018/09/09 Lowe's
+    Expenses:Household:Indoors          $65.00
+    Expenses:Sales Tax                   $5.04
+    Liabilities:Alaska Visa
+
+2018/09/09 ACE Hardware
+    Expenses:Household:Indoors          ($2.28+$7.00+$4.99)
+    Expenses:Sales Tax                   $1.11
+    Liabilities:Alaska Visa
+
+2018/09/09 Panera Bread
+    Expenses:Food:Dessert                $5.99
+    Expenses:Tips:Food                   $2.00
+    Assets:Cash
+
+2018/09/09 Bombas
+    Expenses:Clothing                   $56.40
+    Liabilities:Amex Blue
+
+2018/09/09 Kathy Copeland
+    Expenses:Activities:Piano          $100.00
+    Assets:MSEFCU Checking
+
+2018/09/09 David Witkowski
+    Expenses:Activities:Saxophone      $110.00
+    Assets:MSEFCU Checking
+
+2018/09/10 Winco Foods
+    Expenses:Food:Groceries             $49.44
+    Assets:WF Checking
+
+2018/09/10 Safeway
+    Expenses:Food:Groceries             $35.15
+    Liabilities:Amex Blue
 
 2018/09/10 SMUD
     Expenses:Utilities                 $175.71
@@ -9707,6 +9887,26 @@
 2018/09/10 PG&E
     Expenses:Utilities                  $18.07
     Assets:WF Checking
+
+2018/09/10 Wendy's
+    Expenses:Food:Lunch:Eric             $4.00
+    Expenses:Food:Dessert:Eric           $0.50
+    Expenses:Sales Tax                   $0.37
+    Assets:Cash
+
+2018/09/10 Petsmart
+    Expenses:Pets                       $14.00
+    Liabilities:Citibank MC
+
+2018/09/10 Costco
+    Expenses:Food:Groceries            ($14.99+$1.50+$26.24)
+    Expenses:Drugstore                  $29.99
+    Expenses:Sales Tax                   $3.60
+    Liabilities:Costco Visa
+
+2018/09/10 Amazon
+    Expenses:College:Misc               $38.95
+    Assets:Gift Cards:Amazon
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   00000.00
 
